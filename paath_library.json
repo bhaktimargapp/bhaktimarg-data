@@ -1,0 +1,37 @@
+[
+  {
+    "id": "hanuman_chalisa",
+    "title": "Shri Hanuman Chalisa & Stavan",
+    "author": "Goswami Tulsidas",
+    "category": "Nitya Paath",
+    "pdfUrl": "https://www.hindutemplealbany.org/wp-content/uploads/2016/08/Sri_Hanuman_Chalisa_Hindi.pdf"
+  },
+  {
+    "id": "gita_hindi",
+    "title": "Bhagavad Gita (Hindi)",
+    "author": "Gita Press, Gorakhpur",
+    "category": "Puranas & Epics",
+    "pdfUrl": "https://sanskritacademy.delhi.gov.in/sites/default/files/2022-09/final_geeta.pdf"
+  },
+  {
+    "id": "chaurasi_pada",
+    "title": "Shri Chaurasi Pada",
+    "author": "Shri Hita Harivansh Mahaprabhu",
+    "category": "Rasik Literature",
+    "pdfUrl": "https://vrindavanrasmahima.com/download/Shri-Hit-Chaurasi.pdf"
+  },
+  {
+    "id": "bhagwat_puran",
+    "title": "Shri Bhagwata Maha Puran",
+    "author": "Gita Press, Gorakhpur",
+    "category": "Puranas & Epics",
+    "pdfUrl": "https://dn720701.ca.archive.org/0/items/srimad-bhagavat-mahapuran-2-volume-set-sanskrit-hindi/Srimad%20Bhagavat%20Mahapuran%20Volume%201%20Sanskrit%20Hindi.pdf"
+  },
+  {
+    "id": "radha_kripa",
+    "title": "Shri Radha Kripa Kataksha Stotra",
+    "author": "Padma Purana (Urjavrata)",
+    "category": "Vrindavan Prayers",
+    "pdfUrl": "https://www.harekrsna.de/Radha-kripa-kataksha.pdf"
+  }
+]
