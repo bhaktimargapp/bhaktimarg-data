@@ -3,7 +3,7 @@ name: Broadcast Daily Darshan
 on:
   push:
     paths:
-      - '*.jpg' # Triggers ONLY when you upload a new image
+      - '*.jpg' # Triggers ONLY when you upload a JPG file from your admin app
 
 jobs:
   send-push:
@@ -12,7 +12,6 @@ jobs:
       - name: Checkout Code
         uses: actions/checkout@v4
 
-      # 1. Authenticate using your new Service Account JSON
       - name: Authenticate to Google Cloud
         id: auth
         uses: google-github-actions/auth@v2
@@ -20,21 +19,27 @@ jobs:
           credentials_json: '${{ secrets.FIREBASE_SERVICE_ACCOUNT_KEY }}'
           token_format: 'access_token'
 
-      # 2. Send the Push Notification via the Modern V1 API
       - name: Send FCM v1 Push Notification
         run: |
-          curl -X POST "https://fcm.googleapis.com/v1/projects/bhakti-marg-app-fb/messages:send" \
+          # Use the latest git commit SHA as the cache buster
+          VERSION_SHA="${{ github.sha }}"
+          PROJECT_ID="bhakti-marg-app-fb"
+          
+          curl -X POST "https://fcm.googleapis.com/v1/projects/$PROJECT_ID/messages:send" \
             -H "Authorization: Bearer ${{ steps.auth.outputs.access_token }}" \
             -H "Content-Type: application/json" \
             -d '{
               "message": {
                 "topic": "all_users",
                 "notification": {
-                  "title": "Bhakti Marg",
-                  "body": "🌸 Today'\''s Divine Darshan is now available. Tap to view."
+                  "title": "Daily Darshan 🌸",
+                  "body": "Today'\''s divine Darshan is now available. Tap to view."
                 },
                 "data": {
-                  "new_darshan_version": "${{ github.sha }}"
+                  "new_darshan_version": "'$VERSION_SHA'"
+                },
+                "android": {
+                  "priority": "high"
                 }
               }
             }'
