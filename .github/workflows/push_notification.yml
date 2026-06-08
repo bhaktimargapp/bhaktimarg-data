@@ -8,6 +8,7 @@ on:
       - '**/*.jpg'
       - '**/*.jpeg'
       - '**/*.png'
+  workflow_dispatch: # THE FIX: This adds a manual "Run" button to GitHub
 
 jobs:
   send-push:
