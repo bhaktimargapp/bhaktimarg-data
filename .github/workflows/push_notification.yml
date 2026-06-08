@@ -23,12 +23,7 @@ jobs:
       # 2. Send the Push Notification via the Modern V1 API
       - name: Send FCM v1 Push Notification
         run: |
-          TIMESTAMP=$(date +%s)
-          
-          # Replace with your EXACT Firebase Project ID if this is slightly off
-          PROJECT_ID="bhakti-marg-app-fb"
-
-          curl -X POST "https://fcm.googleapis.com/v1/projects/$PROJECT_ID/messages:send" \
+          curl -X POST "https://fcm.googleapis.com/v1/projects/bhakti-marg-app-fb/messages:send" \
             -H "Authorization: Bearer ${{ steps.auth.outputs.access_token }}" \
             -H "Content-Type: application/json" \
             -d '{
@@ -39,7 +34,7 @@ jobs:
                   "body": "🌸 Today'\''s Divine Darshan is now available. Tap to view."
                 },
                 "data": {
-                  "new_darshan_timestamp": "'$TIMESTAMP'"
+                  "new_darshan_version": "${{ github.sha }}"
                 }
               }
             }'
