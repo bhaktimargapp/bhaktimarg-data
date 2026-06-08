@@ -3,25 +3,43 @@ name: Broadcast Daily Darshan
 on:
   push:
     paths:
-      - '*.jpg' # Triggers ONLY when you upload a new image from the admin app
+      - '*.jpg' # Triggers ONLY when you upload a new image
 
 jobs:
   send-push:
     runs-on: ubuntu-latest
     steps:
-      - name: Trigger Firebase Cloud Messaging
+      - name: Checkout Code
+        uses: actions/checkout@v4
+
+      # 1. Authenticate using your new Service Account JSON
+      - name: Authenticate to Google Cloud
+        id: auth
+        uses: google-github-actions/auth@v2
+        with:
+          credentials_json: '${{ secrets.FIREBASE_SERVICE_ACCOUNT_KEY }}'
+          token_format: 'access_token'
+
+      # 2. Send the Push Notification via the Modern V1 API
+      - name: Send FCM v1 Push Notification
         run: |
-          # Generate a timestamp to act as the cache buster for jsDelivr
           TIMESTAMP=$(date +%s)
           
-          curl -X POST -H "Authorization: key=${{ secrets.FCM_SERVER_KEY }}" -H "Content-Type: application/json" \
-          -d '{
-            "to": "/topics/all_users",
-            "notification": {
-              "title": "Bhakti Marg",
-              "body": "🌸 Today'\''s Divine Darshan is now available. Tap to view."
-            },
-            "data": {
-              "new_darshan_timestamp": "'$TIMESTAMP'"
-            }
-          }' https://fcm.googleapis.com/fcm/send
+          # Replace with your EXACT Firebase Project ID if this is slightly off
+          PROJECT_ID="bhakti-marg-app-fb"
+
+          curl -X POST "https://fcm.googleapis.com/v1/projects/$PROJECT_ID/messages:send" \
+            -H "Authorization: Bearer ${{ steps.auth.outputs.access_token }}" \
+            -H "Content-Type: application/json" \
+            -d '{
+              "message": {
+                "topic": "all_users",
+                "notification": {
+                  "title": "Bhakti Marg",
+                  "body": "🌸 Today'\''s Divine Darshan is now available. Tap to view."
+                },
+                "data": {
+                  "new_darshan_timestamp": "'$TIMESTAMP'"
+                }
+              }
+            }'
