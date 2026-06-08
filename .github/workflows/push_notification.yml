@@ -1,0 +1,27 @@
+name: Broadcast Daily Darshan
+
+on:
+  push:
+    paths:
+      - '*.jpg' # Triggers ONLY when you upload a new image from the admin app
+
+jobs:
+  send-push:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Trigger Firebase Cloud Messaging
+        run: |
+          # Generate a timestamp to act as the cache buster for jsDelivr
+          TIMESTAMP=$(date +%s)
+          
+          curl -X POST -H "Authorization: key=${{ secrets.FCM_SERVER_KEY }}" -H "Content-Type: application/json" \
+          -d '{
+            "to": "/topics/all_users",
+            "notification": {
+              "title": "Bhakti Marg",
+              "body": "🌸 Today'\''s Divine Darshan is now available. Tap to view."
+            },
+            "data": {
+              "new_darshan_timestamp": "'$TIMESTAMP'"
+            }
+          }' https://fcm.googleapis.com/fcm/send
