@@ -2,8 +2,12 @@ name: Broadcast Daily Darshan
 
 on:
   push:
+    branches:
+      - main
     paths:
-      - '*.jpg'
+      - '**/*.jpg'
+      - '**/*.jpeg'
+      - '**/*.png'
 
 jobs:
   send-push:
@@ -38,7 +42,7 @@ jobs:
                   "new_darshan_version": "'$VERSION_SHA'"
                 },
                 "android": {
-                  "priority": "high"
+                  "priority": "HIGH"
                 }
               }
             }'
