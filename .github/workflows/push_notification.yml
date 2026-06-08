@@ -3,7 +3,7 @@ name: Broadcast Daily Darshan
 on:
   push:
     paths:
-      - '*.jpg' # Triggers ONLY when you upload a JPG file from your admin app
+      - '*.jpg'
 
 jobs:
   send-push:
@@ -21,7 +21,6 @@ jobs:
 
       - name: Send FCM v1 Push Notification
         run: |
-          # Use the latest git commit SHA as the cache buster
           VERSION_SHA="${{ github.sha }}"
           PROJECT_ID="bhakti-marg-app-fb"
           
