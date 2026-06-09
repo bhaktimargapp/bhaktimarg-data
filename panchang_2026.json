@@ -1,0 +1,3115 @@
+{
+  "01/01/2026": {
+    "tithi": "Trayodashi upto 10:22 PM",
+    "paksha": "Shukla Paksha",
+    "maas": "Pausha",
+    "nakshatra": "Rohini upto 10:48 PM",
+    "sunrise": "07:10 AM",
+    "sunset": "05:36 PM",
+    "moonrise": "03:20 PM",
+    "moonset": "05:56 AM, Jan 02",
+    "brahmaMuhurta": "05:21 AM to 06:15 AM",
+    "abhijitMuhurta": "12:02 PM to 12:44 PM",
+    "festivals": [
+      "Rohini Vrat",
+      "Guru Pradosh Vrat"
+    ]
+  },
+  "02/01/2026": {
+    "tithi": "Chaturdashi upto 06:53 PM",
+    "paksha": "Shukla Paksha",
+    "maas": "Pausha",
+    "nakshatra": "Mrigashira upto 08:04 PM",
+    "sunrise": "07:10 AM",
+    "sunset": "05:37 PM",
+    "moonrise": "04:25 PM",
+    "moonset": "07:02 AM, Jan 03",
+    "brahmaMuhurta": "05:21 AM to 06:16 AM",
+    "abhijitMuhurta": "12:02 PM to 12:44 PM",
+    "festivals": []
+  },
+  "03/01/2026": {
+    "tithi": "Purnima upto 03:32 PM",
+    "paksha": "Shukla Paksha",
+    "maas": "Pausha",
+    "nakshatra": "Ardra upto 05:27 PM",
+    "sunrise": "07:10 AM",
+    "sunset": "05:37 PM",
+    "moonrise": "05:35 PM",
+    "moonset": "No Moonset",
+    "brahmaMuhurta": "05:22 AM to 06:16 AM",
+    "abhijitMuhurta": "12:03 PM to 12:45 PM",
+    "festivals": [
+      "Shakambhari Purnima",
+      "Arudra Darshan",
+      "Pausha Purnima Vrat",
+      "Pausha Purnima",
+      "Anvadhan"
+    ]
+  },
+  "04/01/2026": {
+    "tithi": "Pratipada upto 12:29 PM",
+    "paksha": "Krishna Paksha",
+    "maas": "Magha",
+    "nakshatra": "Punarvasu upto 03:11 PM",
+    "sunrise": "07:10 AM",
+    "sunset": "05:38 PM",
+    "moonrise": "06:46 PM",
+    "moonset": "07:59 AM",
+    "brahmaMuhurta": "05:22 AM to 06:16 AM",
+    "abhijitMuhurta": "12:03 PM to 12:45 PM",
+    "festivals": [
+      "Magha Begins *North",
+      "Ishti"
+    ]
+  },
+  "05/01/2026": {
+    "tithi": "Dwitiya upto 09:56 AM",
+    "paksha": "Krishna Paksha",
+    "maas": "Magha",
+    "nakshatra": "Pushya upto 01:25 PM",
+    "sunrise": "07:11 AM",
+    "sunset": "05:39 PM",
+    "moonrise": "07:54 PM",
+    "moonset": "08:47 AM",
+    "brahmaMuhurta": "05:22 AM to 06:16 AM",
+    "abhijitMuhurta": "12:04 PM to 12:46 PM",
+    "festivals": []
+  },
+  "06/01/2026": {
+    "tithi": "Tritiya upto 08:01 AM",
+    "paksha": "Krishna Paksha",
+    "maas": "Magha",
+    "nakshatra": "Ashlesha upto 12:17 PM",
+    "sunrise": "07:11 AM",
+    "sunset": "05:39 PM",
+    "moonrise": "08:58 PM",
+    "moonset": "09:27 AM",
+    "brahmaMuhurta": "05:23 AM to 06:17 AM",
+    "abhijitMuhurta": "12:04 PM to 12:46 PM",
+    "festivals": [
+      "Sakat Chauth",
+      "Lambodara Sankashti"
+    ]
+  },
+  "07/01/2026": {
+    "tithi": "Panchami upto 06:33 AM, Jan 08",
+    "paksha": "Krishna Paksha",
+    "maas": "Magha",
+    "nakshatra": "Magha upto 11:56 AM",
+    "sunrise": "07:11 AM",
+    "sunset": "05:40 PM",
+    "moonrise": "09:58 PM",
+    "moonset": "10:01 AM",
+    "brahmaMuhurta": "05:23 AM to 06:17 AM",
+    "abhijitMuhurta": "None",
+    "festivals": []
+  },
+  "08/01/2026": {
+    "tithi": "Shashthi upto 07:05 AM, Jan 09",
+    "paksha": "Krishna Paksha",
+    "maas": "Magha",
+    "nakshatra": "Purva Phalguni upto 12:24 PM",
+    "sunrise": "07:11 AM",
+    "sunset": "05:41 PM",
+    "moonrise": "10:55 PM",
+    "moonset": "10:32 AM",
+    "brahmaMuhurta": "05:23 AM to 06:17 AM",
+    "abhijitMuhurta": "12:05 PM to 12:47 PM",
+    "festivals": []
+  },
+  "09/01/2026": {
+    "tithi": "Saptami upto Full Night",
+    "paksha": "Krishna Paksha",
+    "maas": "Magha",
+    "nakshatra": "Uttara Phalguni upto 01:40 PM",
+    "sunrise": "07:11 AM",
+    "sunset": "05:42 PM",
+    "moonrise": "11:50 PM",
+    "moonset": "11:01 AM",
+    "brahmaMuhurta": "05:23 AM to 06:17 AM",
+    "abhijitMuhurta": "12:05 PM to 12:47 PM",
+    "festivals": [
+      "Vivekananda Jayanti *Samvat"
+    ]
+  },
+  "10/01/2026": {
+    "tithi": "Saptami upto 08:23 AM",
+    "paksha": "Krishna Paksha",
+    "maas": "Magha",
+    "nakshatra": "Hasta upto 03:40 PM",
+    "sunrise": "07:11 AM",
+    "sunset": "05:42 PM",
+    "moonrise": "12:44 AM, Jan 11",
+    "moonset": "11:30 AM",
+    "brahmaMuhurta": "05:23 AM to 06:17 AM",
+    "abhijitMuhurta": "12:06 PM to 12:48 PM",
+    "festivals": [
+      "Kalashtami",
+      "Masik Krishna Janmashtami"
+    ]
+  },
+  "11/01/2026": {
+    "tithi": "Ashtami upto 10:20 AM",
+    "paksha": "Krishna Paksha",
+    "maas": "Magha",
+    "nakshatra": "Chitra upto 06:12 PM",
+    "sunrise": "07:11 AM",
+    "sunset": "05:43 PM",
+    "moonrise": "01:38 AM, Jan 12",
+    "moonset": "11:59 AM",
+    "brahmaMuhurta": "05:23 AM to 06:17 AM",
+    "abhijitMuhurta": "12:06 PM to 12:48 PM",
+    "festivals": []
+  },
+  "12/01/2026": {
+    "tithi": "Navami upto 12:42 PM",
+    "paksha": "Krishna Paksha",
+    "maas": "Magha",
+    "nakshatra": "Swati upto 09:05 PM",
+    "sunrise": "07:11 AM",
+    "sunset": "05:44 PM",
+    "moonrise": "02:34 AM, Jan 13",
+    "moonset": "12:31 PM",
+    "brahmaMuhurta": "05:23 AM to 06:17 AM",
+    "abhijitMuhurta": "12:07 PM to 12:49 PM",
+    "festivals": []
+  },
+  "13/01/2026": {
+    "tithi": "Dashami upto 03:17 PM",
+    "paksha": "Krishna Paksha",
+    "maas": "Magha",
+    "nakshatra": "Vishakha upto 12:06 AM, Jan 14",
+    "sunrise": "07:11 AM",
+    "sunset": "05:45 PM",
+    "moonrise": "03:30 AM, Jan 14",
+    "moonset": "01:06 PM",
+    "brahmaMuhurta": "05:24 AM to 06:17 AM",
+    "abhijitMuhurta": "12:07 PM to 12:49 PM",
+    "festivals": []
+  },
+  "14/01/2026": {
+    "tithi": "Ekadashi upto 05:52 PM",
+    "paksha": "Krishna Paksha",
+    "maas": "Magha",
+    "nakshatra": "Anuradha upto 03:03 AM, Jan 15",
+    "sunrise": "07:11 AM",
+    "sunset": "05:46 PM",
+    "moonrise": "04:26 AM, Jan 15",
+    "moonset": "01:45 PM",
+    "brahmaMuhurta": "05:24 AM to 06:17 AM",
+    "abhijitMuhurta": "None",
+    "festivals": [
+      "Makara Sankranti",
+      "Pongal",
+      "Uttarayana",
+      "Makaravilakku",
+      "Shattila Ekadashi"
+    ]
+  },
+  "15/01/2026": {
+    "tithi": "Dwadashi upto 08:16 PM",
+    "paksha": "Krishna Paksha",
+    "maas": "Magha",
+    "nakshatra": "Jyeshtha upto 05:47 AM, Jan 16",
+    "sunrise": "07:11 AM",
+    "sunset": "05:46 PM",
+    "moonrise": "05:20 AM, Jan 16",
+    "moonset": "02:30 PM",
+    "brahmaMuhurta": "05:24 AM to 06:17 AM",
+    "abhijitMuhurta": "12:08 PM to 12:50 PM",
+    "festivals": [
+      "Shattila Ekadashi Parana",
+      "Krishna Kurma Dwadashi",
+      "Mattu Pongal",
+      "Magh Bihu"
+    ]
+  },
+  "16/01/2026": {
+    "tithi": "Trayodashi upto 10:21 PM",
+    "paksha": "Krishna Paksha",
+    "maas": "Magha",
+    "nakshatra": "Mula upto Full Night",
+    "sunrise": "07:11 AM",
+    "sunset": "05:47 PM",
+    "moonrise": "06:12 AM, Jan 17",
+    "moonset": "03:21 PM",
+    "brahmaMuhurta": "05:24 AM to 06:17 AM",
+    "abhijitMuhurta": "12:08 PM to 12:50 PM",
+    "festivals": [
+      "Meru Trayodashi",
+      "Shukra Pradosh Vrat",
+      "Masik Shivaratri"
+    ]
+  },
+  "17/01/2026": {
+    "tithi": "Chaturdashi upto 12:03 AM, Jan 18",
+    "paksha": "Krishna Paksha",
+    "maas": "Magha",
+    "nakshatra": "Mula upto 08:12 AM",
+    "sunrise": "07:11 AM",
+    "sunset": "05:48 PM",
+    "moonrise": "06:59 AM, Jan 18",
+    "moonset": "04:17 PM",
+    "brahmaMuhurta": "05:24 AM to 06:17 AM",
+    "abhijitMuhurta": "12:08 PM to 12:51 PM",
+    "festivals": []
+  },
+  "18/01/2026": {
+    "tithi": "Amavasya upto 01:21 AM, Jan 19",
+    "paksha": "Krishna Paksha",
+    "maas": "Magha",
+    "nakshatra": "Purva Ashadha upto 10:14 AM",
+    "sunrise": "07:11 AM",
+    "sunset": "05:49 PM",
+    "moonrise": "No Moonrise",
+    "moonset": "05:16 PM",
+    "brahmaMuhurta": "05:24 AM to 06:17 AM",
+    "abhijitMuhurta": "12:08 PM to 12:51 PM",
+    "festivals": [
+      "Mauni Amavas",
+      "Thai Amavasai",
+      "Darsha Amavasya",
+      "Anvadhan",
+      "Magha Amavasya"
+    ]
+  },
+  "19/01/2026": {
+    "tithi": "Pratipada upto 02:14 AM, Jan 20",
+    "paksha": "Shukla Paksha",
+    "maas": "Magha",
+    "nakshatra": "Uttara Ashadha upto 11:52 AM",
+    "sunrise": "07:10 AM",
+    "sunset": "05:50 PM",
+    "moonrise": "07:41 AM",
+    "moonset": "06:16 PM",
+    "brahmaMuhurta": "05:24 AM to 06:17 AM",
+    "abhijitMuhurta": "12:09 PM to 12:51 PM",
+    "festivals": [
+      "Magha Navratri",
+      "Ishti"
+    ]
+  },
+  "20/01/2026": {
+    "tithi": "Dwitiya upto 02:42 AM, Jan 21",
+    "paksha": "Shukla Paksha",
+    "maas": "Magha",
+    "nakshatra": "Shravana upto 01:06 PM",
+    "sunrise": "07:10 AM",
+    "sunset": "05:50 PM",
+    "moonrise": "08:18 AM",
+    "moonset": "07:15 PM",
+    "brahmaMuhurta": "05:24 AM to 06:17 AM",
+    "abhijitMuhurta": "12:09 PM to 12:52 PM",
+    "festivals": [
+      "Chandra Darshana"
+    ]
+  },
+  "21/01/2026": {
+    "tithi": "Tritiya upto 02:47 AM, Jan 22",
+    "paksha": "Shukla Paksha",
+    "maas": "Magha",
+    "nakshatra": "Dhanishtha upto 01:58 PM",
+    "sunrise": "07:10 AM",
+    "sunset": "05:51 PM",
+    "moonrise": "08:52 AM",
+    "moonset": "08:14 PM",
+    "brahmaMuhurta": "05:23 AM to 06:17 AM",
+    "abhijitMuhurta": "None",
+    "festivals": []
+  },
+  "22/01/2026": {
+    "tithi": "Chaturthi upto 02:28 AM, Jan 23",
+    "paksha": "Shukla Paksha",
+    "maas": "Magha",
+    "nakshatra": "Shatabhisha upto 02:27 PM",
+    "sunrise": "07:10 AM",
+    "sunset": "05:52 PM",
+    "moonrise": "09:24 AM",
+    "moonset": "09:13 PM",
+    "brahmaMuhurta": "05:23 AM to 06:17 AM",
+    "abhijitMuhurta": "12:10 PM to 12:52 PM",
+    "festivals": [
+      "Ganesha Jayanti",
+      "Ramalala Pratishtha Diwas",
+      "Gauriganesha Chaturthi"
+    ]
+  },
+  "23/01/2026": {
+    "tithi": "Panchami upto 01:46 AM, Jan 24",
+    "paksha": "Shukla Paksha",
+    "maas": "Magha",
+    "nakshatra": "Purva Bhadrapada upto 02:33 PM",
+    "sunrise": "07:10 AM",
+    "sunset": "05:53 PM",
+    "moonrise": "09:54 AM",
+    "moonset": "10:12 PM",
+    "brahmaMuhurta": "05:23 AM to 06:16 AM",
+    "abhijitMuhurta": "12:10 PM to 12:53 PM",
+    "festivals": [
+      "Vasant Panchami",
+      "Saraswati Jayanti"
+    ]
+  },
+  "24/01/2026": {
+    "tithi": "Shashthi upto 12:39 AM, Jan 25",
+    "paksha": "Shukla Paksha",
+    "maas": "Magha",
+    "nakshatra": "Uttara Bhadrapada upto 02:16 PM",
+    "sunrise": "07:09 AM",
+    "sunset": "05:54 PM",
+    "moonrise": "10:25 AM",
+    "moonset": "11:12 PM",
+    "brahmaMuhurta": "05:23 AM to 06:16 AM",
+    "abhijitMuhurta": "12:10 PM to 12:53 PM",
+    "festivals": [
+      "Skanda Sashti"
+    ]
+  },
+  "25/01/2026": {
+    "tithi": "Saptami upto 11:10 PM",
+    "paksha": "Shukla Paksha",
+    "maas": "Magha",
+    "nakshatra": "Revati upto 01:35 PM",
+    "sunrise": "07:09 AM",
+    "sunset": "05:54 PM",
+    "moonrise": "10:58 AM",
+    "moonset": "12:15 AM, Jan 26",
+    "brahmaMuhurta": "05:23 AM to 06:16 AM",
+    "abhijitMuhurta": "12:10 PM to 12:53 PM",
+    "festivals": [
+      "Bhanu Saptami",
+      "Ratha Saptami",
+      "Narmada Jayanti",
+      "Brahma Savarni Manvadi"
+    ]
+  },
+  "26/01/2026": {
+    "tithi": "Ashtami upto 09:17 PM",
+    "paksha": "Shukla Paksha",
+    "maas": "Magha",
+    "nakshatra": "Ashwini upto 12:32 PM",
+    "sunrise": "07:09 AM",
+    "sunset": "05:55 PM",
+    "moonrise": "11:35 AM",
+    "moonset": "01:20 AM, Jan 27",
+    "brahmaMuhurta": "05:23 AM to 06:16 AM",
+    "abhijitMuhurta": "12:10 PM to 12:53 PM",
+    "festivals": [
+      "Bhishma Ashtami",
+      "Masik Durgashtami"
+    ]
+  },
+  "27/01/2026": {
+    "tithi": "Navami upto 07:05 PM",
+    "paksha": "Shukla Paksha",
+    "maas": "Magha",
+    "nakshatra": "Bharani upto 11:08 AM",
+    "sunrise": "07:08 AM",
+    "sunset": "05:56 PM",
+    "moonrise": "12:18 PM",
+    "moonset": "02:29 AM, Jan 28",
+    "brahmaMuhurta": "05:22 AM to 06:15 AM",
+    "abhijitMuhurta": "12:10 PM to 12:54 PM",
+    "festivals": [
+      "Masik Karthigai"
+    ]
+  },
+  "28/01/2026": {
+    "tithi": "Dashami upto 04:35 PM",
+    "paksha": "Shukla Paksha",
+    "maas": "Magha",
+    "nakshatra": "Krittika upto 09:26 AM",
+    "sunrise": "07:08 AM",
+    "sunset": "05:57 PM",
+    "moonrise": "01:08 PM",
+    "moonset": "03:38 AM, Jan 29",
+    "brahmaMuhurta": "05:22 AM to 06:15 AM",
+    "abhijitMuhurta": "None",
+    "festivals": []
+  },
+  "29/01/2026": {
+    "tithi": "Ekadashi upto 01:55 PM",
+    "paksha": "Shukla Paksha",
+    "maas": "Magha",
+    "nakshatra": "Rohini upto 07:31 AM",
+    "sunrise": "07:07 AM",
+    "sunset": "05:58 PM",
+    "moonrise": "02:07 PM",
+    "moonset": "04:44 AM, Jan 30",
+    "brahmaMuhurta": "05:22 AM to 06:15 AM",
+    "abhijitMuhurta": "12:11 PM to 12:54 PM",
+    "festivals": [
+      "Bhishma Dwadashi",
+      "Rohini Vrat",
+      "Jaya Ekadashi"
+    ]
+  },
+  "30/01/2026": {
+    "tithi": "Dwadashi upto 11:09 AM",
+    "paksha": "Shukla Paksha",
+    "maas": "Magha",
+    "nakshatra": "Ardra upto 03:27 AM, Jan 31",
+    "sunrise": "07:07 AM",
+    "sunset": "05:58 PM",
+    "moonrise": "03:12 PM",
+    "moonset": "05:44 AM, Jan 31",
+    "brahmaMuhurta": "05:22 AM to 06:14 AM",
+    "abhijitMuhurta": "12:11 PM to 12:54 PM",
+    "festivals": [
+      "Jaya Ekadashi Parana",
+      "Shukra Pradosh Vrat"
+    ]
+  },
+  "31/01/2026": {
+    "tithi": "Trayodashi upto 08:25 AM",
+    "paksha": "Shukla Paksha",
+    "maas": "Magha",
+    "nakshatra": "Punarvasu upto 01:34 AM, Feb 01",
+    "sunrise": "07:06 AM",
+    "sunset": "05:59 PM",
+    "moonrise": "04:22 PM",
+    "moonset": "06:35 AM, Feb 01",
+    "brahmaMuhurta": "05:21 AM to 06:14 AM",
+    "abhijitMuhurta": "12:11 PM to 12:55 PM",
+    "festivals": []
+  },
+  "01/02/2026": {
+    "tithi": "Purnima upto 03:38 AM, Feb 02",
+    "paksha": "Shukla Paksha",
+    "maas": "Magha",
+    "nakshatra": "Pushya upto 11:58 PM",
+    "sunrise": "07:06 AM",
+    "sunset": "06:00 PM",
+    "moonrise": "05:31 PM",
+    "moonset": "No Moonset",
+    "brahmaMuhurta": "05:21 AM to 06:13 AM",
+    "abhijitMuhurta": "12:11 PM to 12:55 PM",
+    "festivals": [
+      "Guru Ravidas Jayanti",
+      "Lalita Jayanti",
+      "Thai Pusam",
+      "Magha Purnima Vrat",
+      "Magha Purnima",
+      "Anvadhan"
+    ]
+  },
+  "02/02/2026": {
+    "tithi": "Pratipada upto 01:52 AM, Feb 03",
+    "paksha": "Krishna Paksha",
+    "maas": "Phalguna",
+    "nakshatra": "Ashlesha upto 10:47 PM",
+    "sunrise": "07:05 AM",
+    "sunset": "06:01 PM",
+    "moonrise": "06:38 PM",
+    "moonset": "07:18 AM",
+    "brahmaMuhurta": "05:21 AM to 06:13 AM",
+    "abhijitMuhurta": "12:11 PM to 12:55 PM",
+    "festivals": [
+      "Phalguna Begins *North",
+      "Ishti"
+    ]
+  },
+  "03/02/2026": {
+    "tithi": "Dwitiya upto 12:40 AM, Feb 04",
+    "paksha": "Krishna Paksha",
+    "maas": "Phalguna",
+    "nakshatra": "Magha upto 10:10 PM",
+    "sunrise": "07:05 AM",
+    "sunset": "06:02 PM",
+    "moonrise": "07:41 PM",
+    "moonset": "07:56 AM",
+    "brahmaMuhurta": "05:20 AM to 06:13 AM",
+    "abhijitMuhurta": "12:11 PM to 12:55 PM",
+    "festivals": []
+  },
+  "04/02/2026": {
+    "tithi": "Tritiya upto 12:09 AM, Feb 05",
+    "paksha": "Krishna Paksha",
+    "maas": "Phalguna",
+    "nakshatra": "Purva Phalguni upto 10:12 PM",
+    "sunrise": "07:04 AM",
+    "sunset": "06:02 PM",
+    "moonrise": "08:40 PM",
+    "moonset": "08:29 AM",
+    "brahmaMuhurta": "05:20 AM to 06:12 AM",
+    "abhijitMuhurta": "None",
+    "festivals": []
+  },
+  "05/02/2026": {
+    "tithi": "Chaturthi upto 12:22 AM, Feb 06",
+    "paksha": "Krishna Paksha",
+    "maas": "Phalguna",
+    "nakshatra": "Uttara Phalguni upto 10:57 PM",
+    "sunrise": "07:04 AM",
+    "sunset": "06:03 PM",
+    "moonrise": "09:37 PM",
+    "moonset": "08:59 AM",
+    "brahmaMuhurta": "05:19 AM to 06:12 AM",
+    "abhijitMuhurta": "12:11 PM to 12:55 PM",
+    "festivals": [
+      "Dwijapriya Sankashti"
+    ]
+  },
+  "06/02/2026": {
+    "tithi": "Panchami upto 01:18 AM, Feb 07",
+    "paksha": "Krishna Paksha",
+    "maas": "Phalguna",
+    "nakshatra": "Hasta upto 12:23 AM, Feb 07",
+    "sunrise": "07:03 AM",
+    "sunset": "06:04 PM",
+    "moonrise": "10:32 PM",
+    "moonset": "09:28 AM",
+    "brahmaMuhurta": "05:19 AM to 06:11 AM",
+    "abhijitMuhurta": "12:11 PM to 12:55 PM",
+    "festivals": []
+  },
+  "07/02/2026": {
+    "tithi": "Shashthi upto 02:54 AM, Feb 08",
+    "paksha": "Krishna Paksha",
+    "maas": "Phalguna",
+    "nakshatra": "Chitra upto 02:28 AM, Feb 08",
+    "sunrise": "07:02 AM",
+    "sunset": "06:05 PM",
+    "moonrise": "11:28 PM",
+    "moonset": "09:58 AM",
+    "brahmaMuhurta": "05:19 AM to 06:10 AM",
+    "abhijitMuhurta": "12:11 PM to 12:56 PM",
+    "festivals": [
+      "Yashoda Jayanti"
+    ]
+  },
+  "08/02/2026": {
+    "tithi": "Saptami upto 05:01 AM, Feb 09",
+    "paksha": "Krishna Paksha",
+    "maas": "Phalguna",
+    "nakshatra": "Swati upto 05:02 AM, Feb 09",
+    "sunrise": "07:02 AM",
+    "sunset": "06:05 PM",
+    "moonrise": "12:23 AM, Feb 09",
+    "moonset": "10:29 AM",
+    "brahmaMuhurta": "05:18 AM to 06:10 AM",
+    "abhijitMuhurta": "12:11 PM to 12:56 PM",
+    "festivals": [
+      "Bhanu Saptami",
+      "Shabari Jayanti"
+    ]
+  },
+  "09/02/2026": {
+    "tithi": "Ashtami upto Full Night",
+    "paksha": "Krishna Paksha",
+    "maas": "Phalguna",
+    "nakshatra": "Vishakha upto Full Night",
+    "sunrise": "07:01 AM",
+    "sunset": "06:06 PM",
+    "moonrise": "01:20 AM, Feb 10",
+    "moonset": "11:03 AM",
+    "brahmaMuhurta": "05:18 AM to 06:09 AM",
+    "abhijitMuhurta": "12:11 PM to 12:56 PM",
+    "festivals": [
+      "Janaki Jayanti",
+      "Kalashtami",
+      "Masik Krishna Janmashtami"
+    ]
+  },
+  "10/02/2026": {
+    "tithi": "Ashtami upto 07:27 AM",
+    "paksha": "Krishna Paksha",
+    "maas": "Phalguna",
+    "nakshatra": "Vishakha upto 07:55 AM",
+    "sunrise": "07:00 AM",
+    "sunset": "06:07 PM",
+    "moonrise": "02:16 AM, Feb 11",
+    "moonset": "11:41 AM",
+    "brahmaMuhurta": "05:17 AM to 06:09 AM",
+    "abhijitMuhurta": "12:11 PM to 12:56 PM",
+    "festivals": []
+  },
+  "11/02/2026": {
+    "tithi": "Navami upto 09:58 AM",
+    "paksha": "Krishna Paksha",
+    "maas": "Phalguna",
+    "nakshatra": "Anuradha upto 10:53 AM",
+    "sunrise": "07:00 AM",
+    "sunset": "06:08 PM",
+    "moonrise": "03:11 AM, Feb 12",
+    "moonset": "12:24 PM",
+    "brahmaMuhurta": "05:17 AM to 06:08 AM",
+    "abhijitMuhurta": "None",
+    "festivals": []
+  },
+  "12/02/2026": {
+    "tithi": "Dashami upto 12:22 PM",
+    "paksha": "Krishna Paksha",
+    "maas": "Phalguna",
+    "nakshatra": "Jyeshtha upto 01:42 PM",
+    "sunrise": "06:59 AM",
+    "sunset": "06:08 PM",
+    "moonrise": "04:04 AM, Feb 13",
+    "moonset": "01:12 PM",
+    "brahmaMuhurta": "05:16 AM to 06:07 AM",
+    "abhijitMuhurta": "12:11 PM to 12:56 PM",
+    "festivals": [
+      "Maharishi Dayanand Saraswati Jayanti"
+    ]
+  },
+  "13/02/2026": {
+    "tithi": "Ekadashi upto 02:25 PM",
+    "paksha": "Krishna Paksha",
+    "maas": "Phalguna",
+    "nakshatra": "Mula upto 04:12 PM",
+    "sunrise": "06:58 AM",
+    "sunset": "06:09 PM",
+    "moonrise": "04:53 AM, Feb 14",
+    "moonset": "02:06 PM",
+    "brahmaMuhurta": "05:15 AM to 06:07 AM",
+    "abhijitMuhurta": "12:11 PM to 12:56 PM",
+    "festivals": [
+      "Krishna Bhishma Dwadashi",
+      "Kumbha Sankranti",
+      "Vijaya Ekadashi"
+    ]
+  },
+  "14/02/2026": {
+    "tithi": "Dwadashi upto 04:01 PM",
+    "paksha": "Krishna Paksha",
+    "maas": "Phalguna",
+    "nakshatra": "Purva Ashadha upto 06:16 PM",
+    "sunrise": "06:57 AM",
+    "sunset": "06:10 PM",
+    "moonrise": "05:37 AM, Feb 15",
+    "moonset": "03:03 PM",
+    "brahmaMuhurta": "05:15 AM to 06:06 AM",
+    "abhijitMuhurta": "12:11 PM to 12:56 PM",
+    "festivals": [
+      "Vijaya Ekadashi Parana",
+      "Shani Trayodashi",
+      "Shani Pradosh Vrat"
+    ]
+  },
+  "15/02/2026": {
+    "tithi": "Trayodashi upto 05:04 PM",
+    "paksha": "Krishna Paksha",
+    "maas": "Phalguna",
+    "nakshatra": "Uttara Ashadha upto 07:48 PM",
+    "sunrise": "06:57 AM",
+    "sunset": "06:10 PM",
+    "moonrise": "06:16 AM, Feb 16",
+    "moonset": "04:03 PM",
+    "brahmaMuhurta": "05:14 AM to 06:05 AM",
+    "abhijitMuhurta": "12:11 PM to 12:56 PM",
+    "festivals": [
+      "Maha Shivaratri",
+      "Masik Shivaratri"
+    ]
+  },
+  "16/02/2026": {
+    "tithi": "Chaturdashi upto 05:34 PM",
+    "paksha": "Krishna Paksha",
+    "maas": "Phalguna",
+    "nakshatra": "Shravana upto 08:47 PM",
+    "sunrise": "06:56 AM",
+    "sunset": "06:11 PM",
+    "moonrise": "06:52 AM, Feb 17",
+    "moonset": "05:04 PM",
+    "brahmaMuhurta": "05:14 AM to 06:05 AM",
+    "abhijitMuhurta": "12:11 PM to 12:56 PM",
+    "festivals": []
+  },
+  "17/02/2026": {
+    "tithi": "Amavasya upto 05:30 PM",
+    "paksha": "Krishna Paksha",
+    "maas": "Phalguna",
+    "nakshatra": "Dhanishtha upto 09:16 PM",
+    "sunrise": "06:55 AM",
+    "sunset": "06:12 PM",
+    "moonrise": "No Moonrise",
+    "moonset": "06:04 PM",
+    "brahmaMuhurta": "05:13 AM to 06:04 AM",
+    "abhijitMuhurta": "12:11 PM to 12:56 PM",
+    "festivals": [
+      "Surya Grahan *Valayakara",
+      "Darsha Amavasya",
+      "Anvadhan",
+      "Phalguna Amavasya",
+      "Dwapara Yuga Diwas"
+    ]
+  },
+  "18/02/2026": {
+    "tithi": "Pratipada upto 04:57 PM",
+    "paksha": "Shukla Paksha",
+    "maas": "Phalguna",
+    "nakshatra": "Shatabhisha upto 09:16 PM",
+    "sunrise": "06:54 AM",
+    "sunset": "06:13 PM",
+    "moonrise": "07:24 AM",
+    "moonset": "07:04 PM",
+    "brahmaMuhurta": "05:12 AM to 06:03 AM",
+    "abhijitMuhurta": "None",
+    "festivals": [
+      "Ishti",
+      "Chandra Darshana"
+    ]
+  },
+  "19/02/2026": {
+    "tithi": "Dwitiya upto 03:58 PM",
+    "paksha": "Shukla Paksha",
+    "maas": "Phalguna",
+    "nakshatra": "Purva Bhadrapada upto 08:52 PM",
+    "sunrise": "06:53 AM",
+    "sunset": "06:13 PM",
+    "moonrise": "07:56 AM",
+    "moonset": "08:04 PM",
+    "brahmaMuhurta": "05:12 AM to 06:03 AM",
+    "abhijitMuhurta": "12:11 PM to 12:56 PM",
+    "festivals": [
+      "Phulera Dooj",
+      "Ramakrishna Jayanti"
+    ]
+  },
+  "20/02/2026": {
+    "tithi": "Tritiya upto 02:38 PM",
+    "paksha": "Shukla Paksha",
+    "maas": "Phalguna",
+    "nakshatra": "Uttara Bhadrapada upto 08:07 PM",
+    "sunrise": "06:52 AM",
+    "sunset": "06:14 PM",
+    "moonrise": "08:27 AM",
+    "moonset": "09:05 PM",
+    "brahmaMuhurta": "05:11 AM to 06:02 AM",
+    "abhijitMuhurta": "12:10 PM to 12:56 PM",
+    "festivals": []
+  },
+  "21/02/2026": {
+    "tithi": "Chaturthi upto 01:00 PM",
+    "paksha": "Shukla Paksha",
+    "maas": "Phalguna",
+    "nakshatra": "Revati upto 07:07 PM",
+    "sunrise": "06:51 AM",
+    "sunset": "06:15 PM",
+    "moonrise": "09:00 AM",
+    "moonset": "10:08 PM",
+    "brahmaMuhurta": "05:10 AM to 06:01 AM",
+    "abhijitMuhurta": "12:10 PM to 12:56 PM",
+    "festivals": [
+      "Dhundhiraja Chaturthi"
+    ]
+  },
+  "22/02/2026": {
+    "tithi": "Panchami upto 11:09 AM",
+    "paksha": "Shukla Paksha",
+    "maas": "Phalguna",
+    "nakshatra": "Ashwini upto 05:54 PM",
+    "sunrise": "06:51 AM",
+    "sunset": "06:15 PM",
+    "moonrise": "09:36 AM",
+    "moonset": "11:13 PM",
+    "brahmaMuhurta": "05:10 AM to 06:00 AM",
+    "abhijitMuhurta": "12:10 PM to 12:56 PM",
+    "festivals": [
+      "Skanda Sashti"
+    ]
+  },
+  "23/02/2026": {
+    "tithi": "Shashthi upto 09:09 AM",
+    "paksha": "Shukla Paksha",
+    "maas": "Phalguna",
+    "nakshatra": "Bharani upto 04:33 PM",
+    "sunrise": "06:50 AM",
+    "sunset": "06:16 PM",
+    "moonrise": "10:17 AM",
+    "moonset": "12:21 AM, Feb 24",
+    "brahmaMuhurta": "05:09 AM to 05:59 AM",
+    "abhijitMuhurta": "12:10 PM to 12:56 PM",
+    "festivals": [
+      "Masik Karthigai"
+    ]
+  },
+  "24/02/2026": {
+    "tithi": "Saptami upto 07:01 AM",
+    "paksha": "Shukla Paksha",
+    "maas": "Phalguna",
+    "nakshatra": "Krittika upto 03:07 PM",
+    "sunrise": "06:49 AM",
+    "sunset": "06:16 PM",
+    "moonrise": "11:04 AM",
+    "moonset": "01:29 AM, Feb 25",
+    "brahmaMuhurta": "05:08 AM to 05:59 AM",
+    "abhijitMuhurta": "12:10 PM to 12:56 PM",
+    "festivals": [
+      "Phalguna Ashtahnika Begins",
+      "Masik Durgashtami"
+    ]
+  },
+  "25/02/2026": {
+    "tithi": "Navami upto 02:40 AM, Feb 26",
+    "paksha": "Shukla Paksha",
+    "maas": "Phalguna",
+    "nakshatra": "Rohini upto 01:38 PM",
+    "sunrise": "06:48 AM",
+    "sunset": "06:17 PM",
+    "moonrise": "11:59 AM",
+    "moonset": "02:35 AM, Feb 26",
+    "brahmaMuhurta": "05:08 AM to 05:58 AM",
+    "abhijitMuhurta": "None",
+    "festivals": [
+      "Rohini Vrat"
+    ]
+  },
+  "26/02/2026": {
+    "tithi": "Dashami upto 12:33 AM, Feb 27",
+    "paksha": "Shukla Paksha",
+    "maas": "Phalguna",
+    "nakshatra": "Mrigashira upto 12:11 PM",
+    "sunrise": "06:47 AM",
+    "sunset": "06:18 PM",
+    "moonrise": "01:01 PM",
+    "moonset": "03:35 AM, Feb 27",
+    "brahmaMuhurta": "05:07 AM to 05:57 AM",
+    "abhijitMuhurta": "12:09 PM to 12:55 PM",
+    "festivals": []
+  },
+  "27/02/2026": {
+    "tithi": "Ekadashi upto 10:32 PM",
+    "paksha": "Shukla Paksha",
+    "maas": "Phalguna",
+    "nakshatra": "Ardra upto 10:48 AM",
+    "sunrise": "06:46 AM",
+    "sunset": "06:18 PM",
+    "moonrise": "02:07 PM",
+    "moonset": "04:28 AM, Feb 28",
+    "brahmaMuhurta": "05:06 AM to 05:56 AM",
+    "abhijitMuhurta": "12:09 PM to 12:55 PM",
+    "festivals": [
+      "Amalaki Ekadashi"
+    ]
+  },
+  "28/02/2026": {
+    "tithi": "Dwadashi upto 08:43 PM",
+    "paksha": "Shukla Paksha",
+    "maas": "Phalguna",
+    "nakshatra": "Punarvasu upto 09:35 AM",
+    "sunrise": "06:45 AM",
+    "sunset": "06:19 PM",
+    "moonrise": "03:15 PM",
+    "moonset": "05:13 AM, Mar 01",
+    "brahmaMuhurta": "05:05 AM to 05:55 AM",
+    "abhijitMuhurta": "12:09 PM to 12:55 PM",
+    "festivals": [
+      "Amalaki Ekadashi Parana",
+      "Narasimha Dwadashi"
+    ]
+  },
+  "01/03/2026": {
+    "tithi": "Trayodashi upto 07:09 PM",
+    "paksha": "Shukla Paksha",
+    "maas": "Phalguna",
+    "nakshatra": "Pushya upto 08:34 AM",
+    "sunrise": "06:44 AM",
+    "sunset": "06:20 PM",
+    "moonrise": "04:21 PM",
+    "moonset": "05:52 AM, Mar 02",
+    "brahmaMuhurta": "05:05 AM to 05:54 AM",
+    "abhijitMuhurta": "12:09 PM to 12:55 PM",
+    "festivals": [
+      "Ravi Pradosh Vrat"
+    ]
+  },
+  "02/03/2026": {
+    "tithi": "Chaturdashi upto 05:55 PM",
+    "paksha": "Shukla Paksha",
+    "maas": "Phalguna",
+    "nakshatra": "Ashlesha upto 07:51 AM",
+    "sunrise": "06:43 AM",
+    "sunset": "06:20 PM",
+    "moonrise": "05:24 PM",
+    "moonset": "06:26 AM, Mar 03",
+    "brahmaMuhurta": "05:04 AM to 05:53 AM",
+    "abhijitMuhurta": "12:08 PM to 12:55 PM",
+    "festivals": [
+      "Phalguna Chaumasi Chaudas"
+    ]
+  },
+  "03/03/2026": {
+    "tithi": "Purnima upto 05:07 PM",
+    "paksha": "Shukla Paksha",
+    "maas": "Phalguna",
+    "nakshatra": "Magha upto 07:31 AM",
+    "sunrise": "06:42 AM",
+    "sunset": "06:21 PM",
+    "moonrise": "06:25 PM",
+    "moonset": "No Moonset",
+    "brahmaMuhurta": "05:03 AM to 05:52 AM",
+    "abhijitMuhurta": "12:08 PM to 12:55 PM",
+    "festivals": [
+      "Chhoti Holi",
+      "Holika Dahan",
+      "Vasanta Purnima",
+      "Chaitanya Mahaprabhu Jayanti",
+      "Dol Purnima",
+      "Lakshmi Jayanti",
+      "Masi Magam",
+      "Attukal Pongal",
+      "Chandra Grahan *Purna",
+      "Phalguna Ashtahnika Ends",
+      "Phalguna Purnima Vrat",
+      "Phalguna Purnima",
+      "Anvadhan",
+      "Savarni Manvadi"
+    ]
+  },
+  "04/03/2026": {
+    "tithi": "Pratipada upto 04:48 PM",
+    "paksha": "Krishna Paksha",
+    "maas": "Chaitra",
+    "nakshatra": "Purva Phalguni upto 07:39 AM",
+    "sunrise": "06:41 AM",
+    "sunset": "06:21 PM",
+    "moonrise": "07:22 PM",
+    "moonset": "06:57 AM",
+    "brahmaMuhurta": "05:02 AM to 05:51 AM",
+    "abhijitMuhurta": "None",
+    "festivals": [
+      "Chaitra Begins *North",
+      "Holi",
+      "Ishti"
+    ]
+  },
+  "05/03/2026": {
+    "tithi": "Dwitiya upto 05:03 PM",
+    "paksha": "Krishna Paksha",
+    "maas": "Chaitra",
+    "nakshatra": "Uttara Phalguni upto 08:17 AM",
+    "sunrise": "06:40 AM",
+    "sunset": "06:22 PM",
+    "moonrise": "08:19 PM",
+    "moonset": "07:27 AM",
+    "brahmaMuhurta": "05:01 AM to 05:51 AM",
+    "abhijitMuhurta": "12:07 PM to 12:54 PM",
+    "festivals": [
+      "Bhai Dooj",
+      "Bhratri Dwitiya"
+    ]
+  },
+  "06/03/2026": {
+    "tithi": "Tritiya upto 05:53 PM",
+    "paksha": "Krishna Paksha",
+    "maas": "Chaitra",
+    "nakshatra": "Hasta upto 09:29 AM",
+    "sunrise": "06:39 AM",
+    "sunset": "06:23 PM",
+    "moonrise": "09:15 PM",
+    "moonset": "07:56 AM",
+    "brahmaMuhurta": "05:00 AM to 05:50 AM",
+    "abhijitMuhurta": "12:07 PM to 12:54 PM",
+    "festivals": [
+      "Chhatrapati Shivaji Maharaj Jayanti",
+      "Bhalachandra Sankashti"
+    ]
+  },
+  "07/03/2026": {
+    "tithi": "Chaturthi upto 07:17 PM",
+    "paksha": "Krishna Paksha",
+    "maas": "Chaitra",
+    "nakshatra": "Chitra upto 11:15 AM",
+    "sunrise": "06:38 AM",
+    "sunset": "06:23 PM",
+    "moonrise": "10:11 PM",
+    "moonset": "08:27 AM",
+    "brahmaMuhurta": "05:00 AM to 05:49 AM",
+    "abhijitMuhurta": "12:07 PM to 12:54 PM",
+    "festivals": []
+  },
+  "08/03/2026": {
+    "tithi": "Panchami upto 09:10 PM",
+    "paksha": "Krishna Paksha",
+    "maas": "Chaitra",
+    "nakshatra": "Swati upto 01:31 PM",
+    "sunrise": "06:37 AM",
+    "sunset": "06:24 PM",
+    "moonrise": "11:08 PM",
+    "moonset": "09:00 AM",
+    "brahmaMuhurta": "04:59 AM to 05:48 AM",
+    "abhijitMuhurta": "12:07 PM to 12:54 PM",
+    "festivals": [
+      "Ranga Panchami"
+    ]
+  },
+  "09/03/2026": {
+    "tithi": "Shashthi upto 11:27 PM",
+    "paksha": "Krishna Paksha",
+    "maas": "Chaitra",
+    "nakshatra": "Vishakha upto 04:11 PM",
+    "sunrise": "06:36 AM",
+    "sunset": "06:24 PM",
+    "moonrise": "12:05 AM, Mar 10",
+    "moonset": "09:36 AM",
+    "brahmaMuhurta": "04:58 AM to 05:47 AM",
+    "abhijitMuhurta": "12:06 PM to 12:54 PM",
+    "festivals": []
+  },
+  "10/03/2026": {
+    "tithi": "Saptami upto 01:54 AM, Mar 11",
+    "paksha": "Krishna Paksha",
+    "maas": "Chaitra",
+    "nakshatra": "Anuradha upto 07:05 PM",
+    "sunrise": "06:34 AM",
+    "sunset": "06:25 PM",
+    "moonrise": "01:01 AM, Mar 11",
+    "moonset": "10:17 AM",
+    "brahmaMuhurta": "04:57 AM to 05:46 AM",
+    "abhijitMuhurta": "12:06 PM to 12:53 PM",
+    "festivals": [
+      "Sheetala Saptami"
+    ]
+  },
+  "11/03/2026": {
+    "tithi": "Ashtami upto 04:19 AM, Mar 12",
+    "paksha": "Krishna Paksha",
+    "maas": "Chaitra",
+    "nakshatra": "Jyeshtha upto 10:00 PM",
+    "sunrise": "06:33 AM",
+    "sunset": "06:25 PM",
+    "moonrise": "01:54 AM, Mar 12",
+    "moonset": "11:03 AM",
+    "brahmaMuhurta": "04:56 AM to 05:45 AM",
+    "abhijitMuhurta": "None",
+    "festivals": [
+      "Sheetala Ashtami",
+      "Basoda",
+      "Varshitapa Arambha",
+      "Kalashtami",
+      "Masik Krishna Janmashtami"
+    ]
+  },
+  "12/03/2026": {
+    "tithi": "Navami upto 06:28 AM, Mar 13",
+    "paksha": "Krishna Paksha",
+    "maas": "Chaitra",
+    "nakshatra": "Mula upto 12:43 AM, Mar 13",
+    "sunrise": "06:32 AM",
+    "sunset": "06:26 PM",
+    "moonrise": "02:44 AM, Mar 13",
+    "moonset": "11:54 AM",
+    "brahmaMuhurta": "04:55 AM to 05:44 AM",
+    "abhijitMuhurta": "12:05 PM to 12:53 PM",
+    "festivals": []
+  },
+  "13/03/2026": {
+    "tithi": "Dashami upto Full Night",
+    "paksha": "Krishna Paksha",
+    "maas": "Chaitra",
+    "nakshatra": "Purva Ashadha upto 03:03 AM, Mar 14",
+    "sunrise": "06:31 AM",
+    "sunset": "06:26 PM",
+    "moonrise": "03:30 AM, Mar 14",
+    "moonset": "12:50 PM",
+    "brahmaMuhurta": "04:55 AM to 05:43 AM",
+    "abhijitMuhurta": "12:05 PM to 12:53 PM",
+    "festivals": []
+  },
+  "14/03/2026": {
+    "tithi": "Dashami upto 08:10 AM",
+    "paksha": "Krishna Paksha",
+    "maas": "Chaitra",
+    "nakshatra": "Uttara Ashadha upto 04:49 AM, Mar 15",
+    "sunrise": "06:30 AM",
+    "sunset": "06:27 PM",
+    "moonrise": "04:11 AM, Mar 15",
+    "moonset": "01:49 PM",
+    "brahmaMuhurta": "04:54 AM to 05:42 AM",
+    "abhijitMuhurta": "12:05 PM to 12:52 PM",
+    "festivals": [
+      "Karadaiyan Nombu"
+    ]
+  },
+  "15/03/2026": {
+    "tithi": "Ekadashi upto 09:16 AM",
+    "paksha": "Krishna Paksha",
+    "maas": "Chaitra",
+    "nakshatra": "Shravana upto 05:56 AM, Mar 16",
+    "sunrise": "06:29 AM",
+    "sunset": "06:28 PM",
+    "moonrise": "04:48 AM, Mar 16",
+    "moonset": "02:49 PM",
+    "brahmaMuhurta": "04:53 AM to 05:41 AM",
+    "abhijitMuhurta": "12:04 PM to 12:52 PM",
+    "festivals": [
+      "Krishna Narasimha Dwadashi",
+      "Meena Sankranti",
+      "Papamochani Ekadashi"
+    ]
+  },
+  "16/03/2026": {
+    "tithi": "Dwadashi upto 09:40 AM",
+    "paksha": "Krishna Paksha",
+    "maas": "Chaitra",
+    "nakshatra": "Dhanishtha upto 06:22 AM, Mar 17",
+    "sunrise": "06:28 AM",
+    "sunset": "06:28 PM",
+    "moonrise": "05:22 AM, Mar 17",
+    "moonset": "03:49 PM",
+    "brahmaMuhurta": "04:52 AM to 05:40 AM",
+    "abhijitMuhurta": "12:04 PM to 12:52 PM",
+    "festivals": [
+      "Papamochani Ekadashi Parana",
+      "Soma Pradosh Vrat"
+    ]
+  },
+  "17/03/2026": {
+    "tithi": "Trayodashi upto 09:23 AM",
+    "paksha": "Krishna Paksha",
+    "maas": "Chaitra",
+    "nakshatra": "Shatabhisha upto 06:09 AM, Mar 18",
+    "sunrise": "06:27 AM",
+    "sunset": "06:29 PM",
+    "moonrise": "05:54 AM, Mar 18",
+    "moonset": "04:49 PM",
+    "brahmaMuhurta": "04:51 AM to 05:39 AM",
+    "abhijitMuhurta": "12:04 PM to 12:52 PM",
+    "festivals": [
+      "Masik Shivaratri"
+    ]
+  },
+  "18/03/2026": {
+    "tithi": "Chaturdashi upto 08:25 AM",
+    "paksha": "Krishna Paksha",
+    "maas": "Chaitra",
+    "nakshatra": "Purva Bhadrapada upto 05:21 AM, Mar 19",
+    "sunrise": "06:26 AM",
+    "sunset": "06:29 PM",
+    "moonrise": "No Moonrise",
+    "moonset": "05:50 PM",
+    "brahmaMuhurta": "04:50 AM to 05:38 AM",
+    "abhijitMuhurta": "None",
+    "festivals": [
+      "Darsha Amavasya",
+      "Anvadhan"
+    ]
+  },
+  "19/03/2026": {
+    "tithi": "Amavasya upto 06:52 AM",
+    "paksha": "Krishna Paksha",
+    "maas": "Chaitra",
+    "nakshatra": "Uttara Bhadrapada upto 04:05 AM, Mar 20",
+    "sunrise": "06:25 AM",
+    "sunset": "06:30 PM",
+    "moonrise": "06:26 AM",
+    "moonset": "06:52 PM",
+    "brahmaMuhurta": "04:49 AM to 05:37 AM",
+    "abhijitMuhurta": "12:03 PM to 12:51 PM",
+    "festivals": [
+      "Nutan Varsh Prarambha",
+      "Ugadi",
+      "Gudi Padwa",
+      "Chaitra Navratri",
+      "Yugadi",
+      "Chaitra Amavasya",
+      "Ishti"
+    ]
+  },
+  "20/03/2026": {
+    "tithi": "Dwitiya upto 02:30 AM, Mar 21",
+    "paksha": "Shukla Paksha",
+    "maas": "Chaitra",
+    "nakshatra": "Revati upto 02:27 AM, Mar 21",
+    "sunrise": "06:23 AM",
+    "sunset": "06:30 PM",
+    "moonrise": "06:59 AM",
+    "moonset": "07:55 PM",
+    "brahmaMuhurta": "04:48 AM to 05:36 AM",
+    "abhijitMuhurta": "12:03 PM to 12:51 PM",
+    "festivals": [
+      "Jhulelal Jayanti",
+      "Vernal Equinox",
+      "Chandra Darshana"
+    ]
+  },
+  "21/03/2026": {
+    "tithi": "Tritiya upto 11:56 PM",
+    "paksha": "Shukla Paksha",
+    "maas": "Chaitra",
+    "nakshatra": "Ashwini upto 12:37 AM, Mar 22",
+    "sunrise": "06:22 AM",
+    "sunset": "06:31 PM",
+    "moonrise": "07:35 AM",
+    "moonset": "09:02 PM",
+    "brahmaMuhurta": "04:47 AM to 05:35 AM",
+    "abhijitMuhurta": "12:02 PM to 12:51 PM",
+    "festivals": [
+      "Matsya Jayanti",
+      "Gauri Puja",
+      "Gangaur",
+      "Swayambhuva Manvadi"
+    ]
+  },
+  "22/03/2026": {
+    "tithi": "Chaturthi upto 09:16 PM",
+    "paksha": "Shukla Paksha",
+    "maas": "Chaitra",
+    "nakshatra": "Bharani upto 10:42 PM",
+    "sunrise": "06:21 AM",
+    "sunset": "06:31 PM",
+    "moonrise": "08:15 AM",
+    "moonset": "10:11 PM",
+    "brahmaMuhurta": "04:46 AM to 05:34 AM",
+    "abhijitMuhurta": "12:02 PM to 12:51 PM",
+    "festivals": [
+      "Vasudeva Chaturthi"
+    ]
+  },
+  "23/03/2026": {
+    "tithi": "Panchami upto 06:38 PM",
+    "paksha": "Shukla Paksha",
+    "maas": "Chaitra",
+    "nakshatra": "Krittika upto 08:49 PM",
+    "sunrise": "06:20 AM",
+    "sunset": "06:32 PM",
+    "moonrise": "09:01 AM",
+    "moonset": "11:21 PM",
+    "brahmaMuhurta": "04:46 AM to 05:33 AM",
+    "abhijitMuhurta": "12:02 PM to 12:50 PM",
+    "festivals": [
+      "Lakshmi Panchami",
+      "Masik Karthigai"
+    ]
+  },
+  "24/03/2026": {
+    "tithi": "Shashthi upto 04:07 PM",
+    "paksha": "Shukla Paksha",
+    "maas": "Chaitra",
+    "nakshatra": "Rohini upto 07:04 PM",
+    "sunrise": "06:19 AM",
+    "sunset": "06:32 PM",
+    "moonrise": "09:54 AM",
+    "moonset": "12:28 AM, Mar 25",
+    "brahmaMuhurta": "04:45 AM to 05:32 AM",
+    "abhijitMuhurta": "12:01 PM to 12:50 PM",
+    "festivals": [
+      "Yamuna Chhath",
+      "Rohini Vrat",
+      "Skanda Sashti"
+    ]
+  },
+  "25/03/2026": {
+    "tithi": "Saptami upto 01:50 PM",
+    "paksha": "Shukla Paksha",
+    "maas": "Chaitra",
+    "nakshatra": "Mrigashira upto 05:33 PM",
+    "sunrise": "06:18 AM",
+    "sunset": "06:33 PM",
+    "moonrise": "10:54 AM",
+    "moonset": "01:30 AM, Mar 26",
+    "brahmaMuhurta": "04:44 AM to 05:31 AM",
+    "abhijitMuhurta": "None",
+    "festivals": [
+      "Chaitra Navapada Oli Begins"
+    ]
+  },
+  "26/03/2026": {
+    "tithi": "Ashtami upto 11:48 AM",
+    "paksha": "Shukla Paksha",
+    "maas": "Chaitra",
+    "nakshatra": "Ardra upto 04:19 PM",
+    "sunrise": "06:17 AM",
+    "sunset": "06:33 PM",
+    "moonrise": "12:00 PM",
+    "moonset": "02:25 AM, Mar 27",
+    "brahmaMuhurta": "04:43 AM to 05:30 AM",
+    "abhijitMuhurta": "12:00 PM to 12:50 PM",
+    "festivals": [
+      "Rama Navami *Smarta",
+      "Tara Jayanti",
+      "Ashoka Ashtami Vrat",
+      "Masik Durgashtami"
+    ]
+  },
+  "27/03/2026": {
+    "tithi": "Navami upto 10:06 AM",
+    "paksha": "Shukla Paksha",
+    "maas": "Chaitra",
+    "nakshatra": "Punarvasu upto 03:24 PM",
+    "sunrise": "06:16 AM",
+    "sunset": "06:34 PM",
+    "moonrise": "01:06 PM",
+    "moonset": "03:11 AM, Mar 28",
+    "brahmaMuhurta": "04:42 AM to 05:29 AM",
+    "abhijitMuhurta": "12:00 PM to 12:49 PM",
+    "festivals": [
+      "Rama Navami *ISKCON",
+      "Swaminarayan Jayanti"
+    ]
+  },
+  "28/03/2026": {
+    "tithi": "Dashami upto 08:45 AM",
+    "paksha": "Shukla Paksha",
+    "maas": "Chaitra",
+    "nakshatra": "Pushya upto 02:50 PM",
+    "sunrise": "06:14 AM",
+    "sunset": "06:34 PM",
+    "moonrise": "02:12 PM",
+    "moonset": "03:51 AM, Mar 29",
+    "brahmaMuhurta": "04:41 AM to 05:28 AM",
+    "abhijitMuhurta": "12:00 PM to 12:49 PM",
+    "festivals": []
+  },
+  "29/03/2026": {
+    "tithi": "Ekadashi upto 07:46 AM",
+    "paksha": "Shukla Paksha",
+    "maas": "Chaitra",
+    "nakshatra": "Ashlesha upto 02:38 PM",
+    "sunrise": "06:13 AM",
+    "sunset": "06:35 PM",
+    "moonrise": "03:15 PM",
+    "moonset": "04:26 AM, Mar 30",
+    "brahmaMuhurta": "04:40 AM to 05:27 AM",
+    "abhijitMuhurta": "11:59 AM to 12:49 PM",
+    "festivals": [
+      "Vamana Dwadashi",
+      "Kamada Ekadashi"
+    ]
+  },
+  "30/03/2026": {
+    "tithi": "Dwadashi upto 07:09 AM",
+    "paksha": "Shukla Paksha",
+    "maas": "Chaitra",
+    "nakshatra": "Magha upto 02:48 PM",
+    "sunrise": "06:12 AM",
+    "sunset": "06:35 PM",
+    "moonrise": "04:14 PM",
+    "moonset": "04:57 AM, Mar 31",
+    "brahmaMuhurta": "04:39 AM to 05:26 AM",
+    "abhijitMuhurta": "11:59 AM to 12:49 PM",
+    "festivals": [
+      "Kamada Ekadashi Parana",
+      "Soma Pradosh Vrat"
+    ]
+  },
+  "31/03/2026": {
+    "tithi": "Trayodashi upto 06:55 AM",
+    "paksha": "Shukla Paksha",
+    "maas": "Chaitra",
+    "nakshatra": "Purva Phalguni upto 03:20 PM",
+    "sunrise": "06:11 AM",
+    "sunset": "06:36 PM",
+    "moonrise": "05:12 PM",
+    "moonset": "05:27 AM, Apr 01",
+    "brahmaMuhurta": "04:38 AM to 05:25 AM",
+    "abhijitMuhurta": "11:59 AM to 12:48 PM",
+    "festivals": [
+      "Mahavir Swami Jayanti"
+    ]
+  },
+  "01/04/2026": {
+    "tithi": "Chaturdashi upto 07:06 AM",
+    "paksha": "Shukla Paksha",
+    "maas": "Chaitra",
+    "nakshatra": "Uttara Phalguni upto 04:17 PM",
+    "sunrise": "06:10 AM",
+    "sunset": "06:37 PM",
+    "moonrise": "06:08 PM",
+    "moonset": "05:56 AM, Apr 02",
+    "brahmaMuhurta": "04:37 AM to 05:24 AM",
+    "abhijitMuhurta": "None",
+    "festivals": [
+      "Panguni Uthiram",
+      "Chaitra Purnima Vrat",
+      "Anvadhan",
+      "Swarochisha Manvadi"
+    ]
+  },
+  "02/04/2026": {
+    "tithi": "Purnima upto 07:41 AM",
+    "paksha": "Shukla Paksha",
+    "maas": "Chaitra",
+    "nakshatra": "Hasta upto 05:38 PM",
+    "sunrise": "06:09 AM",
+    "sunset": "06:37 PM",
+    "moonrise": "07:04 PM",
+    "moonset": "No Moonset",
+    "brahmaMuhurta": "04:37 AM to 05:23 AM",
+    "abhijitMuhurta": "11:58 AM to 12:48 PM",
+    "festivals": [
+      "Hanuman Jayanti",
+      "Hanuman Janmotsava",
+      "Chaitra Navapada Oli Ends",
+      "Chaitra Purnima",
+      "Ishti"
+    ]
+  },
+  "03/04/2026": {
+    "tithi": "Pratipada upto 08:42 AM",
+    "paksha": "Krishna Paksha",
+    "maas": "Vaishakha",
+    "nakshatra": "Chitra upto 07:25 PM",
+    "sunrise": "06:08 AM",
+    "sunset": "06:38 PM",
+    "moonrise": "08:00 PM",
+    "moonset": "06:26 AM",
+    "brahmaMuhurta": "04:36 AM to 05:22 AM",
+    "abhijitMuhurta": "11:58 AM to 12:48 PM",
+    "festivals": [
+      "Vaishakha Begins *North"
+    ]
+  },
+  "04/04/2026": {
+    "tithi": "Dwitiya upto 10:08 AM",
+    "paksha": "Krishna Paksha",
+    "maas": "Vaishakha",
+    "nakshatra": "Swati upto 09:35 PM",
+    "sunrise": "06:07 AM",
+    "sunset": "06:38 PM",
+    "moonrise": "08:57 PM",
+    "moonset": "06:58 AM",
+    "brahmaMuhurta": "04:35 AM to 05:21 AM",
+    "abhijitMuhurta": "11:57 AM to 12:47 PM",
+    "festivals": []
+  },
+  "05/04/2026": {
+    "tithi": "Tritiya upto 11:59 AM",
+    "paksha": "Krishna Paksha",
+    "maas": "Vaishakha",
+    "nakshatra": "Vishakha upto 12:08 AM, Apr 06",
+    "sunrise": "06:06 AM",
+    "sunset": "06:39 PM",
+    "moonrise": "09:54 PM",
+    "moonset": "07:33 AM",
+    "brahmaMuhurta": "04:34 AM to 05:20 AM",
+    "abhijitMuhurta": "11:57 AM to 12:47 PM",
+    "festivals": [
+      "Vikata Sankashti"
+    ]
+  },
+  "06/04/2026": {
+    "tithi": "Chaturthi upto 02:10 PM",
+    "paksha": "Krishna Paksha",
+    "maas": "Vaishakha",
+    "nakshatra": "Anuradha upto 02:57 AM, Apr 07",
+    "sunrise": "06:04 AM",
+    "sunset": "06:39 PM",
+    "moonrise": "10:50 PM",
+    "moonset": "08:13 AM",
+    "brahmaMuhurta": "04:33 AM to 05:19 AM",
+    "abhijitMuhurta": "11:57 AM to 12:47 PM",
+    "festivals": []
+  },
+  "07/04/2026": {
+    "tithi": "Panchami upto 04:34 PM",
+    "paksha": "Krishna Paksha",
+    "maas": "Vaishakha",
+    "nakshatra": "Jyeshtha upto 05:54 AM, Apr 08",
+    "sunrise": "06:03 AM",
+    "sunset": "06:40 PM",
+    "moonrise": "11:45 PM",
+    "moonset": "08:57 AM",
+    "brahmaMuhurta": "04:32 AM to 05:18 AM",
+    "abhijitMuhurta": "11:56 AM to 12:47 PM",
+    "festivals": []
+  },
+  "08/04/2026": {
+    "tithi": "Shashthi upto 07:01 PM",
+    "paksha": "Krishna Paksha",
+    "maas": "Vaishakha",
+    "nakshatra": "Mula upto Full Night",
+    "sunrise": "06:02 AM",
+    "sunset": "06:40 PM",
+    "moonrise": "12:36 AM, Apr 09",
+    "moonset": "09:46 AM",
+    "brahmaMuhurta": "04:31 AM to 05:17 AM",
+    "abhijitMuhurta": "None",
+    "festivals": []
+  },
+  "09/04/2026": {
+    "tithi": "Saptami upto 09:19 PM",
+    "paksha": "Krishna Paksha",
+    "maas": "Vaishakha",
+    "nakshatra": "Mula upto 08:48 AM",
+    "sunrise": "06:01 AM",
+    "sunset": "06:41 PM",
+    "moonrise": "01:23 AM, Apr 10",
+    "moonset": "10:39 AM",
+    "brahmaMuhurta": "04:30 AM to 05:16 AM",
+    "abhijitMuhurta": "11:56 AM to 12:46 PM",
+    "festivals": [
+      "Masik Krishna Janmashtami"
+    ]
+  },
+  "10/04/2026": {
+    "tithi": "Ashtami upto 11:15 PM",
+    "paksha": "Krishna Paksha",
+    "maas": "Vaishakha",
+    "nakshatra": "Purva Ashadha upto 11:28 AM",
+    "sunrise": "06:00 AM",
+    "sunset": "06:41 PM",
+    "moonrise": "02:05 AM, Apr 11",
+    "moonset": "11:36 AM",
+    "brahmaMuhurta": "04:30 AM to 05:15 AM",
+    "abhijitMuhurta": "11:55 AM to 12:46 PM",
+    "festivals": [
+      "Kalashtami"
+    ]
+  },
+  "11/04/2026": {
+    "tithi": "Navami upto 12:37 AM, Apr 12",
+    "paksha": "Krishna Paksha",
+    "maas": "Vaishakha",
+    "nakshatra": "Uttara Ashadha upto 01:39 PM",
+    "sunrise": "05:59 AM",
+    "sunset": "06:42 PM",
+    "moonrise": "02:43 AM, Apr 12",
+    "moonset": "12:34 PM",
+    "brahmaMuhurta": "04:29 AM to 05:14 AM",
+    "abhijitMuhurta": "11:55 AM to 12:46 PM",
+    "festivals": []
+  },
+  "12/04/2026": {
+    "tithi": "Dashami upto 01:16 AM, Apr 13",
+    "paksha": "Krishna Paksha",
+    "maas": "Vaishakha",
+    "nakshatra": "Shravana upto 03:14 PM",
+    "sunrise": "05:58 AM",
+    "sunset": "06:42 PM",
+    "moonrise": "03:18 AM, Apr 13",
+    "moonset": "01:33 PM",
+    "brahmaMuhurta": "04:28 AM to 05:13 AM",
+    "abhijitMuhurta": "11:55 AM to 12:46 PM",
+    "festivals": []
+  },
+  "13/04/2026": {
+    "tithi": "Ekadashi upto 01:08 AM, Apr 14",
+    "paksha": "Krishna Paksha",
+    "maas": "Vaishakha",
+    "nakshatra": "Dhanishtha upto 04:03 PM",
+    "sunrise": "05:57 AM",
+    "sunset": "06:43 PM",
+    "moonrise": "03:50 AM, Apr 14",
+    "moonset": "02:32 PM",
+    "brahmaMuhurta": "04:27 AM to 05:12 AM",
+    "abhijitMuhurta": "11:54 AM to 12:45 PM",
+    "festivals": [
+      "Vallabhacharya Jayanti",
+      "Varuthini Ekadashi"
+    ]
+  },
+  "14/04/2026": {
+    "tithi": "Dwadashi upto 12:12 AM, Apr 15",
+    "paksha": "Krishna Paksha",
+    "maas": "Vaishakha",
+    "nakshatra": "Shatabhisha upto 04:06 PM",
+    "sunrise": "05:56 AM",
+    "sunset": "06:43 PM",
+    "moonrise": "04:22 AM, Apr 15",
+    "moonset": "03:32 PM",
+    "brahmaMuhurta": "04:26 AM to 05:11 AM",
+    "abhijitMuhurta": "11:54 AM to 12:45 PM",
+    "festivals": [
+      "Varuthini Ekadashi Parana",
+      "Krishna Vamana Dwadashi",
+      "Mesha Sankranti",
+      "Solar New Year",
+      "Puthandu"
+    ]
+  },
+  "15/04/2026": {
+    "tithi": "Trayodashi upto 10:31 PM",
+    "paksha": "Krishna Paksha",
+    "maas": "Vaishakha",
+    "nakshatra": "Purva Bhadrapada upto 03:22 PM",
+    "sunrise": "05:55 AM",
+    "sunset": "06:44 PM",
+    "moonrise": "04:54 AM, Apr 16",
+    "moonset": "04:33 PM",
+    "brahmaMuhurta": "04:25 AM to 05:10 AM",
+    "abhijitMuhurta": "None",
+    "festivals": [
+      "Kubjika Jayanti",
+      "Vishu Kani",
+      "Pohela Boishakha",
+      "Budha Pradosh Vrat",
+      "Masik Shivaratri"
+    ]
+  },
+  "16/04/2026": {
+    "tithi": "Chaturdashi upto 08:11 PM",
+    "paksha": "Krishna Paksha",
+    "maas": "Vaishakha",
+    "nakshatra": "Uttara Bhadrapada upto 01:59 PM",
+    "sunrise": "05:54 AM",
+    "sunset": "06:44 PM",
+    "moonrise": "05:29 AM, Apr 17",
+    "moonset": "05:36 PM",
+    "brahmaMuhurta": "04:25 AM to 05:09 AM",
+    "abhijitMuhurta": "11:54 AM to 12:45 PM",
+    "festivals": []
+  },
+  "17/04/2026": {
+    "tithi": "Amavasya upto 05:21 PM",
+    "paksha": "Krishna Paksha",
+    "maas": "Vaishakha",
+    "nakshatra": "Revati upto 12:02 PM",
+    "sunrise": "05:53 AM",
+    "sunset": "06:45 PM",
+    "moonrise": "No Moonrise",
+    "moonset": "06:42 PM",
+    "brahmaMuhurta": "04:24 AM to 05:08 AM",
+    "abhijitMuhurta": "11:53 AM to 12:45 PM",
+    "festivals": [
+      "Darsha Amavasya",
+      "Anvadhan",
+      "Vaishakha Amavasya"
+    ]
+  },
+  "18/04/2026": {
+    "tithi": "Pratipada upto 02:10 PM",
+    "paksha": "Shukla Paksha",
+    "maas": "Vaishakha",
+    "nakshatra": "Ashwini upto 09:42 AM",
+    "sunrise": "05:52 AM",
+    "sunset": "06:46 PM",
+    "moonrise": "06:08 AM",
+    "moonset": "07:52 PM",
+    "brahmaMuhurta": "04:23 AM to 05:08 AM",
+    "abhijitMuhurta": "11:53 AM to 12:45 PM",
+    "festivals": [
+      "Parashara Rishi Jayanti",
+      "Ishti",
+      "Chandra Darshana"
+    ]
+  },
+  "19/04/2026": {
+    "tithi": "Dwitiya upto 10:49 AM",
+    "paksha": "Shukla Paksha",
+    "maas": "Vaishakha",
+    "nakshatra": "Bharani upto 07:10 AM",
+    "sunrise": "05:51 AM",
+    "sunset": "06:46 PM",
+    "moonrise": "06:53 AM",
+    "moonset": "09:04 PM",
+    "brahmaMuhurta": "04:22 AM to 05:07 AM",
+    "abhijitMuhurta": "11:53 AM to 12:44 PM",
+    "festivals": [
+      "Parashurama Jayanti",
+      "Akshaya Tritiya",
+      "Masik Karthigai",
+      "Varshitapa Parana",
+      "Treta Yuga Diwas"
+    ]
+  },
+  "20/04/2026": {
+    "tithi": "Tritiya upto 07:27 AM",
+    "paksha": "Shukla Paksha",
+    "maas": "Vaishakha",
+    "nakshatra": "Rohini upto 02:08 AM, Apr 21",
+    "sunrise": "05:50 AM",
+    "sunset": "06:47 PM",
+    "moonrise": "07:45 AM",
+    "moonset": "10:15 PM",
+    "brahmaMuhurta": "04:21 AM to 05:06 AM",
+    "abhijitMuhurta": "11:52 AM to 12:44 PM",
+    "festivals": [
+      "Matangi Jayanti",
+      "Rohini Vrat",
+      "Sankarshana Chaturthi"
+    ]
+  },
+  "21/04/2026": {
+    "tithi": "Panchami upto 01:19 AM, Apr 22",
+    "paksha": "Shukla Paksha",
+    "maas": "Vaishakha",
+    "nakshatra": "Mrigashira upto 11:58 PM",
+    "sunrise": "05:49 AM",
+    "sunset": "06:47 PM",
+    "moonrise": "08:45 AM",
+    "moonset": "11:22 PM",
+    "brahmaMuhurta": "04:21 AM to 05:05 AM",
+    "abhijitMuhurta": "11:52 AM to 12:44 PM",
+    "festivals": [
+      "Shankaracharya Jayanti",
+      "Surdas Jayanti"
+    ]
+  },
+  "22/04/2026": {
+    "tithi": "Shashthi upto 10:49 PM",
+    "paksha": "Shukla Paksha",
+    "maas": "Vaishakha",
+    "nakshatra": "Ardra upto 10:13 PM",
+    "sunrise": "05:48 AM",
+    "sunset": "06:48 PM",
+    "moonrise": "09:51 AM",
+    "moonset": "12:20 AM, Apr 23",
+    "brahmaMuhurta": "04:20 AM to 05:04 AM",
+    "abhijitMuhurta": "None",
+    "festivals": [
+      "Ramanuja Jayanti",
+      "Skanda Sashti"
+    ]
+  },
+  "23/04/2026": {
+    "tithi": "Saptami upto 08:49 PM",
+    "paksha": "Shukla Paksha",
+    "maas": "Vaishakha",
+    "nakshatra": "Punarvasu upto 08:57 PM",
+    "sunrise": "05:47 AM",
+    "sunset": "06:48 PM",
+    "moonrise": "10:59 AM",
+    "moonset": "01:10 AM, Apr 24",
+    "brahmaMuhurta": "04:19 AM to 05:03 AM",
+    "abhijitMuhurta": "11:52 AM to 12:44 PM",
+    "festivals": [
+      "Ganga Saptami"
+    ]
+  },
+  "24/04/2026": {
+    "tithi": "Ashtami upto 07:21 PM",
+    "paksha": "Shukla Paksha",
+    "maas": "Vaishakha",
+    "nakshatra": "Pushya upto 08:14 PM",
+    "sunrise": "05:46 AM",
+    "sunset": "06:49 PM",
+    "moonrise": "12:05 PM",
+    "moonset": "01:52 AM, Apr 25",
+    "brahmaMuhurta": "04:19 AM to 05:02 AM",
+    "abhijitMuhurta": "11:51 AM to 12:44 PM",
+    "festivals": [
+      "Bagalamukhi Jayanti",
+      "Masik Durgashtami"
+    ]
+  },
+  "25/04/2026": {
+    "tithi": "Navami upto 06:27 PM",
+    "paksha": "Shukla Paksha",
+    "maas": "Vaishakha",
+    "nakshatra": "Ashlesha upto 08:04 PM",
+    "sunrise": "05:45 AM",
+    "sunset": "06:49 PM",
+    "moonrise": "01:09 PM",
+    "moonset": "02:28 AM, Apr 26",
+    "brahmaMuhurta": "04:18 AM to 05:02 AM",
+    "abhijitMuhurta": "11:51 AM to 12:44 PM",
+    "festivals": [
+      "Sita Navami"
+    ]
+  },
+  "26/04/2026": {
+    "tithi": "Dashami upto 06:06 PM",
+    "paksha": "Shukla Paksha",
+    "maas": "Vaishakha",
+    "nakshatra": "Magha upto 08:27 PM",
+    "sunrise": "05:44 AM",
+    "sunset": "06:50 PM",
+    "moonrise": "02:09 PM",
+    "moonset": "03:00 AM, Apr 27",
+    "brahmaMuhurta": "04:17 AM to 05:01 AM",
+    "abhijitMuhurta": "11:51 AM to 12:43 PM",
+    "festivals": [
+      "Mahavira Swami Kevalagyan"
+    ]
+  },
+  "27/04/2026": {
+    "tithi": "Ekadashi upto 06:15 PM",
+    "paksha": "Shukla Paksha",
+    "maas": "Vaishakha",
+    "nakshatra": "Purva Phalguni upto 09:18 PM",
+    "sunrise": "05:44 AM",
+    "sunset": "06:51 PM",
+    "moonrise": "03:06 PM",
+    "moonset": "03:30 AM, Apr 28",
+    "brahmaMuhurta": "04:16 AM to 05:00 AM",
+    "abhijitMuhurta": "11:51 AM to 12:43 PM",
+    "festivals": [
+      "Siddhilakshmi Jayanti",
+      "Thrissur Pooram",
+      "Mohini Ekadashi"
+    ]
+  },
+  "28/04/2026": {
+    "tithi": "Dwadashi upto 06:51 PM",
+    "paksha": "Shukla Paksha",
+    "maas": "Vaishakha",
+    "nakshatra": "Uttara Phalguni upto 10:36 PM",
+    "sunrise": "05:43 AM",
+    "sunset": "06:51 PM",
+    "moonrise": "04:02 PM",
+    "moonset": "03:59 AM, Apr 29",
+    "brahmaMuhurta": "04:16 AM to 04:59 AM",
+    "abhijitMuhurta": "11:51 AM to 12:43 PM",
+    "festivals": [
+      "Mohini Ekadashi Parana",
+      "Parashurama Dwadashi",
+      "Bhauma Pradosh Vrat"
+    ]
+  },
+  "29/04/2026": {
+    "tithi": "Trayodashi upto 07:51 PM",
+    "paksha": "Shukla Paksha",
+    "maas": "Vaishakha",
+    "nakshatra": "Hasta upto 12:16 AM, Apr 30",
+    "sunrise": "05:42 AM",
+    "sunset": "06:52 PM",
+    "moonrise": "04:57 PM",
+    "moonset": "04:28 AM, Apr 30",
+    "brahmaMuhurta": "04:15 AM to 04:58 AM",
+    "abhijitMuhurta": "None",
+    "festivals": []
+  },
+  "30/04/2026": {
+    "tithi": "Chaturdashi upto 09:12 PM",
+    "paksha": "Shukla Paksha",
+    "maas": "Vaishakha",
+    "nakshatra": "Chitra upto 02:16 AM, May 01",
+    "sunrise": "05:41 AM",
+    "sunset": "06:52 PM",
+    "moonrise": "05:52 PM",
+    "moonset": "04:59 AM, May 01",
+    "brahmaMuhurta": "04:14 AM to 04:58 AM",
+    "abhijitMuhurta": "11:50 AM to 12:43 PM",
+    "festivals": [
+      "Narasimha Jayanti",
+      "Chhinnamasta Jayanti"
+    ]
+  },
+  "01/05/2026": {
+    "tithi": "Purnima upto 10:52 PM",
+    "paksha": "Shukla Paksha",
+    "maas": "Vaishakha",
+    "nakshatra": "Swati upto 04:35 AM, May 02",
+    "sunrise": "05:40 AM",
+    "sunset": "06:53 PM",
+    "moonrise": "06:48 PM",
+    "moonset": "05:33 AM, May 02",
+    "brahmaMuhurta": "04:14 AM to 04:57 AM",
+    "abhijitMuhurta": "11:50 AM to 12:43 PM",
+    "festivals": [
+      "Kurma Jayanti",
+      "Buddha Purnima",
+      "Chandika Jayanti",
+      "Chitra Pournami",
+      "Vaishakha Purnima Vrat",
+      "Vaishakha Purnima",
+      "Anvadhan"
+    ]
+  },
+  "02/05/2026": {
+    "tithi": "Pratipada upto 12:49 AM, May 03",
+    "paksha": "Krishna Paksha",
+    "maas": "Jyeshtha",
+    "nakshatra": "Vishakha upto Full Night",
+    "sunrise": "05:39 AM",
+    "sunset": "06:53 PM",
+    "moonrise": "07:45 PM",
+    "moonset": "No Moonset",
+    "brahmaMuhurta": "04:13 AM to 04:56 AM",
+    "abhijitMuhurta": "11:50 AM to 12:43 PM",
+    "festivals": [
+      "Narada Jayanti",
+      "Jyeshtha Begins *North",
+      "Ishti"
+    ]
+  },
+  "03/05/2026": {
+    "tithi": "Dwitiya upto 03:01 AM, May 04",
+    "paksha": "Krishna Paksha",
+    "maas": "Jyeshtha",
+    "nakshatra": "Vishakha upto 07:10 AM",
+    "sunrise": "05:39 AM",
+    "sunset": "06:54 PM",
+    "moonrise": "08:42 PM",
+    "moonset": "06:10 AM",
+    "brahmaMuhurta": "04:13 AM to 04:56 AM",
+    "abhijitMuhurta": "11:50 AM to 12:43 PM",
+    "festivals": []
+  },
+  "04/05/2026": {
+    "tithi": "Tritiya upto 05:24 AM, May 05",
+    "paksha": "Krishna Paksha",
+    "maas": "Jyeshtha",
+    "nakshatra": "Anuradha upto 09:58 AM",
+    "sunrise": "05:38 AM",
+    "sunset": "06:55 PM",
+    "moonrise": "09:37 PM",
+    "moonset": "06:53 AM",
+    "brahmaMuhurta": "04:12 AM to 04:55 AM",
+    "abhijitMuhurta": "11:50 AM to 12:43 PM",
+    "festivals": [
+      "Agni Nakshatram Begins"
+    ]
+  },
+  "05/05/2026": {
+    "tithi": "Chaturthi upto Full Night",
+    "paksha": "Krishna Paksha",
+    "maas": "Jyeshtha",
+    "nakshatra": "Jyeshtha upto 12:55 PM",
+    "sunrise": "05:37 AM",
+    "sunset": "06:55 PM",
+    "moonrise": "10:30 PM",
+    "moonset": "07:40 AM",
+    "brahmaMuhurta": "04:11 AM to 04:54 AM",
+    "abhijitMuhurta": "11:50 AM to 12:43 PM",
+    "festivals": [
+      "Ekadanta Sankashti"
+    ]
+  },
+  "06/05/2026": {
+    "tithi": "Chaturthi upto 07:51 AM",
+    "paksha": "Krishna Paksha",
+    "maas": "Jyeshtha",
+    "nakshatra": "Mula upto 03:54 PM",
+    "sunrise": "05:36 AM",
+    "sunset": "06:56 PM",
+    "moonrise": "11:18 PM",
+    "moonset": "08:32 AM",
+    "brahmaMuhurta": "04:11 AM to 04:54 AM",
+    "abhijitMuhurta": "None",
+    "festivals": []
+  },
+  "07/05/2026": {
+    "tithi": "Panchami upto 10:13 AM",
+    "paksha": "Krishna Paksha",
+    "maas": "Jyeshtha",
+    "nakshatra": "Purva Ashadha upto 06:46 PM",
+    "sunrise": "05:36 AM",
+    "sunset": "06:56 PM",
+    "moonrise": "12:01 AM, May 08",
+    "moonset": "09:27 AM",
+    "brahmaMuhurta": "04:10 AM to 04:53 AM",
+    "abhijitMuhurta": "11:49 AM to 12:43 PM",
+    "festivals": []
+  },
+  "08/05/2026": {
+    "tithi": "Shashthi upto 12:21 PM",
+    "paksha": "Krishna Paksha",
+    "maas": "Jyeshtha",
+    "nakshatra": "Uttara Ashadha upto 09:20 PM",
+    "sunrise": "05:35 AM",
+    "sunset": "06:57 PM",
+    "moonrise": "12:40 AM, May 09",
+    "moonset": "10:24 AM",
+    "brahmaMuhurta": "04:10 AM to 04:52 AM",
+    "abhijitMuhurta": "11:49 AM to 12:43 PM",
+    "festivals": []
+  },
+  "09/05/2026": {
+    "tithi": "Saptami upto 02:02 PM",
+    "paksha": "Krishna Paksha",
+    "maas": "Jyeshtha",
+    "nakshatra": "Shravana upto 11:24 PM",
+    "sunrise": "05:34 AM",
+    "sunset": "06:57 PM",
+    "moonrise": "01:15 AM, May 10",
+    "moonset": "11:22 AM",
+    "brahmaMuhurta": "04:09 AM to 04:52 AM",
+    "abhijitMuhurta": "11:49 AM to 12:43 PM",
+    "festivals": [
+      "Tagore Jayanti *Bengal",
+      "Kalashtami",
+      "Masik Krishna Janmashtami"
+    ]
+  },
+  "10/05/2026": {
+    "tithi": "Ashtami upto 03:06 PM",
+    "paksha": "Krishna Paksha",
+    "maas": "Jyeshtha",
+    "nakshatra": "Dhanishtha upto 12:50 AM, May 11",
+    "sunrise": "05:34 AM",
+    "sunset": "06:58 PM",
+    "moonrise": "01:47 AM, May 11",
+    "moonset": "12:19 PM",
+    "brahmaMuhurta": "04:09 AM to 04:51 AM",
+    "abhijitMuhurta": "11:49 AM to 12:43 PM",
+    "festivals": []
+  },
+  "11/05/2026": {
+    "tithi": "Navami upto 03:24 PM",
+    "paksha": "Krishna Paksha",
+    "maas": "Jyeshtha",
+    "nakshatra": "Shatabhisha upto 01:28 AM, May 12",
+    "sunrise": "05:33 AM",
+    "sunset": "06:59 PM",
+    "moonrise": "02:18 AM, May 12",
+    "moonset": "01:17 PM",
+    "brahmaMuhurta": "04:08 AM to 04:51 AM",
+    "abhijitMuhurta": "11:49 AM to 12:43 PM",
+    "festivals": []
+  },
+  "12/05/2026": {
+    "tithi": "Dashami upto 02:52 PM",
+    "paksha": "Krishna Paksha",
+    "maas": "Jyeshtha",
+    "nakshatra": "Purva Bhadrapada upto 01:17 AM, May 13",
+    "sunrise": "05:32 AM",
+    "sunset": "06:59 PM",
+    "moonrise": "02:50 AM, May 13",
+    "moonset": "02:16 PM",
+    "brahmaMuhurta": "04:08 AM to 04:50 AM",
+    "abhijitMuhurta": "11:49 AM to 12:43 PM",
+    "festivals": [
+      "Hanuman Jayanti *Telugu"
+    ]
+  },
+  "13/05/2026": {
+    "tithi": "Ekadashi upto 01:29 PM",
+    "paksha": "Krishna Paksha",
+    "maas": "Jyeshtha",
+    "nakshatra": "Uttara Bhadrapada upto 12:17 AM, May 14",
+    "sunrise": "05:32 AM",
+    "sunset": "07:00 PM",
+    "moonrise": "03:23 AM, May 14",
+    "moonset": "03:16 PM",
+    "brahmaMuhurta": "04:07 AM to 04:50 AM",
+    "abhijitMuhurta": "None",
+    "festivals": [
+      "Krishna Parashurama Dwadashi",
+      "Apara Ekadashi"
+    ]
+  },
+  "14/05/2026": {
+    "tithi": "Dwadashi upto 11:20 AM",
+    "paksha": "Krishna Paksha",
+    "maas": "Jyeshtha",
+    "nakshatra": "Revati upto 10:34 PM",
+    "sunrise": "05:31 AM",
+    "sunset": "07:00 PM",
+    "moonrise": "03:59 AM, May 15",
+    "moonset": "04:20 PM",
+    "brahmaMuhurta": "04:07 AM to 04:49 AM",
+    "abhijitMuhurta": "11:49 AM to 12:43 PM",
+    "festivals": [
+      "Apara Ekadashi Parana",
+      "Guru Pradosh Vrat"
+    ]
+  },
+  "15/05/2026": {
+    "tithi": "Trayodashi upto 08:31 AM",
+    "paksha": "Krishna Paksha",
+    "maas": "Jyeshtha",
+    "nakshatra": "Ashwini upto 08:14 PM",
+    "sunrise": "05:31 AM",
+    "sunset": "07:01 PM",
+    "moonrise": "04:41 AM, May 16",
+    "moonset": "05:28 PM",
+    "brahmaMuhurta": "04:07 AM to 04:49 AM",
+    "abhijitMuhurta": "11:49 AM to 12:43 PM",
+    "festivals": [
+      "Vrishabha Sankranti",
+      "Masik Shivaratri"
+    ]
+  },
+  "16/05/2026": {
+    "tithi": "Amavasya upto 01:30 AM, May 17",
+    "paksha": "Krishna Paksha",
+    "maas": "Jyeshtha",
+    "nakshatra": "Bharani upto 05:30 PM",
+    "sunrise": "05:30 AM",
+    "sunset": "07:02 PM",
+    "moonrise": "No Moonrise",
+    "moonset": "06:39 PM",
+    "brahmaMuhurta": "04:06 AM to 04:48 AM",
+    "abhijitMuhurta": "11:49 AM to 12:43 PM",
+    "festivals": [
+      "Vat Savitri Vrat",
+      "Shani Jayanti",
+      "Masik Karthigai",
+      "Darsha Amavasya",
+      "Anvadhan",
+      "Jyeshtha Amavasya"
+    ]
+  },
+  "17/05/2026": {
+    "tithi": "Pratipada upto 09:40 PM",
+    "paksha": "Shukla Paksha",
+    "maas": "Jyeshtha (Adhik)",
+    "nakshatra": "Krittika upto 02:32 PM",
+    "sunrise": "05:29 AM",
+    "sunset": "07:02 PM",
+    "moonrise": "05:30 AM",
+    "moonset": "07:53 PM",
+    "brahmaMuhurta": "04:06 AM to 04:48 AM",
+    "abhijitMuhurta": "11:49 AM to 12:43 PM",
+    "festivals": [
+      "Purushottam Masa Day 1",
+      "Ashadha Adhika Maas Begins",
+      "Ishti",
+      "Adhika Chandra Darshana"
+    ]
+  },
+  "18/05/2026": {
+    "tithi": "Dwitiya upto 05:53 PM",
+    "paksha": "Shukla Paksha",
+    "maas": "Jyeshtha (Adhik)",
+    "nakshatra": "Rohini upto 11:32 AM",
+    "sunrise": "05:29 AM",
+    "sunset": "07:03 PM",
+    "moonrise": "06:28 AM",
+    "moonset": "09:04 PM",
+    "brahmaMuhurta": "04:05 AM to 04:47 AM",
+    "abhijitMuhurta": "11:49 AM to 12:43 PM",
+    "festivals": [
+      "Purushottam Masa Day 2",
+      "Rohini Vrat"
+    ]
+  },
+  "19/05/2026": {
+    "tithi": "Tritiya upto 02:18 PM",
+    "paksha": "Shukla Paksha",
+    "maas": "Jyeshtha (Adhik)",
+    "nakshatra": "Mrigashira upto 08:41 AM",
+    "sunrise": "05:28 AM",
+    "sunset": "07:03 PM",
+    "moonrise": "07:34 AM",
+    "moonset": "10:09 PM",
+    "brahmaMuhurta": "04:05 AM to 04:47 AM",
+    "abhijitMuhurta": "11:49 AM to 12:43 PM",
+    "festivals": [
+      "Purushottam Masa Day 3"
+    ]
+  },
+  "20/05/2026": {
+    "tithi": "Chaturthi upto 11:06 AM",
+    "paksha": "Shukla Paksha",
+    "maas": "Jyeshtha (Adhik)",
+    "nakshatra": "Ardra upto 06:11 AM",
+    "sunrise": "05:28 AM",
+    "sunset": "07:04 PM",
+    "moonrise": "08:44 AM",
+    "moonset": "11:04 PM",
+    "brahmaMuhurta": "04:05 AM to 04:46 AM",
+    "abhijitMuhurta": "None",
+    "festivals": [
+      "Purushottam Masa Day 4",
+      "Varada Chaturthi"
+    ]
+  },
+  "21/05/2026": {
+    "tithi": "Panchami upto 08:26 AM",
+    "paksha": "Shukla Paksha",
+    "maas": "Jyeshtha (Adhik)",
+    "nakshatra": "Pushya upto 02:49 AM, May 22",
+    "sunrise": "05:28 AM",
+    "sunset": "07:04 PM",
+    "moonrise": "09:54 AM",
+    "moonset": "11:50 PM",
+    "brahmaMuhurta": "04:04 AM to 04:46 AM",
+    "abhijitMuhurta": "11:49 AM to 12:43 PM",
+    "festivals": [
+      "Purushottam Masa Day 5",
+      "Adhika Skanda Sashti"
+    ]
+  },
+  "22/05/2026": {
+    "tithi": "Shashthi upto 06:24 AM",
+    "paksha": "Shukla Paksha",
+    "maas": "Jyeshtha (Adhik)",
+    "nakshatra": "Ashlesha upto 02:08 AM, May 23",
+    "sunrise": "05:27 AM",
+    "sunset": "07:05 PM",
+    "moonrise": "11:00 AM",
+    "moonset": "12:28 AM, May 23",
+    "brahmaMuhurta": "04:04 AM to 04:46 AM",
+    "abhijitMuhurta": "11:49 AM to 12:43 PM",
+    "festivals": [
+      "Purushottam Masa Day 6",
+      "Purushottam Masa Day 7"
+    ]
+  },
+  "23/05/2026": {
+    "tithi": "Ashtami upto 04:27 AM, May 24",
+    "paksha": "Shukla Paksha",
+    "maas": "Jyeshtha (Adhik)",
+    "nakshatra": "Magha upto 02:09 AM, May 24",
+    "sunrise": "05:27 AM",
+    "sunset": "07:06 PM",
+    "moonrise": "12:03 PM",
+    "moonset": "01:02 AM, May 24",
+    "brahmaMuhurta": "04:04 AM to 04:45 AM",
+    "abhijitMuhurta": "11:49 AM to 12:43 PM",
+    "festivals": [
+      "Purushottam Masa Day 8",
+      "Adhika Masik Durgashtami"
+    ]
+  },
+  "24/05/2026": {
+    "tithi": "Navami upto 04:30 AM, May 25",
+    "paksha": "Shukla Paksha",
+    "maas": "Jyeshtha (Adhik)",
+    "nakshatra": "Purva Phalguni upto 02:51 AM, May 25",
+    "sunrise": "05:26 AM",
+    "sunset": "07:06 PM",
+    "moonrise": "01:02 PM",
+    "moonset": "01:33 AM, May 25",
+    "brahmaMuhurta": "04:04 AM to 04:45 AM",
+    "abhijitMuhurta": "11:49 AM to 12:44 PM",
+    "festivals": [
+      "Purushottam Masa Day 9"
+    ]
+  },
+  "25/05/2026": {
+    "tithi": "Dashami upto 05:10 AM, May 26",
+    "paksha": "Shukla Paksha",
+    "maas": "Jyeshtha (Adhik)",
+    "nakshatra": "Uttara Phalguni upto 04:08 AM, May 26",
+    "sunrise": "05:26 AM",
+    "sunset": "07:07 PM",
+    "moonrise": "01:58 PM",
+    "moonset": "02:02 AM, May 26",
+    "brahmaMuhurta": "04:03 AM to 04:45 AM",
+    "abhijitMuhurta": "11:49 AM to 12:44 PM",
+    "festivals": [
+      "Purushottam Masa Day 10",
+      "Ganga Dussehra"
+    ]
+  },
+  "26/05/2026": {
+    "tithi": "Ekadashi upto Full Night",
+    "paksha": "Shukla Paksha",
+    "maas": "Jyeshtha (Adhik)",
+    "nakshatra": "Hasta upto Full Night",
+    "sunrise": "05:26 AM",
+    "sunset": "07:07 PM",
+    "moonrise": "02:53 PM",
+    "moonset": "02:31 AM, May 27",
+    "brahmaMuhurta": "04:03 AM to 04:44 AM",
+    "abhijitMuhurta": "11:49 AM to 12:44 PM",
+    "festivals": [
+      "Purushottam Masa Day 11"
+    ]
+  },
+  "27/05/2026": {
+    "tithi": "Ekadashi upto 06:21 AM",
+    "paksha": "Shukla Paksha",
+    "maas": "Jyeshtha (Adhik)",
+    "nakshatra": "Hasta upto 05:56 AM",
+    "sunrise": "05:25 AM",
+    "sunset": "07:08 PM",
+    "moonrise": "03:48 PM",
+    "moonset": "03:01 AM, May 28",
+    "brahmaMuhurta": "04:03 AM to 04:44 AM",
+    "abhijitMuhurta": "None",
+    "festivals": [
+      "Purushottam Masa Day 11",
+      "Adhika Ramalakshmana Dwadashi",
+      "Padmini Ekadashi"
+    ]
+  },
+  "28/05/2026": {
+    "tithi": "Dwadashi upto 07:56 AM",
+    "paksha": "Shukla Paksha",
+    "maas": "Jyeshtha (Adhik)",
+    "nakshatra": "Chitra upto 08:08 AM",
+    "sunrise": "05:25 AM",
+    "sunset": "07:08 PM",
+    "moonrise": "04:43 PM",
+    "moonset": "03:34 AM, May 29",
+    "brahmaMuhurta": "04:03 AM to 04:44 AM",
+    "abhijitMuhurta": "11:49 AM to 12:44 PM",
+    "festivals": [
+      "Purushottam Masa Day 12",
+      "Padmini Ekadashi Parana",
+      "Agni Nakshatram Ends",
+      "Guru Pradosh Vrat"
+    ]
+  },
+  "29/05/2026": {
+    "tithi": "Trayodashi upto 09:50 AM",
+    "paksha": "Shukla Paksha",
+    "maas": "Jyeshtha (Adhik)",
+    "nakshatra": "Swati upto 10:38 AM",
+    "sunrise": "05:25 AM",
+    "sunset": "07:09 PM",
+    "moonrise": "05:39 PM",
+    "moonset": "04:10 AM, May 30",
+    "brahmaMuhurta": "04:03 AM to 04:44 AM",
+    "abhijitMuhurta": "11:49 AM to 12:44 PM",
+    "festivals": [
+      "Purushottam Masa Day 13"
+    ]
+  },
+  "30/05/2026": {
+    "tithi": "Chaturdashi upto 11:57 AM",
+    "paksha": "Shukla Paksha",
+    "maas": "Jyeshtha (Adhik)",
+    "nakshatra": "Vishakha upto 01:20 PM",
+    "sunrise": "05:25 AM",
+    "sunset": "07:09 PM",
+    "moonrise": "06:36 PM",
+    "moonset": "04:51 AM, May 31",
+    "brahmaMuhurta": "04:02 AM to 04:43 AM",
+    "abhijitMuhurta": "11:49 AM to 12:44 PM",
+    "festivals": [
+      "Purushottam Masa Day 14",
+      "Vaikasi Visakam",
+      "Adhika Purnima Vrat"
+    ]
+  },
+  "31/05/2026": {
+    "tithi": "Purnima upto 02:14 PM",
+    "paksha": "Shukla Paksha",
+    "maas": "Jyeshtha (Adhik)",
+    "nakshatra": "Anuradha upto 04:12 PM",
+    "sunrise": "05:24 AM",
+    "sunset": "07:10 PM",
+    "moonrise": "07:31 PM",
+    "moonset": "No Moonset",
+    "brahmaMuhurta": "04:02 AM to 04:43 AM",
+    "abhijitMuhurta": "11:50 AM to 12:45 PM",
+    "festivals": [
+      "Purushottam Masa Day 15",
+      "Jyeshtha Adhika Purnima",
+      "Anvadhan"
+    ]
+  },
+  "01/06/2026": {
+    "tithi": "Pratipada upto 04:37 PM",
+    "paksha": "Krishna Paksha",
+    "maas": "Jyeshtha (Adhik)",
+    "nakshatra": "Jyeshtha upto 07:08 PM",
+    "sunrise": "05:24 AM",
+    "sunset": "07:10 PM",
+    "moonrise": "08:25 PM",
+    "moonset": "05:37 AM",
+    "brahmaMuhurta": "04:02 AM to 04:43 AM",
+    "abhijitMuhurta": "11:50 AM to 12:45 PM",
+    "festivals": [
+      "Purushottam Masa Day 16",
+      "Ishti"
+    ]
+  },
+  "02/06/2026": {
+    "tithi": "Dwitiya upto 07:01 PM",
+    "paksha": "Krishna Paksha",
+    "maas": "Jyeshtha (Adhik)",
+    "nakshatra": "Mula upto 10:06 PM",
+    "sunrise": "05:24 AM",
+    "sunset": "07:11 PM",
+    "moonrise": "09:14 PM",
+    "moonset": "06:27 AM",
+    "brahmaMuhurta": "04:02 AM to 04:43 AM",
+    "abhijitMuhurta": "11:50 AM to 12:45 PM",
+    "festivals": [
+      "Purushottam Masa Day 17"
+    ]
+  },
+  "03/06/2026": {
+    "tithi": "Tritiya upto 09:21 PM",
+    "paksha": "Krishna Paksha",
+    "maas": "Jyeshtha (Adhik)",
+    "nakshatra": "Purva Ashadha upto 12:59 AM, Jun 04",
+    "sunrise": "05:24 AM",
+    "sunset": "07:11 PM",
+    "moonrise": "09:59 PM",
+    "moonset": "07:22 AM",
+    "brahmaMuhurta": "04:02 AM to 04:43 AM",
+    "abhijitMuhurta": "None",
+    "festivals": [
+      "Purushottam Masa Day 18",
+      "Vibhuvana Sankashti"
+    ]
+  },
+  "04/06/2026": {
+    "tithi": "Chaturthi upto 11:30 PM",
+    "paksha": "Krishna Paksha",
+    "maas": "Jyeshtha (Adhik)",
+    "nakshatra": "Uttara Ashadha upto 03:41 AM, Jun 05",
+    "sunrise": "05:24 AM",
+    "sunset": "07:12 PM",
+    "moonrise": "10:39 PM",
+    "moonset": "08:18 AM",
+    "brahmaMuhurta": "04:02 AM to 04:43 AM",
+    "abhijitMuhurta": "11:50 AM to 12:45 PM",
+    "festivals": [
+      "Purushottam Masa Day 19"
+    ]
+  },
+  "05/06/2026": {
+    "tithi": "Panchami upto 01:20 AM, Jun 06",
+    "paksha": "Krishna Paksha",
+    "maas": "Jyeshtha (Adhik)",
+    "nakshatra": "Shravana upto Full Night",
+    "sunrise": "05:23 AM",
+    "sunset": "07:12 PM",
+    "moonrise": "11:15 PM",
+    "moonset": "09:15 AM",
+    "brahmaMuhurta": "04:02 AM to 04:43 AM",
+    "abhijitMuhurta": "11:50 AM to 12:45 PM",
+    "festivals": [
+      "Purushottam Masa Day 20"
+    ]
+  },
+  "06/06/2026": {
+    "tithi": "Shashthi upto 02:40 AM, Jun 07",
+    "paksha": "Krishna Paksha",
+    "maas": "Jyeshtha (Adhik)",
+    "nakshatra": "Shravana upto 06:03 AM",
+    "sunrise": "05:23 AM",
+    "sunset": "07:13 PM",
+    "moonrise": "11:47 PM",
+    "moonset": "10:12 AM",
+    "brahmaMuhurta": "04:02 AM to 04:43 AM",
+    "abhijitMuhurta": "11:50 AM to 12:46 PM",
+    "festivals": [
+      "Purushottam Masa Day 21"
+    ]
+  },
+  "07/06/2026": {
+    "tithi": "Saptami upto 03:24 AM, Jun 08",
+    "paksha": "Krishna Paksha",
+    "maas": "Jyeshtha (Adhik)",
+    "nakshatra": "Dhanishtha upto 07:55 AM",
+    "sunrise": "05:23 AM",
+    "sunset": "07:13 PM",
+    "moonrise": "12:18 AM, Jun 08",
+    "moonset": "11:08 AM",
+    "brahmaMuhurta": "04:02 AM to 04:43 AM",
+    "abhijitMuhurta": "11:51 AM to 12:46 PM",
+    "festivals": [
+      "Purushottam Masa Day 22",
+      "Adhika Bhanu Saptami"
+    ]
+  },
+  "08/06/2026": {
+    "tithi": "Ashtami upto 03:23 AM, Jun 09",
+    "paksha": "Krishna Paksha",
+    "maas": "Jyeshtha (Adhik)",
+    "nakshatra": "Shatabhisha upto 09:09 AM",
+    "sunrise": "05:23 AM",
+    "sunset": "07:13 PM",
+    "moonrise": "12:48 AM, Jun 09",
+    "moonset": "12:05 PM",
+    "brahmaMuhurta": "04:02 AM to 04:43 AM",
+    "abhijitMuhurta": "11:51 AM to 12:46 PM",
+    "festivals": [
+      "Purushottam Masa Day 23",
+      "Adhika Kalashtami",
+      "Adhik Masik Krishna Janmashtami"
+    ]
+  },
+  "09/06/2026": {
+    "tithi": "Navami upto 02:34 AM, Jun 10",
+    "paksha": "Krishna Paksha",
+    "maas": "Jyeshtha (Adhik)",
+    "nakshatra": "Purva Bhadrapada upto 09:39 AM",
+    "sunrise": "05:23 AM",
+    "sunset": "07:14 PM",
+    "moonrise": "01:19 AM, Jun 10",
+    "moonset": "01:02 PM",
+    "brahmaMuhurta": "04:02 AM to 04:43 AM",
+    "abhijitMuhurta": "11:51 AM to 12:46 PM",
+    "festivals": [
+      "Purushottam Masa Day 24"
+    ]
+  },
+  "10/06/2026": {
+    "tithi": "Dashami upto 12:57 AM, Jun 11",
+    "paksha": "Krishna Paksha",
+    "maas": "Jyeshtha (Adhik)",
+    "nakshatra": "Uttara Bhadrapada upto 09:21 AM",
+    "sunrise": "05:23 AM",
+    "sunset": "07:14 PM",
+    "moonrise": "01:53 AM, Jun 11",
+    "moonset": "02:02 PM",
+    "brahmaMuhurta": "04:02 AM to 04:43 AM",
+    "abhijitMuhurta": "None",
+    "festivals": [
+      "Purushottam Masa Day 25"
+    ]
+  },
+  "11/06/2026": {
+    "tithi": "Ekadashi upto 10:36 PM",
+    "paksha": "Krishna Paksha",
+    "maas": "Jyeshtha (Adhik)",
+    "nakshatra": "Revati upto 08:16 AM",
+    "sunrise": "05:23 AM",
+    "sunset": "07:15 PM",
+    "moonrise": "02:31 AM, Jun 12",
+    "moonset": "03:06 PM",
+    "brahmaMuhurta": "04:02 AM to 04:43 AM",
+    "abhijitMuhurta": "11:51 AM to 12:47 PM",
+    "festivals": [
+      "Purushottam Masa Day 26",
+      "Parama Ekadashi"
+    ]
+  },
+  "12/06/2026": {
+    "tithi": "Dwadashi upto 07:36 PM",
+    "paksha": "Krishna Paksha",
+    "maas": "Jyeshtha (Adhik)",
+    "nakshatra": "Ashwini upto 06:28 AM",
+    "sunrise": "05:23 AM",
+    "sunset": "07:15 PM",
+    "moonrise": "03:15 AM, Jun 13",
+    "moonset": "04:14 PM",
+    "brahmaMuhurta": "04:02 AM to 04:43 AM",
+    "abhijitMuhurta": "11:51 AM to 12:47 PM",
+    "festivals": [
+      "Purushottam Masa Day 27",
+      "Parama Ekadashi Parana",
+      "Adhika Krishna Ramalakshmana Dwadashi",
+      "Shukra Pradosh Vrat"
+    ]
+  },
+  "13/06/2026": {
+    "tithi": "Trayodashi upto 04:07 PM",
+    "paksha": "Krishna Paksha",
+    "maas": "Jyeshtha (Adhik)",
+    "nakshatra": "Krittika upto 01:16 AM, Jun 14",
+    "sunrise": "05:23 AM",
+    "sunset": "07:15 PM",
+    "moonrise": "04:09 AM, Jun 14",
+    "moonset": "05:26 PM",
+    "brahmaMuhurta": "04:02 AM to 04:43 AM",
+    "abhijitMuhurta": "11:52 AM to 12:47 PM",
+    "festivals": [
+      "Purushottam Masa Day 28",
+      "Masik Karthigai",
+      "Adhika Masik Shivaratri"
+    ]
+  },
+  "14/06/2026": {
+    "tithi": "Chaturdashi upto 12:19 PM",
+    "paksha": "Krishna Paksha",
+    "maas": "Jyeshtha (Adhik)",
+    "nakshatra": "Rohini upto 10:14 PM",
+    "sunrise": "05:23 AM",
+    "sunset": "07:16 PM",
+    "moonrise": "05:11 AM, Jun 15",
+    "moonset": "06:39 PM",
+    "brahmaMuhurta": "04:02 AM to 04:43 AM",
+    "abhijitMuhurta": "11:52 AM to 12:47 PM",
+    "festivals": [
+      "Purushottam Masa Day 29",
+      "Rohini Vrat",
+      "Adhika Darsha Amavasya",
+      "Anvadhan"
+    ]
+  },
+  "15/06/2026": {
+    "tithi": "Amavasya upto 08:23 AM",
+    "paksha": "Krishna Paksha",
+    "maas": "Jyeshtha (Adhik)",
+    "nakshatra": "Mrigashira upto 07:08 PM",
+    "sunrise": "05:23 AM",
+    "sunset": "07:16 PM",
+    "moonrise": "No Moonrise",
+    "moonset": "07:48 PM",
+    "brahmaMuhurta": "04:02 AM to 04:43 AM",
+    "abhijitMuhurta": "11:52 AM to 12:48 PM",
+    "festivals": [
+      "Purushottam Masa Day 30",
+      "Jyeshtha Adhika Maas Ends",
+      "Mithuna Sankranti",
+      "Jyeshtha Adhika Amavasya",
+      "Ishti"
+    ]
+  },
+  "16/06/2026": {
+    "tithi": "Dwitiya upto 12:52 AM, Jun 17",
+    "paksha": "Shukla Paksha",
+    "maas": "Jyeshtha",
+    "nakshatra": "Ardra upto 04:12 PM",
+    "sunrise": "05:24 AM",
+    "sunset": "07:16 PM",
+    "moonrise": "06:21 AM",
+    "moonset": "08:49 PM",
+    "brahmaMuhurta": "04:03 AM to 04:43 AM",
+    "abhijitMuhurta": "11:52 AM to 12:48 PM",
+    "festivals": [
+      "Chandra Darshana"
+    ]
+  },
+  "17/06/2026": {
+    "tithi": "Tritiya upto 09:38 PM",
+    "paksha": "Shukla Paksha",
+    "maas": "Jyeshtha",
+    "nakshatra": "Punarvasu upto 01:37 PM",
+    "sunrise": "05:24 AM",
+    "sunset": "07:17 PM",
+    "moonrise": "07:33 AM",
+    "moonset": "09:41 PM",
+    "brahmaMuhurta": "04:03 AM to 04:43 AM",
+    "abhijitMuhurta": "None",
+    "festivals": [
+      "Maharana Pratap Jayanti"
+    ]
+  },
+  "18/06/2026": {
+    "tithi": "Chaturthi upto 06:58 PM",
+    "paksha": "Shukla Paksha",
+    "maas": "Jyeshtha",
+    "nakshatra": "Pushya upto 11:32 AM",
+    "sunrise": "05:24 AM",
+    "sunset": "07:17 PM",
+    "moonrise": "08:44 AM",
+    "moonset": "10:24 PM",
+    "brahmaMuhurta": "04:03 AM to 04:43 AM",
+    "abhijitMuhurta": "11:53 AM to 12:48 PM",
+    "festivals": [
+      "Pradyumna Chaturthi"
+    ]
+  },
+  "19/06/2026": {
+    "tithi": "Panchami upto 04:59 PM",
+    "paksha": "Shukla Paksha",
+    "maas": "Jyeshtha",
+    "nakshatra": "Ashlesha upto 10:06 AM",
+    "sunrise": "05:24 AM",
+    "sunset": "07:17 PM",
+    "moonrise": "09:50 AM",
+    "moonset": "11:01 PM",
+    "brahmaMuhurta": "04:03 AM to 04:44 AM",
+    "abhijitMuhurta": "11:53 AM to 12:48 PM",
+    "festivals": [
+      "Skanda Sashti"
+    ]
+  },
+  "20/06/2026": {
+    "tithi": "Shashthi upto 03:46 PM",
+    "paksha": "Shukla Paksha",
+    "maas": "Jyeshtha",
+    "nakshatra": "Magha upto 09:25 AM",
+    "sunrise": "05:24 AM",
+    "sunset": "07:17 PM",
+    "moonrise": "10:52 AM",
+    "moonset": "11:33 PM",
+    "brahmaMuhurta": "04:03 AM to 04:44 AM",
+    "abhijitMuhurta": "11:53 AM to 12:49 PM",
+    "festivals": [
+      "Jamai Shashti"
+    ]
+  },
+  "21/06/2026": {
+    "tithi": "Saptami upto 03:20 PM",
+    "paksha": "Shukla Paksha",
+    "maas": "Jyeshtha",
+    "nakshatra": "Purva Phalguni upto 09:31 AM",
+    "sunrise": "05:24 AM",
+    "sunset": "07:18 PM",
+    "moonrise": "11:51 AM",
+    "moonset": "12:03 AM, Jun 22",
+    "brahmaMuhurta": "04:03 AM to 04:44 AM",
+    "abhijitMuhurta": "11:53 AM to 12:49 PM",
+    "festivals": [
+      "Bhanu Saptami",
+      "Longest Day of Year"
+    ]
+  },
+  "22/06/2026": {
+    "tithi": "Ashtami upto 03:39 PM",
+    "paksha": "Shukla Paksha",
+    "maas": "Jyeshtha",
+    "nakshatra": "Uttara Phalguni upto 10:22 AM",
+    "sunrise": "05:25 AM",
+    "sunset": "07:18 PM",
+    "moonrise": "12:47 PM",
+    "moonset": "12:33 AM, Jun 23",
+    "brahmaMuhurta": "04:04 AM to 04:44 AM",
+    "abhijitMuhurta": "11:53 AM to 12:49 PM",
+    "festivals": [
+      "Dhumavati Jayanti",
+      "Masik Durgashtami"
+    ]
+  },
+  "23/06/2026": {
+    "tithi": "Navami upto 04:39 PM",
+    "paksha": "Shukla Paksha",
+    "maas": "Jyeshtha",
+    "nakshatra": "Hasta upto 11:54 AM",
+    "sunrise": "05:25 AM",
+    "sunset": "07:18 PM",
+    "moonrise": "01:43 PM",
+    "moonset": "01:03 AM, Jun 24",
+    "brahmaMuhurta": "04:04 AM to 04:44 AM",
+    "abhijitMuhurta": "11:54 AM to 12:49 PM",
+    "festivals": [
+      "Mahesh Navami"
+    ]
+  },
+  "24/06/2026": {
+    "tithi": "Dashami upto 06:12 PM",
+    "paksha": "Shukla Paksha",
+    "maas": "Jyeshtha",
+    "nakshatra": "Chitra upto 01:59 PM",
+    "sunrise": "05:25 AM",
+    "sunset": "07:18 PM",
+    "moonrise": "02:38 PM",
+    "moonset": "01:35 AM, Jun 25",
+    "brahmaMuhurta": "04:04 AM to 04:45 AM",
+    "abhijitMuhurta": "None",
+    "festivals": []
+  },
+  "25/06/2026": {
+    "tithi": "Ekadashi upto 08:09 PM",
+    "paksha": "Shukla Paksha",
+    "maas": "Jyeshtha",
+    "nakshatra": "Swati upto 04:29 PM",
+    "sunrise": "05:25 AM",
+    "sunset": "07:18 PM",
+    "moonrise": "03:34 PM",
+    "moonset": "02:10 AM, Jun 26",
+    "brahmaMuhurta": "04:04 AM to 04:45 AM",
+    "abhijitMuhurta": "11:54 AM to 12:50 PM",
+    "festivals": [
+      "Gayatri Jayanti",
+      "Nirjala Ekadashi"
+    ]
+  },
+  "26/06/2026": {
+    "tithi": "Dwadashi upto 10:22 PM",
+    "paksha": "Shukla Paksha",
+    "maas": "Jyeshtha",
+    "nakshatra": "Vishakha upto 07:16 PM",
+    "sunrise": "05:26 AM",
+    "sunset": "07:18 PM",
+    "moonrise": "04:30 PM",
+    "moonset": "02:49 AM, Jun 27",
+    "brahmaMuhurta": "04:05 AM to 04:45 AM",
+    "abhijitMuhurta": "11:54 AM to 12:50 PM",
+    "festivals": [
+      "Nirjala Ekadashi Parana",
+      "Ramalakshmana Dwadashi"
+    ]
+  },
+  "27/06/2026": {
+    "tithi": "Trayodashi upto 12:43 AM, Jun 28",
+    "paksha": "Shukla Paksha",
+    "maas": "Jyeshtha",
+    "nakshatra": "Anuradha upto 10:11 PM",
+    "sunrise": "05:26 AM",
+    "sunset": "07:19 PM",
+    "moonrise": "05:26 PM",
+    "moonset": "03:34 AM, Jun 28",
+    "brahmaMuhurta": "04:05 AM to 04:45 AM",
+    "abhijitMuhurta": "11:55 AM to 12:50 PM",
+    "festivals": [
+      "Shani Trayodashi",
+      "Shani Pradosh Vrat"
+    ]
+  },
+  "28/06/2026": {
+    "tithi": "Chaturdashi upto 03:06 AM, Jun 29",
+    "paksha": "Shukla Paksha",
+    "maas": "Jyeshtha",
+    "nakshatra": "Jyeshtha upto 01:08 AM, Jun 29",
+    "sunrise": "05:26 AM",
+    "sunset": "07:19 PM",
+    "moonrise": "06:20 PM",
+    "moonset": "04:23 AM, Jun 29",
+    "brahmaMuhurta": "04:05 AM to 04:46 AM",
+    "abhijitMuhurta": "11:55 AM to 12:50 PM",
+    "festivals": []
+  },
+  "29/06/2026": {
+    "tithi": "Purnima upto 05:26 AM, Jun 30",
+    "paksha": "Shukla Paksha",
+    "maas": "Jyeshtha",
+    "nakshatra": "Mula upto 04:03 AM, Jun 30",
+    "sunrise": "05:27 AM",
+    "sunset": "07:19 PM",
+    "moonrise": "07:11 PM",
+    "moonset": "05:17 AM, Jun 30",
+    "brahmaMuhurta": "04:06 AM to 04:46 AM",
+    "abhijitMuhurta": "11:55 AM to 12:50 PM",
+    "festivals": [
+      "Vat Purnima Vrat",
+      "Kabirdas Jayanti",
+      "Batuka Bhairavi Jayanti",
+      "Jyeshtha Purnima Vrat",
+      "Jyeshtha Purnima",
+      "Anvadhan",
+      "Vaivaswata Manvadi"
+    ]
+  },
+  "30/06/2026": {
+    "tithi": "Pratipada upto Full Night",
+    "paksha": "Krishna Paksha",
+    "maas": "Ashadha",
+    "nakshatra": "Purva Ashadha upto Full Night",
+    "sunrise": "05:27 AM",
+    "sunset": "07:19 PM",
+    "moonrise": "07:58 PM",
+    "moonset": "No Moonset",
+    "brahmaMuhurta": "04:06 AM to 04:46 AM",
+    "abhijitMuhurta": "11:55 AM to 12:51 PM",
+    "festivals": [
+      "Ashadha Begins *North",
+      "Ishti"
+    ]
+  },
+  "01/07/2026": {
+    "tithi": "Pratipada upto 07:38 AM",
+    "paksha": "Krishna Paksha",
+    "maas": "Ashadha",
+    "nakshatra": "Purva Ashadha upto 06:51 AM",
+    "sunrise": "05:27 AM",
+    "sunset": "07:19 PM",
+    "moonrise": "08:39 PM",
+    "moonset": "06:13 AM",
+    "brahmaMuhurta": "04:06 AM to 04:47 AM",
+    "abhijitMuhurta": "None",
+    "festivals": []
+  },
+  "02/07/2026": {
+    "tithi": "Dwitiya upto 09:37 AM",
+    "paksha": "Krishna Paksha",
+    "maas": "Ashadha",
+    "nakshatra": "Uttara Ashadha upto 09:27 AM",
+    "sunrise": "05:28 AM",
+    "sunset": "07:19 PM",
+    "moonrise": "09:16 PM",
+    "moonset": "07:10 AM",
+    "brahmaMuhurta": "04:07 AM to 04:47 AM",
+    "abhijitMuhurta": "11:56 AM to 12:51 PM",
+    "festivals": []
+  },
+  "03/07/2026": {
+    "tithi": "Tritiya upto 11:20 AM",
+    "paksha": "Krishna Paksha",
+    "maas": "Ashadha",
+    "nakshatra": "Shravana upto 11:46 AM",
+    "sunrise": "05:28 AM",
+    "sunset": "07:19 PM",
+    "moonrise": "09:49 PM",
+    "moonset": "08:07 AM",
+    "brahmaMuhurta": "04:07 AM to 04:47 AM",
+    "abhijitMuhurta": "11:56 AM to 12:51 PM",
+    "festivals": [
+      "Krishnapingala Sankashti"
+    ]
+  },
+  "04/07/2026": {
+    "tithi": "Chaturthi upto 12:39 PM",
+    "paksha": "Krishna Paksha",
+    "maas": "Ashadha",
+    "nakshatra": "Dhanishtha upto 01:43 PM",
+    "sunrise": "05:28 AM",
+    "sunset": "07:19 PM",
+    "moonrise": "10:20 PM",
+    "moonset": "09:03 AM",
+    "brahmaMuhurta": "04:07 AM to 04:48 AM",
+    "abhijitMuhurta": "11:56 AM to 12:51 PM",
+    "festivals": []
+  },
+  "05/07/2026": {
+    "tithi": "Panchami upto 01:30 PM",
+    "paksha": "Krishna Paksha",
+    "maas": "Ashadha",
+    "nakshatra": "Shatabhisha upto 03:12 PM",
+    "sunrise": "05:29 AM",
+    "sunset": "07:19 PM",
+    "moonrise": "10:50 PM",
+    "moonset": "09:59 AM",
+    "brahmaMuhurta": "04:08 AM to 04:48 AM",
+    "abhijitMuhurta": "11:56 AM to 12:51 PM",
+    "festivals": []
+  },
+  "06/07/2026": {
+    "tithi": "Shashthi upto 01:47 PM",
+    "paksha": "Krishna Paksha",
+    "maas": "Ashadha",
+    "nakshatra": "Purva Bhadrapada upto 04:07 PM",
+    "sunrise": "05:29 AM",
+    "sunset": "07:19 PM",
+    "moonrise": "11:20 PM",
+    "moonset": "10:55 AM",
+    "brahmaMuhurta": "04:08 AM to 04:49 AM",
+    "abhijitMuhurta": "11:56 AM to 12:52 PM",
+    "festivals": []
+  },
+  "07/07/2026": {
+    "tithi": "Saptami upto 01:24 PM",
+    "paksha": "Krishna Paksha",
+    "maas": "Ashadha",
+    "nakshatra": "Uttara Bhadrapada upto 04:24 PM",
+    "sunrise": "05:30 AM",
+    "sunset": "07:18 PM",
+    "moonrise": "11:51 PM",
+    "moonset": "11:53 AM",
+    "brahmaMuhurta": "04:08 AM to 04:49 AM",
+    "abhijitMuhurta": "11:56 AM to 12:52 PM",
+    "festivals": [
+      "Kalashtami",
+      "Masik Krishna Janmashtami"
+    ]
+  },
+  "08/07/2026": {
+    "tithi": "Ashtami upto 12:21 PM",
+    "paksha": "Krishna Paksha",
+    "maas": "Ashadha",
+    "nakshatra": "Revati upto 04:00 PM",
+    "sunrise": "05:30 AM",
+    "sunset": "07:18 PM",
+    "moonrise": "12:26 AM, Jul 09",
+    "moonset": "12:53 PM",
+    "brahmaMuhurta": "04:09 AM to 04:49 AM",
+    "abhijitMuhurta": "None",
+    "festivals": []
+  },
+  "09/07/2026": {
+    "tithi": "Navami upto 10:37 AM",
+    "paksha": "Krishna Paksha",
+    "maas": "Ashadha",
+    "nakshatra": "Ashwini upto 02:56 PM",
+    "sunrise": "05:31 AM",
+    "sunset": "07:18 PM",
+    "moonrise": "01:06 AM, Jul 10",
+    "moonset": "01:57 PM",
+    "brahmaMuhurta": "04:09 AM to 04:50 AM",
+    "abhijitMuhurta": "11:57 AM to 12:52 PM",
+    "festivals": []
+  },
+  "10/07/2026": {
+    "tithi": "Dashami upto 08:16 AM",
+    "paksha": "Krishna Paksha",
+    "maas": "Ashadha",
+    "nakshatra": "Bharani upto 01:15 PM",
+    "sunrise": "05:31 AM",
+    "sunset": "07:18 PM",
+    "moonrise": "01:54 AM, Jul 11",
+    "moonset": "03:05 PM",
+    "brahmaMuhurta": "04:09 AM to 04:50 AM",
+    "abhijitMuhurta": "11:57 AM to 12:52 PM",
+    "festivals": [
+      "Masik Karthigai",
+      "Yogini Ekadashi"
+    ]
+  },
+  "11/07/2026": {
+    "tithi": "Dwadashi upto 02:04 AM, Jul 12",
+    "paksha": "Krishna Paksha",
+    "maas": "Ashadha",
+    "nakshatra": "Krittika upto 11:03 AM",
+    "sunrise": "05:32 AM",
+    "sunset": "07:18 PM",
+    "moonrise": "02:50 AM, Jul 12",
+    "moonset": "04:16 PM",
+    "brahmaMuhurta": "04:10 AM to 04:51 AM",
+    "abhijitMuhurta": "11:57 AM to 12:52 PM",
+    "festivals": [
+      "Yogini Ekadashi Parana",
+      "Krishna Ramalakshmana Dwadashi",
+      "Gauna Yogini Ekadashi",
+      "Vaishnava Yogini Ekadashi"
+    ]
+  },
+  "12/07/2026": {
+    "tithi": "Trayodashi upto 10:29 PM",
+    "paksha": "Krishna Paksha",
+    "maas": "Ashadha",
+    "nakshatra": "Rohini upto 08:29 AM",
+    "sunrise": "05:32 AM",
+    "sunset": "07:18 PM",
+    "moonrise": "03:56 AM, Jul 13",
+    "moonset": "05:26 PM",
+    "brahmaMuhurta": "04:10 AM to 04:51 AM",
+    "abhijitMuhurta": "11:57 AM to 12:52 PM",
+    "festivals": [
+      "Rohini Vrat",
+      "Ravi Pradosh Vrat",
+      "Masik Shivaratri"
+    ]
+  },
+  "13/07/2026": {
+    "tithi": "Chaturdashi upto 06:49 PM",
+    "paksha": "Krishna Paksha",
+    "maas": "Ashadha",
+    "nakshatra": "Mrigashira upto 05:41 AM",
+    "sunrise": "05:32 AM",
+    "sunset": "07:17 PM",
+    "moonrise": "05:08 AM, Jul 14",
+    "moonset": "06:31 PM",
+    "brahmaMuhurta": "04:10 AM to 04:51 AM",
+    "abhijitMuhurta": "11:57 AM to 12:52 PM",
+    "festivals": []
+  },
+  "14/07/2026": {
+    "tithi": "Amavasya upto 03:12 PM",
+    "paksha": "Krishna Paksha",
+    "maas": "Ashadha",
+    "nakshatra": "Punarvasu upto 12:09 AM, Jul 15",
+    "sunrise": "05:33 AM",
+    "sunset": "07:17 PM",
+    "moonrise": "No Moonrise",
+    "moonset": "07:27 PM",
+    "brahmaMuhurta": "04:11 AM to 04:52 AM",
+    "abhijitMuhurta": "11:58 AM to 12:52 PM",
+    "festivals": [
+      "Darsha Amavasya",
+      "Anvadhan",
+      "Ashadha Amavasya"
+    ]
+  },
+  "15/07/2026": {
+    "tithi": "Pratipada upto 11:50 AM",
+    "paksha": "Shukla Paksha",
+    "maas": "Ashadha",
+    "nakshatra": "Pushya upto 09:46 PM",
+    "sunrise": "05:33 AM",
+    "sunset": "07:17 PM",
+    "moonrise": "06:20 AM",
+    "moonset": "08:15 PM",
+    "brahmaMuhurta": "04:11 AM to 04:52 AM",
+    "abhijitMuhurta": "None",
+    "festivals": [
+      "Ashadha Navratri",
+      "Ishti",
+      "Chandra Darshana"
+    ]
+  },
+  "16/07/2026": {
+    "tithi": "Dwitiya upto 08:52 AM",
+    "paksha": "Shukla Paksha",
+    "maas": "Ashadha",
+    "nakshatra": "Ashlesha upto 07:52 PM",
+    "sunrise": "05:34 AM",
+    "sunset": "07:16 PM",
+    "moonrise": "07:30 AM",
+    "moonset": "08:55 PM",
+    "brahmaMuhurta": "04:12 AM to 04:53 AM",
+    "abhijitMuhurta": "11:58 AM to 12:53 PM",
+    "festivals": [
+      "Jagannath Rathyatra",
+      "Karka Sankranti"
+    ]
+  },
+  "17/07/2026": {
+    "tithi": "Tritiya upto 06:27 AM",
+    "paksha": "Shukla Paksha",
+    "maas": "Ashadha",
+    "nakshatra": "Magha upto 06:34 PM",
+    "sunrise": "05:34 AM",
+    "sunset": "07:16 PM",
+    "moonrise": "08:36 AM",
+    "moonset": "09:30 PM",
+    "brahmaMuhurta": "04:12 AM to 04:53 AM",
+    "abhijitMuhurta": "11:58 AM to 12:53 PM",
+    "festivals": [
+      "Aniruddha Chaturthi"
+    ]
+  },
+  "18/07/2026": {
+    "tithi": "Panchami upto 03:42 AM, Jul 19",
+    "paksha": "Shukla Paksha",
+    "maas": "Ashadha",
+    "nakshatra": "Purva Phalguni upto 06:00 PM",
+    "sunrise": "05:35 AM",
+    "sunset": "07:16 PM",
+    "moonrise": "09:38 AM",
+    "moonset": "10:02 PM",
+    "brahmaMuhurta": "04:12 AM to 04:54 AM",
+    "abhijitMuhurta": "11:58 AM to 12:53 PM",
+    "festivals": []
+  },
+  "19/07/2026": {
+    "tithi": "Shashthi upto 03:29 AM, Jul 20",
+    "paksha": "Shukla Paksha",
+    "maas": "Ashadha",
+    "nakshatra": "Uttara Phalguni upto 06:12 PM",
+    "sunrise": "05:35 AM",
+    "sunset": "07:15 PM",
+    "moonrise": "10:37 AM",
+    "moonset": "10:33 PM",
+    "brahmaMuhurta": "04:13 AM to 04:54 AM",
+    "abhijitMuhurta": "11:58 AM to 12:53 PM",
+    "festivals": [
+      "Skanda Sashti"
+    ]
+  }
+}
