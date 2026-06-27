@@ -4,78 +4,42 @@
     "title": "Shri Hanuman Chalisa",
     "author": "Goswami Tulsidas",
     "category": "Chalisa",
-    "pdfUrl": "/assets/pdfs/hanuman_chalisa.pdf"
+    "pdfUrl": "https://vedpuran.net/wp-content/uploads/2021/05/hanuman-chalisa.pdf"
+  },
+  {
+    "id": "bajarang_baan",
+    "title": "Bajrang Baan",
+    "author": "Goswami Tulsidas",
+    "category": "Chalisa",
+    "pdfUrl": "https://vedpuran.net/wp-content/uploads/2021/05/bajrang-baan.pdf"
   },
   {
     "id": "durga_chalisa",
     "title": "Shri Durga Chalisa",
     "author": "Traditional",
     "category": "Chalisa",
-    "pdfUrl": "/assets/pdfs/durga_chalisa.pdf"
+    "pdfUrl": "https://vedpuran.net/wp-content/uploads/2021/05/durga-chalisa.pdf"
   },
   {
     "id": "shiv_chalisa",
     "title": "Shri Shiva Chalisa",
     "author": "Traditional",
     "category": "Chalisa",
-    "pdfUrl": "/assets/pdfs/shiv_chalisa.pdf"
+    "pdfUrl": "https://vedpuran.net/wp-content/uploads/2021/05/shiv-chalisa.pdf"
   },
   {
     "id": "ganesh_chalisa",
     "title": "Shri Ganesha Chalisa",
     "author": "Traditional",
     "category": "Chalisa",
-    "pdfUrl": "/assets/pdfs/ganesh_chalisa.pdf"
+    "pdfUrl": "https://vedpuran.net/wp-content/uploads/2021/05/ganesh-chalisa.pdf"
   },
   {
     "id": "krishna_chalisa",
     "title": "Shri Krishna Chalisa",
     "author": "Traditional",
     "category": "Chalisa",
-    "pdfUrl": "/assets/pdfs/krishna_chalisa.pdf"
-  },
-  {
-    "id": "ram_chalisa",
-    "title": "Shri Rama Chalisa",
-    "author": "Traditional",
-    "category": "Chalisa",
-    "pdfUrl": "/assets/pdfs/ram_chalisa.pdf"
-  },
-
-  {
-    "id": "hanuman_aarti",
-    "title": "Shri Hanuman Aarti",
-    "author": "Traditional",
-    "category": "Aarti",
-    "pdfUrl": "/assets/pdfs/hanuman_aarti.pdf"
-  },
-  {
-    "id": "ganesh_aarti",
-    "title": "Shri Ganesha Aarti",
-    "author": "Traditional",
-    "category": "Aarti",
-    "pdfUrl": "/assets/pdfs/ganesh_aarti.pdf"
-  },
-  {
-    "id": "shiv_aarti",
-    "title": "Shri Shiva Aarti",
-    "author": "Traditional",
-    "category": "Aarti",
-    "pdfUrl": "/assets/pdfs/shiv_aarti.pdf"
-  },
-  {
-    "id": "durga_aarti",
-    "title": "Shri Durga Aarti",
-    "author": "Traditional",
-    "category": "Aarti",
-    "pdfUrl": "/assets/pdfs/durga_aarti.pdf"
-  },
-  {
-    "id": "radha_krishna_aarti",
-    "title": "Shri Radha Krishna Aarti",
-    "author": "Traditional",
-    "category": "Aarti",
-    "pdfUrl": "/assets/pdfs/radha_krishna_aarti.pdf"
+    "pdfUrl": "https://vedpuran.net/wp-content/uploads/2021/05/sri-krishna-chalisa.pdf"
   },
 
   {
@@ -83,70 +47,34 @@
     "title": "Shrimad Bhagavad Gita",
     "author": "Vedavyasa",
     "category": "Epics",
-    "pdfUrl": "/assets/pdfs/bhagavad_gita.pdf"
+    "pdfUrl": "https://vedpuran.net/wp-content/uploads/2012/03/unencrypted-geeta.pdf"
   },
   {
     "id": "ramayana",
     "title": "Valmiki Ramayana",
     "author": "Maharishi Valmiki",
     "category": "Epics",
-    "pdfUrl": "/assets/pdfs/ramayana.pdf"
+    "pdfUrl": "https://vedpuran.net/wp-content/uploads/2012/08/ramayana_all_kand_6191_pages.pdf"
   },
   {
     "id": "mahabharata",
     "title": "Mahabharata",
     "author": "Vedavyasa",
     "category": "Epics",
-    "pdfUrl": "/assets/pdfs/mahabharata.pdf"
+    "pdfUrl": "https://vedpuran.net/wp-content/uploads/2012/07/mahabhart-full-with-geeta-hindi.pdf"
   },
   {
     "id": "bhagavata_purana",
     "title": "Shrimad Bhagavatam",
     "author": "Vedavyasa",
     "category": "Epics",
-    "pdfUrl": "/assets/pdfs/bhagavatam.pdf"
+    "pdfUrl": "https://vedpuran.net/wp-content/uploads/2011/10/bhagwat-puran.pdf"
   },
-
-  {
-    "id": "chaitanya_charitamrita",
-    "title": "Shri Chaitanya Charitamrita",
-    "author": "Krishnadas Kaviraj Goswami",
+ {
+    "id": "vraja_mandala_parikarma",
+    "title": "Vraja Mandala Parikrama",
+    "author": "Shri Keshav Ji Gaudiya Math",
     "category": "Vaishnav Granth",
-    "pdfUrl": "/assets/pdfs/chaitanya_charitamrita.pdf"
+    "pdfUrl": "https://vedpuran.net/wp-content/uploads/2021/05/vraja-mandala-parikrama-2ed-hindi.pdf"
   },
-  {
-    "id": "chaitanya_bhagavata",
-    "title": "Shri Chaitanya Bhagavata",
-    "author": "Vrindavan Das Thakur",
-    "category": "Vaishnav Granth",
-    "pdfUrl": "/assets/pdfs/chaitanya_bhagavata.pdf"
-  },
-  {
-    "id": "bhakti_rasamrita_sindhu",
-    "title": "Bhakti Rasamrita Sindhu",
-    "author": "Srila Rupa Goswami",
-    "category": "Vaishnav Granth",
-    "pdfUrl": "/assets/pdfs/bhakti_rasamrita_sindhu.pdf"
-  },
-  {
-    "id": "upadesamrita",
-    "title": "Shri Upadesamrita",
-    "author": "Srila Rupa Goswami",
-    "category": "Vaishnav Granth",
-    "pdfUrl": "/assets/pdfs/upadesamrita.pdf"
-  },
-  {
-    "id": "hit_chaurasi",
-    "title": "Shri Hit Chaurasi",
-    "author": "Shri Hita Harivansh Mahaprabhu",
-    "category": "Vaishnav Granth",
-    "pdfUrl": "/assets/pdfs/hit_chaurasi.pdf"
-  },
-  {
-    "id": "radha_kripa_kataksha",
-    "title": "Shri Radha Kripa Kataksha Stotram",
-    "author": "Traditional",
-    "category": "Vaishnav Granth",
-    "pdfUrl": "/assets/pdfs/radha_kripa_kataksha.pdf"
-  }
 ]
