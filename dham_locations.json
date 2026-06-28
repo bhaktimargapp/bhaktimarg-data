@@ -1,0 +1,209 @@
+[
+  {
+    "id": "yamuna_tat",
+    "name": "Yamuna Tat",
+    "category": "Vrindavan, UP",
+    "lat": 27.5857,
+    "lon": 77.6961,
+    "imageUrl": "https://cdn.jsdelivr.net/gh/bhaktimargapp/bhaktimarg-data@main/images/vrindavan_3.jpg",
+    "videoUrl": null
+  },
+  {
+    "id": "gopeshwar_mahadev",
+    "name": "Shri Gopeshwar Mahadev",
+    "category": "Vrindavan, UP",
+    "lat": 27.5851,
+    "lon": 77.7029,
+    "imageUrl": "https://cdn.jsdelivr.net/gh/bhaktimargapp/bhaktimarg-data@main/images/gopeshwar.jpg",
+    "videoUrl": null
+  },
+  {
+    "id": "rangnath_mandir",
+    "name": "Sri Rangnath Mandir",
+    "category": "Vrindavan, UP",
+    "lat": 27.5825,
+    "lon": 77.7021,
+    "imageUrl": "https://cdn.jsdelivr.net/gh/bhaktimargapp/bhaktimarg-data@main/images/rangjivrindavan.jpg",
+    "videoUrl": null
+  },
+  {
+    "id": "nidhivan",
+    "name": "Nidhivan",
+    "category": "Vrindavan, UP",
+    "lat": 27.5841,
+    "lon": 77.6979,
+    "imageUrl": "https://cdn.jsdelivr.net/gh/bhaktimargapp/bhaktimarg-data@main/images/nidhivan.jpg",
+    "videoUrl": null
+  },
+  {
+    "id": "govardhan",
+    "name": "Govardhan Girraj ji",
+    "category": "Govardhan, UP",
+    "lat": 27.4884,
+    "lon": 77.4571,
+    "imageUrl": "https://cdn.jsdelivr.net/gh/bhaktimargapp/bhaktimarg-data@main/images/govardhan.jpg",
+    "videoUrl": null
+  },
+  {
+    "id": "radha_kund",
+    "name": "Radha Kund",
+    "category": "Govardhan, UP",
+    "lat": 27.5252,
+    "lon": 77.4906,
+    "imageUrl": "https://cdn.jsdelivr.net/gh/bhaktimargapp/bhaktimarg-data@main/images/radhakund.jpg",
+    "videoUrl": null
+  },
+  {
+    "id": "janmasthan",
+    "name": "Shri Krishna Janmasthan",
+    "category": "Mathura, UP",
+    "lat": 27.5047,
+    "lon": 77.6692,
+    "imageUrl": "https://cdn.jsdelivr.net/gh/bhaktimargapp/bhaktimarg-data@main/images/janambhumi.jpg",
+    "videoUrl": null
+  },
+  {
+    "id": "iskcon_vrindavan",
+    "name": "ISKCON Vrindavan",
+    "category": "Mathura, UP",
+    "lat": 27.5721,
+    "lon": 77.6772,
+    "imageUrl": "https://cdn.jsdelivr.net/gh/bhaktimargapp/bhaktimarg-data@main/images/iskcon.jpg",
+    "videoUrl": null
+  },
+  {
+    "id": "banke_bihari",
+    "name": "Shri Banke Bihari",
+    "category": "Vrindavan, UP",
+    "lat": 27.5797,
+    "lon": 77.6904,
+    "imageUrl": "https://cdn.jsdelivr.net/gh/bhaktimargapp/bhaktimarg-data@main/images/bankebihari_2.jpg",
+    "videoUrl": null
+  },
+  {
+    "id": "radha_raman",
+    "name": "Radha Raman Ju",
+    "category": "Vrindavan, UP",
+    "lat": 27.5852,
+    "lon": 77.6983,
+    "imageUrl": "https://cdn.jsdelivr.net/gh/bhaktimargapp/bhaktimarg-data@main/images/radha_raman_1.jpg",
+    "videoUrl": null
+  },
+  {
+    "id": "radha_vallabh",
+    "name": "Radha Vallabh Ju",
+    "category": "Vrindavan, UP",
+    "lat": 27.5809,
+    "lon": 77.6913,
+    "imageUrl": "https://cdn.jsdelivr.net/gh/bhaktimargapp/bhaktimarg-data@main/images/radha_vallabh_2.jpg",
+    "videoUrl": null
+  },
+  {
+    "id": "govind_dev",
+    "name": "Govind Dev Ji",
+    "category": "Jaipur, RJ",
+    "lat": 26.9288,
+    "lon": 75.8232,
+    "imageUrl": "https://cdn.jsdelivr.net/gh/bhaktimargapp/bhaktimarg-data@main/images/govinddev_1.jpg",
+    "videoUrl": null
+  },
+  {
+    "id": "gopi_nath",
+    "name": "Gopi Nath Ji",
+    "category": "Jaipur, RJ",
+    "lat": 26.9294,
+    "lon": 75.8139,
+    "imageUrl": "https://cdn.jsdelivr.net/gh/bhaktimargapp/bhaktimarg-data@main/images/gopinath_1.jpg",
+    "videoUrl": null
+  },
+  {
+    "id": "madan_mohan",
+    "name": "Madan Mohan Ji",
+    "category": "Karauli, RJ",
+    "lat": 26.4951,
+    "lon": 77.0291,
+    "imageUrl": "https://cdn.jsdelivr.net/gh/bhaktimargapp/bhaktimarg-data@main/images/madanmohan_1.jpg",
+    "videoUrl": null
+  },
+  {
+    "id": "barsana",
+    "name": "Shri Barsana Dham",
+    "category": "Barsana, UP",
+    "lat": 27.6498,
+    "lon": 77.3727,
+    "imageUrl": "https://cdn.jsdelivr.net/gh/bhaktimargapp/bhaktimarg-data@main/images/barsana_1.jpg",
+    "videoUrl": null
+  },
+  {
+    "id": "dwarkadhish",
+    "name": "Dwarkadhish",
+    "category": "Dwarka, GJ",
+    "lat": 22.2376,
+    "lon": 68.9671,
+    "imageUrl": "https://cdn.jsdelivr.net/gh/bhaktimargapp/bhaktimarg-data@main/images/dwarkadhish_1.jpg",
+    "videoUrl": null
+  },
+  {
+    "id": "shrinath_ji",
+    "name": "Shrinath Ji",
+    "category": "Nathdwara, RJ",
+    "lat": 24.9282,
+    "lon": 73.8158,
+    "imageUrl": "https://cdn.jsdelivr.net/gh/bhaktimargapp/bhaktimarg-data@main/images/shrinath_1.jpg",
+    "videoUrl": null
+  },
+  {
+    "id": "jagannath",
+    "name": "Jagannath Puri",
+    "category": "Puri, OD",
+    "lat": 19.8048,
+    "lon": 85.8174,
+    "imageUrl": "https://cdn.jsdelivr.net/gh/bhaktimargapp/bhaktimarg-data@main/images/jagannath_1.jpg",
+    "videoUrl": null
+  },
+  {
+    "id": "badrinath",
+    "name": "Badrinath Dham",
+    "category": "Uttarakhand",
+    "lat": 30.7447,
+    "lon": 79.4910,
+    "imageUrl": "https://cdn.jsdelivr.net/gh/bhaktimargapp/bhaktimarg-data@main/images/badrinath_1.jpg",
+    "videoUrl": null
+  },
+  {
+    "id": "balaji",
+    "name": "Venkateswara (Balaji)",
+    "category": "Tirumala, AP",
+    "lat": 13.6832,
+    "lon": 79.3462,
+    "imageUrl": "https://cdn.jsdelivr.net/gh/bhaktimargapp/bhaktimarg-data@main/images/venkateswara_1.jpg",
+    "videoUrl": null
+  },
+  {
+    "id": "vitthala",
+    "name": "Vitthala",
+    "category": "Pandharpur, MH",
+    "lat": 17.6774,
+    "lon": 75.3345,
+    "imageUrl": "https://cdn.jsdelivr.net/gh/bhaktimargapp/bhaktimarg-data@main/images/vitthala_1.jpg",
+    "videoUrl": null
+  },
+  {
+    "id": "rangnath_swamy",
+    "name": "Rangnath Swamy",
+    "category": "Srirangam, TN",
+    "lat": 10.8622,
+    "lon": 78.6899,
+    "imageUrl": "https://cdn.jsdelivr.net/gh/bhaktimargapp/bhaktimarg-data@main/images/rangnath_2.jpg",
+    "videoUrl": null
+  },
+  {
+    "id": "ram_janmabhoomi",
+    "name": "Ram Janmabhoomi",
+    "category": "Ayodhya, UP",
+    "lat": 26.7956,
+    "lon": 82.1943,
+    "imageUrl": "https://cdn.jsdelivr.net/gh/bhaktimargapp/bhaktimarg-data@main/images/ram_1.jpg",
+    "videoUrl": null
+  }
+]
