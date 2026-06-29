@@ -50,7 +50,7 @@
     "category": "Govardhan, UP",
     "lat": 27.5252,
     "lon": 77.4906,
-    "imageUrl": "https://cdn.jsdelivr.net/gh/bhaktimargapp/bhaktimarg-data@main/images/radhakund.jpg",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/bhaktimargapp/bhaktimarg-data@main/images/radhakund.webp",
     "videoUrl": null
   },
   {
@@ -59,7 +59,7 @@
     "category": "Mathura, UP",
     "lat": 27.5047,
     "lon": 77.6692,
-    "imageUrl": "https://cdn.jsdelivr.net/gh/bhaktimargapp/bhaktimarg-data@main/images/janambhumi.jpg",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/bhaktimargapp/bhaktimarg-data@main/images/janambhumi.webp",
     "videoUrl": null
   },
   {
@@ -95,7 +95,7 @@
     "category": "Vrindavan, UP",
     "lat": 27.5809,
     "lon": 77.6913,
-    "imageUrl": "https://cdn.jsdelivr.net/gh/bhaktimargapp/bhaktimarg-data@main/images/radha_vallabh_2.jpg",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/bhaktimargapp/bhaktimarg-data@main/images/radha_vallabh_2.jpeg",
     "videoUrl": null
   },
   {
@@ -176,7 +176,7 @@
     "category": "Tirumala, AP",
     "lat": 13.6832,
     "lon": 79.3462,
-    "imageUrl": "https://cdn.jsdelivr.net/gh/bhaktimargapp/bhaktimarg-data@main/images/venkateswara_1.jpg",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/bhaktimargapp/bhaktimarg-data@main/images/venkateswara_1.webp",
     "videoUrl": null
   },
   {
@@ -203,7 +203,7 @@
     "category": "Ayodhya, UP",
     "lat": 26.7956,
     "lon": 82.1943,
-    "imageUrl": "https://cdn.jsdelivr.net/gh/bhaktimargapp/bhaktimarg-data@main/images/ram_1.jpg",
+    "imageUrl": "https://cdn.jsdelivr.net/gh/bhaktimargapp/bhaktimarg-data@main/images/ram_1.webp",
     "videoUrl": null
   }
 ]
