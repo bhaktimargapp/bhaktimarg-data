@@ -1,0 +1,5885 @@
+{
+  "01/01/2027": {
+    "tithi": "Navami upto 01:09 PM",
+    "paksha": "Krishna Paksha",
+    "maas": "Pausha",
+    "nakshatra": "Chitra upto 05:29 PM",
+    "sunrise": "07:10 AM",
+    "sunset": "05:36 PM",
+    "moonrise": "02:24 AM, Jan 02",
+    "moonset": "12:37 PM",
+    "brahmaMuhurta": "05:21 AM to 06:15 AM",
+    "abhijitMuhurta": "12:02 PM to 12:44 PM",
+    "festivals": []
+  },
+  "02/01/2027": {
+    "tithi": "Dashami upto 02:24 PM",
+    "paksha": "Krishna Paksha",
+    "maas": "Pausha",
+    "nakshatra": "Swati upto 07:19 PM",
+    "sunrise": "07:10 AM",
+    "sunset": "05:36 PM",
+    "moonrise": "03:21 AM, Jan 03",
+    "moonset": "01:12 PM",
+    "brahmaMuhurta": "05:21 AM to 06:16 AM",
+    "abhijitMuhurta": "12:02 PM to 12:44 PM",
+    "festivals": []
+  },
+  "03/01/2027": {
+    "tithi": "Ekadashi upto 04:08 PM",
+    "paksha": "Krishna Paksha",
+    "maas": "Pausha",
+    "nakshatra": "Vishakha upto 09:37 PM",
+    "sunrise": "07:10 AM",
+    "sunset": "05:37 PM",
+    "moonrise": "04:18 AM, Jan 04",
+    "moonset": "01:50 PM",
+    "brahmaMuhurta": "05:22 AM to 06:16 AM",
+    "abhijitMuhurta": "12:03 PM to 12:45 PM",
+    "festivals": [
+      "Saphala Ekadashi"
+    ]
+  },
+  "04/01/2027": {
+    "tithi": "Dwadashi upto 06:15 PM",
+    "paksha": "Krishna Paksha",
+    "maas": "Pausha",
+    "nakshatra": "Anuradha upto 12:14 AM, Jan 05",
+    "sunrise": "07:10 AM",
+    "sunset": "05:38 PM",
+    "moonrise": "05:14 AM, Jan 05",
+    "moonset": "02:33 PM",
+    "brahmaMuhurta": "05:22 AM to 06:16 AM",
+    "abhijitMuhurta": "12:03 PM to 12:45 PM",
+    "festivals": [
+      "Saphala Ekadashi Parana",
+      "Krishna Matsya Dwadashi"
+    ]
+  },
+  "05/01/2027": {
+    "tithi": "Trayodashi upto 08:39 PM",
+    "paksha": "Krishna Paksha",
+    "maas": "Pausha",
+    "nakshatra": "Jyeshtha upto 03:07 AM, Jan 06",
+    "sunrise": "07:11 AM",
+    "sunset": "05:39 PM",
+    "moonrise": "06:07 AM, Jan 06",
+    "moonset": "03:20 PM",
+    "brahmaMuhurta": "05:22 AM to 06:16 AM",
+    "abhijitMuhurta": "12:04 PM to 12:45 PM",
+    "festivals": [
+      "Bhauma Pradosh Vrat",
+      "Masik Shivaratri"
+    ]
+  },
+  "06/01/2027": {
+    "tithi": "Chaturdashi upto 11:13 PM",
+    "paksha": "Krishna Paksha",
+    "maas": "Pausha",
+    "nakshatra": "Mula upto 06:08 AM, Jan 07",
+    "sunrise": "07:11 AM",
+    "sunset": "05:39 PM",
+    "moonrise": "06:55 AM, Jan 07",
+    "moonset": "04:12 PM",
+    "brahmaMuhurta": "05:22 AM to 06:17 AM",
+    "abhijitMuhurta": "None",
+    "festivals": []
+  },
+  "07/01/2027": {
+    "tithi": "Amavasya upto 01:53 AM, Jan 08",
+    "paksha": "Krishna Paksha",
+    "maas": "Pausha",
+    "nakshatra": "Purva Ashadha upto Full Night",
+    "sunrise": "07:11 AM",
+    "sunset": "05:40 PM",
+    "moonrise": "No Moonrise",
+    "moonset": "05:06 PM",
+    "brahmaMuhurta": "05:23 AM to 06:17 AM",
+    "abhijitMuhurta": "12:04 PM to 12:46 PM",
+    "festivals": [
+      "Hanuman Jayanti *Tamil",
+      "Darsha Amavasya",
+      "Anvadhan",
+      "Pausha Amavasya"
+    ]
+  },
+  "08/01/2027": {
+    "tithi": "Pratipada upto 04:33 AM, Jan 09",
+    "paksha": "Shukla Paksha",
+    "maas": "Pausha",
+    "nakshatra": "Purva Ashadha upto 09:12 AM",
+    "sunrise": "07:11 AM",
+    "sunset": "05:41 PM",
+    "moonrise": "07:38 AM",
+    "moonset": "06:02 PM",
+    "brahmaMuhurta": "05:23 AM to 06:17 AM",
+    "abhijitMuhurta": "12:05 PM to 12:47 PM",
+    "festivals": [
+      "Ishti"
+    ]
+  },
+  "09/01/2027": {
+    "tithi": "Dwitiya upto 07:07 AM, Jan 10",
+    "paksha": "Shukla Paksha",
+    "maas": "Pausha",
+    "nakshatra": "Uttara Ashadha upto 12:15 PM",
+    "sunrise": "07:11 AM",
+    "sunset": "05:41 PM",
+    "moonrise": "08:17 AM",
+    "moonset": "06:58 PM",
+    "brahmaMuhurta": "05:23 AM to 06:17 AM",
+    "abhijitMuhurta": "12:05 PM to 12:47 PM",
+    "festivals": [
+      "Chandra Darshana"
+    ]
+  },
+  "10/01/2027": {
+    "tithi": "Tritiya upto Full Night",
+    "paksha": "Shukla Paksha",
+    "maas": "Pausha",
+    "nakshatra": "Shravana upto 03:11 PM",
+    "sunrise": "07:11 AM",
+    "sunset": "05:42 PM",
+    "moonrise": "08:51 AM",
+    "moonset": "07:53 PM",
+    "brahmaMuhurta": "05:23 AM to 06:17 AM",
+    "abhijitMuhurta": "12:06 PM to 12:48 PM",
+    "festivals": []
+  },
+  "11/01/2027": {
+    "tithi": "Tritiya upto 09:28 AM",
+    "paksha": "Shukla Paksha",
+    "maas": "Pausha",
+    "nakshatra": "Dhanishtha upto 05:53 PM",
+    "sunrise": "07:11 AM",
+    "sunset": "05:43 PM",
+    "moonrise": "09:22 AM",
+    "moonset": "08:47 PM",
+    "brahmaMuhurta": "05:23 AM to 06:17 AM",
+    "abhijitMuhurta": "12:06 PM to 12:48 PM",
+    "festivals": [
+      "Vighneshvara Chaturthi"
+    ]
+  },
+  "12/01/2027": {
+    "tithi": "Chaturthi upto 11:29 AM",
+    "paksha": "Shukla Paksha",
+    "maas": "Pausha",
+    "nakshatra": "Shatabhisha upto 08:13 PM",
+    "sunrise": "07:11 AM",
+    "sunset": "05:44 PM",
+    "moonrise": "09:51 AM",
+    "moonset": "09:40 PM",
+    "brahmaMuhurta": "05:23 AM to 06:17 AM",
+    "abhijitMuhurta": "12:06 PM to 12:49 PM",
+    "festivals": []
+  },
+  "13/01/2027": {
+    "tithi": "Panchami upto 01:01 PM",
+    "paksha": "Shukla Paksha",
+    "maas": "Pausha",
+    "nakshatra": "Purva Bhadrapada upto 10:04 PM",
+    "sunrise": "07:11 AM",
+    "sunset": "05:45 PM",
+    "moonrise": "10:20 AM",
+    "moonset": "10:35 PM",
+    "brahmaMuhurta": "05:24 AM to 06:17 AM",
+    "abhijitMuhurta": "None",
+    "festivals": [
+      "Skanda Sashti"
+    ]
+  },
+  "14/01/2027": {
+    "tithi": "Shashthi upto 01:58 PM",
+    "paksha": "Shukla Paksha",
+    "maas": "Pausha",
+    "nakshatra": "Uttara Bhadrapada upto 11:18 PM",
+    "sunrise": "07:11 AM",
+    "sunset": "05:45 PM",
+    "moonrise": "10:49 AM",
+    "moonset": "11:30 PM",
+    "brahmaMuhurta": "05:24 AM to 06:17 AM",
+    "abhijitMuhurta": "12:07 PM to 12:49 PM",
+    "festivals": [
+      "Bhogi Pandigai"
+    ]
+  },
+  "15/01/2027": {
+    "tithi": "Saptami upto 02:13 PM",
+    "paksha": "Shukla Paksha",
+    "maas": "Pausha",
+    "nakshatra": "Revati upto 11:51 PM",
+    "sunrise": "07:11 AM",
+    "sunset": "05:46 PM",
+    "moonrise": "11:20 AM",
+    "moonset": "12:28 AM, Jan 16",
+    "brahmaMuhurta": "05:24 AM to 06:17 AM",
+    "abhijitMuhurta": "12:07 PM to 12:50 PM",
+    "festivals": [
+      "Guru Gobind Singh Jayanti",
+      "Makara Sankranti",
+      "Pongal",
+      "Uttarayana",
+      "Makaravilakku",
+      "Magh Bihu"
+    ]
+  },
+  "16/01/2027": {
+    "tithi": "Ashtami upto 01:42 PM",
+    "paksha": "Shukla Paksha",
+    "maas": "Pausha",
+    "nakshatra": "Ashwini upto 11:38 PM",
+    "sunrise": "07:11 AM",
+    "sunset": "05:47 PM",
+    "moonrise": "11:55 AM",
+    "moonset": "01:30 AM, Jan 17",
+    "brahmaMuhurta": "05:24 AM to 06:17 AM",
+    "abhijitMuhurta": "12:08 PM to 12:50 PM",
+    "festivals": [
+      "Banada Ashtami",
+      "Mattu Pongal",
+      "Masik Durgashtami"
+    ]
+  },
+  "17/01/2027": {
+    "tithi": "Navami upto 12:26 PM",
+    "paksha": "Shukla Paksha",
+    "maas": "Pausha",
+    "nakshatra": "Bharani upto 10:42 PM",
+    "sunrise": "07:11 AM",
+    "sunset": "05:48 PM",
+    "moonrise": "12:35 PM",
+    "moonset": "02:36 AM, Jan 18",
+    "brahmaMuhurta": "05:24 AM to 06:17 AM",
+    "abhijitMuhurta": "12:08 PM to 12:51 PM",
+    "festivals": []
+  },
+  "18/01/2027": {
+    "tithi": "Dashami upto 10:26 AM",
+    "paksha": "Shukla Paksha",
+    "maas": "Pausha",
+    "nakshatra": "Krittika upto 09:05 PM",
+    "sunrise": "07:11 AM",
+    "sunset": "05:49 PM",
+    "moonrise": "01:22 PM",
+    "moonset": "03:45 AM, Jan 19",
+    "brahmaMuhurta": "05:24 AM to 06:17 AM",
+    "abhijitMuhurta": "12:08 PM to 12:51 PM",
+    "festivals": [
+      "Masik Karthigai",
+      "Pausha Putrada Ekadashi",
+      "Dharma Savarni Manvadi"
+    ]
+  },
+  "19/01/2027": {
+    "tithi": "Ekadashi upto 07:49 AM",
+    "paksha": "Shukla Paksha",
+    "maas": "Pausha",
+    "nakshatra": "Rohini upto 06:54 PM",
+    "sunrise": "07:11 AM",
+    "sunset": "05:49 PM",
+    "moonrise": "02:19 PM",
+    "moonset": "04:53 AM, Jan 20",
+    "brahmaMuhurta": "05:24 AM to 06:17 AM",
+    "abhijitMuhurta": "12:09 PM to 12:51 PM",
+    "festivals": [
+      "Pausha Putrada Ekadashi Parana",
+      "Kurma Dwadashi",
+      "Tailang Swami Jayanti",
+      "Rohini Vrat",
+      "Gauna Pausha Putrada Ekadashi",
+      "Vaishnava Pausha Putrada Ekadashi"
+    ]
+  },
+  "20/01/2027": {
+    "tithi": "Trayodashi upto 01:11 AM, Jan 21",
+    "paksha": "Shukla Paksha",
+    "maas": "Pausha",
+    "nakshatra": "Mrigashira upto 04:17 PM",
+    "sunrise": "07:10 AM",
+    "sunset": "05:50 PM",
+    "moonrise": "03:25 PM",
+    "moonset": "05:56 AM, Jan 21",
+    "brahmaMuhurta": "05:24 AM to 06:17 AM",
+    "abhijitMuhurta": "None",
+    "festivals": [
+      "Budha Pradosh Vrat"
+    ]
+  },
+  "21/01/2027": {
+    "tithi": "Chaturdashi upto 09:29 PM",
+    "paksha": "Shukla Paksha",
+    "maas": "Pausha",
+    "nakshatra": "Ardra upto 01:23 PM",
+    "sunrise": "07:10 AM",
+    "sunset": "05:51 PM",
+    "moonrise": "04:37 PM",
+    "moonset": "06:52 AM, Jan 22",
+    "brahmaMuhurta": "05:23 AM to 06:17 AM",
+    "abhijitMuhurta": "12:09 PM to 12:52 PM",
+    "festivals": []
+  },
+  "22/01/2027": {
+    "tithi": "Purnima upto 05:46 PM",
+    "paksha": "Shukla Paksha",
+    "maas": "Pausha",
+    "nakshatra": "Punarvasu upto 10:24 AM",
+    "sunrise": "07:10 AM",
+    "sunset": "05:52 PM",
+    "moonrise": "05:51 PM",
+    "moonset": "No Moonset",
+    "brahmaMuhurta": "05:23 AM to 06:17 AM",
+    "abhijitMuhurta": "12:09 PM to 12:52 PM",
+    "festivals": [
+      "Shakambhari Purnima",
+      "Thai Pusam",
+      "Ramalala Pratishtha Diwas",
+      "Pausha Purnima Vrat",
+      "Pausha Purnima",
+      "Anvadhan"
+    ]
+  },
+  "23/01/2027": {
+    "tithi": "Pratipada upto 02:12 PM",
+    "paksha": "Krishna Paksha",
+    "maas": "Magha",
+    "nakshatra": "Pushya upto 07:31 AM",
+    "sunrise": "07:10 AM",
+    "sunset": "05:53 PM",
+    "moonrise": "07:02 PM",
+    "moonset": "07:40 AM",
+    "brahmaMuhurta": "05:23 AM to 06:16 AM",
+    "abhijitMuhurta": "12:10 PM to 12:53 PM",
+    "festivals": [
+      "Magha Begins *North",
+      "Ishti"
+    ]
+  },
+  "24/01/2027": {
+    "tithi": "Dwitiya upto 10:57 AM",
+    "paksha": "Krishna Paksha",
+    "maas": "Magha",
+    "nakshatra": "Magha upto 02:40 AM, Jan 25",
+    "sunrise": "07:09 AM",
+    "sunset": "05:53 PM",
+    "moonrise": "08:10 PM",
+    "moonset": "08:21 AM",
+    "brahmaMuhurta": "05:23 AM to 06:16 AM",
+    "abhijitMuhurta": "12:10 PM to 12:53 PM",
+    "festivals": []
+  },
+  "25/01/2027": {
+    "tithi": "Tritiya upto 08:10 AM",
+    "paksha": "Krishna Paksha",
+    "maas": "Magha",
+    "nakshatra": "Purva Phalguni upto 01:03 AM, Jan 26",
+    "sunrise": "07:09 AM",
+    "sunset": "05:54 PM",
+    "moonrise": "09:15 PM",
+    "moonset": "08:58 AM",
+    "brahmaMuhurta": "05:23 AM to 06:16 AM",
+    "abhijitMuhurta": "12:10 PM to 12:53 PM",
+    "festivals": [
+      "Sakat Chauth",
+      "Lambodara Sankashti"
+    ]
+  },
+  "26/01/2027": {
+    "tithi": "Panchami upto 04:33 AM, Jan 27",
+    "paksha": "Krishna Paksha",
+    "maas": "Magha",
+    "nakshatra": "Uttara Phalguni upto 12:06 AM, Jan 27",
+    "sunrise": "07:09 AM",
+    "sunset": "05:55 PM",
+    "moonrise": "10:16 PM",
+    "moonset": "09:31 AM",
+    "brahmaMuhurta": "05:23 AM to 06:16 AM",
+    "abhijitMuhurta": "12:10 PM to 12:53 PM",
+    "festivals": []
+  },
+  "27/01/2027": {
+    "tithi": "Shashthi upto 03:53 AM, Jan 28",
+    "paksha": "Krishna Paksha",
+    "maas": "Magha",
+    "nakshatra": "Hasta upto 11:56 PM",
+    "sunrise": "07:08 AM",
+    "sunset": "05:56 PM",
+    "moonrise": "11:16 PM",
+    "moonset": "10:04 AM",
+    "brahmaMuhurta": "05:22 AM to 06:15 AM",
+    "abhijitMuhurta": "None",
+    "festivals": []
+  },
+  "28/01/2027": {
+    "tithi": "Saptami upto 04:02 AM, Jan 29",
+    "paksha": "Krishna Paksha",
+    "maas": "Magha",
+    "nakshatra": "Chitra upto 12:32 AM, Jan 29",
+    "sunrise": "07:08 AM",
+    "sunset": "05:57 PM",
+    "moonrise": "12:15 AM, Jan 29",
+    "moonset": "10:37 AM",
+    "brahmaMuhurta": "05:22 AM to 06:15 AM",
+    "abhijitMuhurta": "12:11 PM to 12:54 PM",
+    "festivals": [
+      "Vivekananda Jayanti *Samvat"
+    ]
+  },
+  "29/01/2027": {
+    "tithi": "Ashtami upto 04:57 AM, Jan 30",
+    "paksha": "Krishna Paksha",
+    "maas": "Magha",
+    "nakshatra": "Swati upto 01:54 AM, Jan 30",
+    "sunrise": "07:07 AM",
+    "sunset": "05:57 PM",
+    "moonrise": "01:14 AM, Jan 30",
+    "moonset": "11:11 AM",
+    "brahmaMuhurta": "05:22 AM to 06:15 AM",
+    "abhijitMuhurta": "12:11 PM to 12:54 PM",
+    "festivals": [
+      "Kalashtami",
+      "Masik Krishna Janmashtami"
+    ]
+  },
+  "30/01/2027": {
+    "tithi": "Navami upto 06:33 AM, Jan 31",
+    "paksha": "Krishna Paksha",
+    "maas": "Magha",
+    "nakshatra": "Vishakha upto 03:55 AM, Jan 31",
+    "sunrise": "07:07 AM",
+    "sunset": "05:58 PM",
+    "moonrise": "02:12 AM, Jan 31",
+    "moonset": "11:49 AM",
+    "brahmaMuhurta": "05:22 AM to 06:14 AM",
+    "abhijitMuhurta": "12:11 PM to 12:54 PM",
+    "festivals": []
+  },
+  "31/01/2027": {
+    "tithi": "Dashami upto Full Night",
+    "paksha": "Krishna Paksha",
+    "maas": "Magha",
+    "nakshatra": "Anuradha upto 06:27 AM, Feb 01",
+    "sunrise": "07:06 AM",
+    "sunset": "05:59 PM",
+    "moonrise": "03:08 AM, Feb 01",
+    "moonset": "12:30 PM",
+    "brahmaMuhurta": "05:21 AM to 06:14 AM",
+    "abhijitMuhurta": "12:11 PM to 12:55 PM",
+    "festivals": []
+  },
+  "01/02/2027": {
+    "tithi": "Dashami upto 08:41 AM",
+    "paksha": "Krishna Paksha",
+    "maas": "Magha",
+    "nakshatra": "Jyeshtha upto Full Night",
+    "sunrise": "07:06 AM",
+    "sunset": "06:00 PM",
+    "moonrise": "04:02 AM, Feb 02",
+    "moonset": "01:16 PM",
+    "brahmaMuhurta": "05:21 AM to 06:14 AM",
+    "abhijitMuhurta": "12:11 PM to 12:55 PM",
+    "festivals": []
+  },
+  "02/02/2027": {
+    "tithi": "Ekadashi upto 11:10 AM",
+    "paksha": "Krishna Paksha",
+    "maas": "Magha",
+    "nakshatra": "Jyeshtha upto 09:21 AM",
+    "sunrise": "07:05 AM",
+    "sunset": "06:01 PM",
+    "moonrise": "04:52 AM, Feb 03",
+    "moonset": "02:06 PM",
+    "brahmaMuhurta": "05:21 AM to 06:13 AM",
+    "abhijitMuhurta": "12:11 PM to 12:55 PM",
+    "festivals": [
+      "Krishna Kurma Dwadashi",
+      "Shattila Ekadashi"
+    ]
+  },
+  "03/02/2027": {
+    "tithi": "Dwadashi upto 01:50 PM",
+    "paksha": "Krishna Paksha",
+    "maas": "Magha",
+    "nakshatra": "Mula upto 12:26 PM",
+    "sunrise": "07:05 AM",
+    "sunset": "06:01 PM",
+    "moonrise": "05:37 AM, Feb 04",
+    "moonset": "03:00 PM",
+    "brahmaMuhurta": "05:20 AM to 06:13 AM",
+    "abhijitMuhurta": "None",
+    "festivals": [
+      "Shattila Ekadashi Parana",
+      "Budha Pradosh Vrat"
+    ]
+  },
+  "04/02/2027": {
+    "tithi": "Trayodashi upto 04:31 PM",
+    "paksha": "Krishna Paksha",
+    "maas": "Magha",
+    "nakshatra": "Purva Ashadha upto 03:32 PM",
+    "sunrise": "07:04 AM",
+    "sunset": "06:02 PM",
+    "moonrise": "06:17 AM, Feb 05",
+    "moonset": "03:55 PM",
+    "brahmaMuhurta": "05:20 AM to 06:12 AM",
+    "abhijitMuhurta": "12:11 PM to 12:55 PM",
+    "festivals": [
+      "Meru Trayodashi",
+      "Masik Shivaratri"
+    ]
+  },
+  "05/02/2027": {
+    "tithi": "Chaturdashi upto 07:05 PM",
+    "paksha": "Krishna Paksha",
+    "maas": "Magha",
+    "nakshatra": "Uttara Ashadha upto 06:32 PM",
+    "sunrise": "07:04 AM",
+    "sunset": "06:03 PM",
+    "moonrise": "06:52 AM, Feb 06",
+    "moonset": "04:52 PM",
+    "brahmaMuhurta": "05:20 AM to 06:12 AM",
+    "abhijitMuhurta": "12:11 PM to 12:55 PM",
+    "festivals": []
+  },
+  "06/02/2027": {
+    "tithi": "Amavasya upto 09:25 PM",
+    "paksha": "Krishna Paksha",
+    "maas": "Magha",
+    "nakshatra": "Shravana upto 09:19 PM",
+    "sunrise": "07:03 AM",
+    "sunset": "06:04 PM",
+    "moonrise": "No Moonrise",
+    "moonset": "05:47 PM",
+    "brahmaMuhurta": "05:19 AM to 06:11 AM",
+    "abhijitMuhurta": "12:11 PM to 12:55 PM",
+    "festivals": [
+      "Mauni Amavas",
+      "Thai Amavasai",
+      "Surya Grahan *Valayakara",
+      "Darsha Amavasya",
+      "Anvadhan",
+      "Magha Amavasya"
+    ]
+  },
+  "07/02/2027": {
+    "tithi": "Pratipada upto 11:27 PM",
+    "paksha": "Shukla Paksha",
+    "maas": "Magha",
+    "nakshatra": "Dhanishtha upto 11:48 PM",
+    "sunrise": "07:03 AM",
+    "sunset": "06:04 PM",
+    "moonrise": "07:25 AM",
+    "moonset": "06:42 PM",
+    "brahmaMuhurta": "05:19 AM to 06:11 AM",
+    "abhijitMuhurta": "12:11 PM to 12:56 PM",
+    "festivals": [
+      "Magha Navratri",
+      "Ishti"
+    ]
+  },
+  "08/02/2027": {
+    "tithi": "Dwitiya upto 01:06 AM, Feb 09",
+    "paksha": "Shukla Paksha",
+    "maas": "Magha",
+    "nakshatra": "Shatabhisha upto 01:56 AM, Feb 09",
+    "sunrise": "07:02 AM",
+    "sunset": "06:05 PM",
+    "moonrise": "07:55 AM",
+    "moonset": "07:36 PM",
+    "brahmaMuhurta": "05:18 AM to 06:10 AM",
+    "abhijitMuhurta": "12:11 PM to 12:56 PM",
+    "festivals": [
+      "Chandra Darshana"
+    ]
+  },
+  "09/02/2027": {
+    "tithi": "Tritiya upto 02:19 AM, Feb 10",
+    "paksha": "Shukla Paksha",
+    "maas": "Magha",
+    "nakshatra": "Purva Bhadrapada upto 03:40 AM, Feb 10",
+    "sunrise": "07:01 AM",
+    "sunset": "06:06 PM",
+    "moonrise": "08:24 AM",
+    "moonset": "08:30 PM",
+    "brahmaMuhurta": "05:18 AM to 06:09 AM",
+    "abhijitMuhurta": "12:11 PM to 12:56 PM",
+    "festivals": []
+  },
+  "10/02/2027": {
+    "tithi": "Chaturthi upto 03:04 AM, Feb 11",
+    "paksha": "Shukla Paksha",
+    "maas": "Magha",
+    "nakshatra": "Uttara Bhadrapada upto 04:56 AM, Feb 11",
+    "sunrise": "07:01 AM",
+    "sunset": "06:07 PM",
+    "moonrise": "08:52 AM",
+    "moonset": "09:25 PM",
+    "brahmaMuhurta": "05:17 AM to 06:09 AM",
+    "abhijitMuhurta": "None",
+    "festivals": [
+      "Ganesha Jayanti",
+      "Gauriganesha Chaturthi"
+    ]
+  },
+  "11/02/2027": {
+    "tithi": "Panchami upto 03:18 AM, Feb 12",
+    "paksha": "Shukla Paksha",
+    "maas": "Magha",
+    "nakshatra": "Revati upto 05:42 AM, Feb 12",
+    "sunrise": "07:00 AM",
+    "sunset": "06:07 PM",
+    "moonrise": "09:23 AM",
+    "moonset": "10:22 PM",
+    "brahmaMuhurta": "05:17 AM to 06:08 AM",
+    "abhijitMuhurta": "12:11 PM to 12:56 PM",
+    "festivals": [
+      "Vasant Panchami",
+      "Saraswati Jayanti"
+    ]
+  },
+  "12/02/2027": {
+    "tithi": "Shashthi upto 02:59 AM, Feb 13",
+    "paksha": "Shukla Paksha",
+    "maas": "Magha",
+    "nakshatra": "Ashwini upto 05:56 AM, Feb 13",
+    "sunrise": "06:59 AM",
+    "sunset": "06:08 PM",
+    "moonrise": "09:55 AM",
+    "moonset": "11:22 PM",
+    "brahmaMuhurta": "05:16 AM to 06:08 AM",
+    "abhijitMuhurta": "12:11 PM to 12:56 PM",
+    "festivals": [
+      "Skanda Sashti"
+    ]
+  },
+  "13/02/2027": {
+    "tithi": "Saptami upto 02:06 AM, Feb 14",
+    "paksha": "Shukla Paksha",
+    "maas": "Magha",
+    "nakshatra": "Bharani upto 05:37 AM, Feb 14",
+    "sunrise": "06:58 AM",
+    "sunset": "06:09 PM",
+    "moonrise": "10:33 AM",
+    "moonset": "12:25 AM, Feb 14",
+    "brahmaMuhurta": "05:16 AM to 06:07 AM",
+    "abhijitMuhurta": "12:11 PM to 12:56 PM",
+    "festivals": [
+      "Ratha Saptami",
+      "Narmada Jayanti",
+      "Kumbha Sankranti",
+      "Brahma Savarni Manvadi"
+    ]
+  },
+  "14/02/2027": {
+    "tithi": "Ashtami upto 12:40 AM, Feb 15",
+    "paksha": "Shukla Paksha",
+    "maas": "Magha",
+    "nakshatra": "Krittika upto 04:46 AM, Feb 15",
+    "sunrise": "06:58 AM",
+    "sunset": "06:10 PM",
+    "moonrise": "11:16 AM",
+    "moonset": "01:31 AM, Feb 15",
+    "brahmaMuhurta": "05:15 AM to 06:06 AM",
+    "abhijitMuhurta": "12:11 PM to 12:56 PM",
+    "festivals": [
+      "Bhishma Ashtami",
+      "Masik Karthigai",
+      "Masik Durgashtami"
+    ]
+  },
+  "15/02/2027": {
+    "tithi": "Navami upto 10:43 PM",
+    "paksha": "Shukla Paksha",
+    "maas": "Magha",
+    "nakshatra": "Rohini upto 03:25 AM, Feb 16",
+    "sunrise": "06:57 AM",
+    "sunset": "06:10 PM",
+    "moonrise": "12:07 PM",
+    "moonset": "02:36 AM, Feb 16",
+    "brahmaMuhurta": "05:14 AM to 06:06 AM",
+    "abhijitMuhurta": "12:11 PM to 12:56 PM",
+    "festivals": [
+      "Rohini Vrat"
+    ]
+  },
+  "16/02/2027": {
+    "tithi": "Dashami upto 08:19 PM",
+    "paksha": "Shukla Paksha",
+    "maas": "Magha",
+    "nakshatra": "Mrigashira upto 01:37 AM, Feb 17",
+    "sunrise": "06:56 AM",
+    "sunset": "06:11 PM",
+    "moonrise": "01:07 PM",
+    "moonset": "03:40 AM, Feb 17",
+    "brahmaMuhurta": "05:14 AM to 06:05 AM",
+    "abhijitMuhurta": "12:11 PM to 12:56 PM",
+    "festivals": []
+  },
+  "17/02/2027": {
+    "tithi": "Ekadashi upto 05:31 PM",
+    "paksha": "Shukla Paksha",
+    "maas": "Magha",
+    "nakshatra": "Ardra upto 11:29 PM",
+    "sunrise": "06:55 AM",
+    "sunset": "06:12 PM",
+    "moonrise": "02:13 PM",
+    "moonset": "04:37 AM, Feb 18",
+    "brahmaMuhurta": "05:13 AM to 06:04 AM",
+    "abhijitMuhurta": "None",
+    "festivals": [
+      "Jaya Ekadashi"
+    ]
+  },
+  "18/02/2027": {
+    "tithi": "Dwadashi upto 02:27 PM",
+    "paksha": "Shukla Paksha",
+    "maas": "Magha",
+    "nakshatra": "Punarvasu upto 09:05 PM",
+    "sunrise": "06:54 AM",
+    "sunset": "06:12 PM",
+    "moonrise": "03:25 PM",
+    "moonset": "05:28 AM, Feb 19",
+    "brahmaMuhurta": "05:13 AM to 06:03 AM",
+    "abhijitMuhurta": "12:11 PM to 12:56 PM",
+    "festivals": [
+      "Jaya Ekadashi Parana",
+      "Bhishma Dwadashi",
+      "Guru Pradosh Vrat"
+    ]
+  },
+  "19/02/2027": {
+    "tithi": "Trayodashi upto 11:14 AM",
+    "paksha": "Shukla Paksha",
+    "maas": "Magha",
+    "nakshatra": "Pushya upto 06:35 PM",
+    "sunrise": "06:53 AM",
+    "sunset": "06:13 PM",
+    "moonrise": "04:36 PM",
+    "moonset": "06:12 AM, Feb 20",
+    "brahmaMuhurta": "05:12 AM to 06:03 AM",
+    "abhijitMuhurta": "12:11 PM to 12:56 PM",
+    "festivals": []
+  },
+  "20/02/2027": {
+    "tithi": "Chaturdashi upto 07:59 AM",
+    "paksha": "Shukla Paksha",
+    "maas": "Magha",
+    "nakshatra": "Ashlesha upto 04:07 PM",
+    "sunrise": "06:53 AM",
+    "sunset": "06:14 PM",
+    "moonrise": "05:46 PM",
+    "moonset": "06:50 AM, Feb 21",
+    "brahmaMuhurta": "05:11 AM to 06:02 AM",
+    "abhijitMuhurta": "12:10 PM to 12:56 PM",
+    "festivals": [
+      "Guru Ravidas Jayanti",
+      "Lalita Jayanti",
+      "Masi Magam",
+      "Magha Purnima Vrat",
+      "Magha Purnima",
+      "Anvadhan"
+    ]
+  },
+  "21/02/2027": {
+    "tithi": "Pratipada upto 02:03 AM, Feb 22",
+    "paksha": "Krishna Paksha",
+    "maas": "Phalguna",
+    "nakshatra": "Magha upto 01:50 PM",
+    "sunrise": "06:52 AM",
+    "sunset": "06:14 PM",
+    "moonrise": "06:52 PM",
+    "moonset": "No Moonset",
+    "brahmaMuhurta": "05:11 AM to 06:01 AM",
+    "abhijitMuhurta": "12:10 PM to 12:56 PM",
+    "festivals": [
+      "Phalguna Begins *North",
+      "Chandra Grahan *Upachchaya",
+      "Ishti"
+    ]
+  },
+  "22/02/2027": {
+    "tithi": "Dwitiya upto 11:38 PM",
+    "paksha": "Krishna Paksha",
+    "maas": "Phalguna",
+    "nakshatra": "Purva Phalguni upto 11:54 AM",
+    "sunrise": "06:51 AM",
+    "sunset": "06:15 PM",
+    "moonrise": "07:56 PM",
+    "moonset": "07:26 AM",
+    "brahmaMuhurta": "05:10 AM to 06:00 AM",
+    "abhijitMuhurta": "12:10 PM to 12:56 PM",
+    "festivals": [
+      "Attukal Pongal"
+    ]
+  },
+  "23/02/2027": {
+    "tithi": "Tritiya upto 09:48 PM",
+    "paksha": "Krishna Paksha",
+    "maas": "Phalguna",
+    "nakshatra": "Uttara Phalguni upto 10:28 AM",
+    "sunrise": "06:50 AM",
+    "sunset": "06:16 PM",
+    "moonrise": "08:59 PM",
+    "moonset": "07:59 AM",
+    "brahmaMuhurta": "05:09 AM to 06:00 AM",
+    "abhijitMuhurta": "12:10 PM to 12:56 PM",
+    "festivals": []
+  },
+  "24/02/2027": {
+    "tithi": "Chaturthi upto 08:39 PM",
+    "paksha": "Krishna Paksha",
+    "maas": "Phalguna",
+    "nakshatra": "Hasta upto 09:38 AM",
+    "sunrise": "06:49 AM",
+    "sunset": "06:16 PM",
+    "moonrise": "10:00 PM",
+    "moonset": "08:33 AM",
+    "brahmaMuhurta": "05:08 AM to 05:59 AM",
+    "abhijitMuhurta": "None",
+    "festivals": [
+      "Dwijapriya Sankashti"
+    ]
+  },
+  "25/02/2027": {
+    "tithi": "Panchami upto 08:17 PM",
+    "paksha": "Krishna Paksha",
+    "maas": "Phalguna",
+    "nakshatra": "Chitra upto 09:32 AM",
+    "sunrise": "06:48 AM",
+    "sunset": "06:17 PM",
+    "moonrise": "11:01 PM",
+    "moonset": "09:07 AM",
+    "brahmaMuhurta": "05:08 AM to 05:58 AM",
+    "abhijitMuhurta": "12:10 PM to 12:55 PM",
+    "festivals": []
+  },
+  "26/02/2027": {
+    "tithi": "Shashthi upto 08:42 PM",
+    "paksha": "Krishna Paksha",
+    "maas": "Phalguna",
+    "nakshatra": "Swati upto 10:13 AM",
+    "sunrise": "06:47 AM",
+    "sunset": "06:18 PM",
+    "moonrise": "12:01 AM, Feb 27",
+    "moonset": "09:45 AM",
+    "brahmaMuhurta": "05:07 AM to 05:57 AM",
+    "abhijitMuhurta": "12:09 PM to 12:55 PM",
+    "festivals": [
+      "Yashoda Jayanti"
+    ]
+  },
+  "27/02/2027": {
+    "tithi": "Saptami upto 09:54 PM",
+    "paksha": "Krishna Paksha",
+    "maas": "Phalguna",
+    "nakshatra": "Vishakha upto 11:39 AM",
+    "sunrise": "06:46 AM",
+    "sunset": "06:18 PM",
+    "moonrise": "12:59 AM, Feb 28",
+    "moonset": "10:25 AM",
+    "brahmaMuhurta": "05:06 AM to 05:56 AM",
+    "abhijitMuhurta": "12:09 PM to 12:55 PM",
+    "festivals": [
+      "Shabari Jayanti",
+      "Masik Krishna Janmashtami"
+    ]
+  },
+  "28/02/2027": {
+    "tithi": "Ashtami upto 11:46 PM",
+    "paksha": "Krishna Paksha",
+    "maas": "Phalguna",
+    "nakshatra": "Anuradha upto 01:47 PM",
+    "sunrise": "06:45 AM",
+    "sunset": "06:19 PM",
+    "moonrise": "01:55 AM, Mar 01",
+    "moonset": "11:10 AM",
+    "brahmaMuhurta": "05:05 AM to 05:55 AM",
+    "abhijitMuhurta": "12:09 PM to 12:55 PM",
+    "festivals": [
+      "Janaki Jayanti",
+      "Kalashtami"
+    ]
+  },
+  "01/03/2027": {
+    "tithi": "Navami upto 02:06 AM, Mar 02",
+    "paksha": "Krishna Paksha",
+    "maas": "Phalguna",
+    "nakshatra": "Jyeshtha upto 04:27 PM",
+    "sunrise": "06:44 AM",
+    "sunset": "06:19 PM",
+    "moonrise": "02:47 AM, Mar 02",
+    "moonset": "11:59 AM",
+    "brahmaMuhurta": "05:05 AM to 05:54 AM",
+    "abhijitMuhurta": "12:09 PM to 12:55 PM",
+    "festivals": []
+  },
+  "02/03/2027": {
+    "tithi": "Dashami upto 04:44 AM, Mar 03",
+    "paksha": "Krishna Paksha",
+    "maas": "Phalguna",
+    "nakshatra": "Mula upto 07:27 PM",
+    "sunrise": "06:43 AM",
+    "sunset": "06:20 PM",
+    "moonrise": "03:33 AM, Mar 03",
+    "moonset": "12:52 PM",
+    "brahmaMuhurta": "05:04 AM to 05:54 AM",
+    "abhijitMuhurta": "12:08 PM to 12:55 PM",
+    "festivals": [
+      "Maharishi Dayanand Saraswati Jayanti"
+    ]
+  },
+  "03/03/2027": {
+    "tithi": "Ekadashi upto Full Night",
+    "paksha": "Krishna Paksha",
+    "maas": "Phalguna",
+    "nakshatra": "Purva Ashadha upto 10:34 PM",
+    "sunrise": "06:42 AM",
+    "sunset": "06:21 PM",
+    "moonrise": "04:15 AM, Mar 04",
+    "moonset": "01:47 PM",
+    "brahmaMuhurta": "05:03 AM to 05:53 AM",
+    "abhijitMuhurta": "None",
+    "festivals": []
+  },
+  "04/03/2027": {
+    "tithi": "Ekadashi upto 07:24 AM",
+    "paksha": "Krishna Paksha",
+    "maas": "Phalguna",
+    "nakshatra": "Uttara Ashadha upto 01:35 AM, Mar 05",
+    "sunrise": "06:41 AM",
+    "sunset": "06:21 PM",
+    "moonrise": "04:52 AM, Mar 05",
+    "moonset": "02:43 PM",
+    "brahmaMuhurta": "05:02 AM to 05:52 AM",
+    "abhijitMuhurta": "12:08 PM to 12:54 PM",
+    "festivals": [
+      "Vijaya Ekadashi"
+    ]
+  },
+  "05/03/2027": {
+    "tithi": "Dwadashi upto 09:53 AM",
+    "paksha": "Krishna Paksha",
+    "maas": "Phalguna",
+    "nakshatra": "Shravana upto 04:20 AM, Mar 06",
+    "sunrise": "06:40 AM",
+    "sunset": "06:22 PM",
+    "moonrise": "05:26 AM, Mar 06",
+    "moonset": "03:39 PM",
+    "brahmaMuhurta": "05:02 AM to 05:51 AM",
+    "abhijitMuhurta": "12:08 PM to 12:54 PM",
+    "festivals": [
+      "Vijaya Ekadashi Parana",
+      "Krishna Bhishma Dwadashi",
+      "Shukra Pradosh Vrat"
+    ]
+  },
+  "06/03/2027": {
+    "tithi": "Trayodashi upto 12:03 PM",
+    "paksha": "Krishna Paksha",
+    "maas": "Phalguna",
+    "nakshatra": "Dhanishtha upto Full Night",
+    "sunrise": "06:39 AM",
+    "sunset": "06:22 PM",
+    "moonrise": "05:57 AM, Mar 07",
+    "moonset": "04:35 PM",
+    "brahmaMuhurta": "05:01 AM to 05:50 AM",
+    "abhijitMuhurta": "12:07 PM to 12:54 PM",
+    "festivals": [
+      "Maha Shivaratri",
+      "Masik Shivaratri"
+    ]
+  },
+  "07/03/2027": {
+    "tithi": "Chaturdashi upto 01:46 PM",
+    "paksha": "Krishna Paksha",
+    "maas": "Phalguna",
+    "nakshatra": "Dhanishtha upto 06:41 AM",
+    "sunrise": "06:38 AM",
+    "sunset": "06:23 PM",
+    "moonrise": "06:26 AM, Mar 08",
+    "moonset": "05:29 PM",
+    "brahmaMuhurta": "05:00 AM to 05:49 AM",
+    "abhijitMuhurta": "12:07 PM to 12:54 PM",
+    "festivals": [
+      "Darsha Amavasya",
+      "Dwapara Yuga Diwas"
+    ]
+  },
+  "08/03/2027": {
+    "tithi": "Amavasya upto 02:58 PM",
+    "paksha": "Krishna Paksha",
+    "maas": "Phalguna",
+    "nakshatra": "Shatabhisha upto 08:34 AM",
+    "sunrise": "06:37 AM",
+    "sunset": "06:24 PM",
+    "moonrise": "No Moonrise",
+    "moonset": "06:24 PM",
+    "brahmaMuhurta": "04:59 AM to 05:48 AM",
+    "abhijitMuhurta": "12:07 PM to 12:54 PM",
+    "festivals": [
+      "Somavati Amavasya",
+      "Anvadhan",
+      "Phalguna Amavasya"
+    ]
+  },
+  "09/03/2027": {
+    "tithi": "Pratipada upto 03:40 PM",
+    "paksha": "Shukla Paksha",
+    "maas": "Phalguna",
+    "nakshatra": "Purva Bhadrapada upto 09:58 AM",
+    "sunrise": "06:36 AM",
+    "sunset": "06:24 PM",
+    "moonrise": "06:55 AM",
+    "moonset": "07:20 PM",
+    "brahmaMuhurta": "04:58 AM to 05:47 AM",
+    "abhijitMuhurta": "12:06 PM to 12:54 PM",
+    "festivals": [
+      "Ishti",
+      "Chandra Darshana"
+    ]
+  },
+  "10/03/2027": {
+    "tithi": "Dwitiya upto 03:52 PM",
+    "paksha": "Shukla Paksha",
+    "maas": "Phalguna",
+    "nakshatra": "Uttara Bhadrapada upto 10:52 AM",
+    "sunrise": "06:35 AM",
+    "sunset": "06:25 PM",
+    "moonrise": "07:25 AM",
+    "moonset": "08:17 PM",
+    "brahmaMuhurta": "04:57 AM to 05:46 AM",
+    "abhijitMuhurta": "None",
+    "festivals": [
+      "Phulera Dooj",
+      "Ramakrishna Jayanti"
+    ]
+  },
+  "11/03/2027": {
+    "tithi": "Tritiya upto 03:37 PM",
+    "paksha": "Shukla Paksha",
+    "maas": "Phalguna",
+    "nakshatra": "Revati upto 11:19 AM",
+    "sunrise": "06:34 AM",
+    "sunset": "06:25 PM",
+    "moonrise": "07:58 AM",
+    "moonset": "09:16 PM",
+    "brahmaMuhurta": "04:56 AM to 05:45 AM",
+    "abhijitMuhurta": "12:06 PM to 12:53 PM",
+    "festivals": []
+  },
+  "12/03/2027": {
+    "tithi": "Chaturthi upto 02:57 PM",
+    "paksha": "Shukla Paksha",
+    "maas": "Phalguna",
+    "nakshatra": "Ashwini upto 11:22 AM",
+    "sunrise": "06:33 AM",
+    "sunset": "06:26 PM",
+    "moonrise": "08:34 AM",
+    "moonset": "10:18 PM",
+    "brahmaMuhurta": "04:56 AM to 05:44 AM",
+    "abhijitMuhurta": "12:05 PM to 12:53 PM",
+    "festivals": [
+      "Dhundhiraja Chaturthi"
+    ]
+  },
+  "13/03/2027": {
+    "tithi": "Panchami upto 01:54 PM",
+    "paksha": "Shukla Paksha",
+    "maas": "Phalguna",
+    "nakshatra": "Bharani upto 11:02 AM",
+    "sunrise": "06:31 AM",
+    "sunset": "06:26 PM",
+    "moonrise": "09:15 AM",
+    "moonset": "11:23 PM",
+    "brahmaMuhurta": "04:55 AM to 05:43 AM",
+    "abhijitMuhurta": "12:05 PM to 12:53 PM",
+    "festivals": [
+      "Masik Karthigai",
+      "Skanda Sashti"
+    ]
+  },
+  "14/03/2027": {
+    "tithi": "Shashthi upto 12:31 PM",
+    "paksha": "Shukla Paksha",
+    "maas": "Phalguna",
+    "nakshatra": "Krittika upto 10:23 AM",
+    "sunrise": "06:30 AM",
+    "sunset": "06:27 PM",
+    "moonrise": "10:03 AM",
+    "moonset": "12:28 AM, Mar 15",
+    "brahmaMuhurta": "04:54 AM to 05:42 AM",
+    "abhijitMuhurta": "12:05 PM to 12:53 PM",
+    "festivals": []
+  },
+  "15/03/2027": {
+    "tithi": "Saptami upto 10:50 AM",
+    "paksha": "Shukla Paksha",
+    "maas": "Phalguna",
+    "nakshatra": "Rohini upto 09:26 AM",
+    "sunrise": "06:29 AM",
+    "sunset": "06:27 PM",
+    "moonrise": "10:59 AM",
+    "moonset": "01:31 AM, Mar 16",
+    "brahmaMuhurta": "04:53 AM to 05:41 AM",
+    "abhijitMuhurta": "12:04 PM to 12:52 PM",
+    "festivals": [
+      "Meena Sankranti",
+      "Karadaiyan Nombu",
+      "Rohini Vrat",
+      "Phalguna Ashtahnika Begins"
+    ]
+  },
+  "16/03/2027": {
+    "tithi": "Ashtami upto 08:54 AM",
+    "paksha": "Shukla Paksha",
+    "maas": "Phalguna",
+    "nakshatra": "Mrigashira upto 08:12 AM",
+    "sunrise": "06:28 AM",
+    "sunset": "06:28 PM",
+    "moonrise": "12:02 PM",
+    "moonset": "02:29 AM, Mar 17",
+    "brahmaMuhurta": "04:52 AM to 05:40 AM",
+    "abhijitMuhurta": "12:04 PM to 12:52 PM",
+    "festivals": [
+      "Masik Durgashtami"
+    ]
+  },
+  "17/03/2027": {
+    "tithi": "Navami upto 06:43 AM",
+    "paksha": "Shukla Paksha",
+    "maas": "Phalguna",
+    "nakshatra": "Ardra upto 06:45 AM",
+    "sunrise": "06:27 AM",
+    "sunset": "06:29 PM",
+    "moonrise": "01:09 PM",
+    "moonset": "03:20 AM, Mar 18",
+    "brahmaMuhurta": "04:51 AM to 05:39 AM",
+    "abhijitMuhurta": "None",
+    "festivals": []
+  },
+  "18/03/2027": {
+    "tithi": "Ekadashi upto 01:51 AM, Mar 19",
+    "paksha": "Shukla Paksha",
+    "maas": "Phalguna",
+    "nakshatra": "Pushya upto 03:21 AM, Mar 19",
+    "sunrise": "06:26 AM",
+    "sunset": "06:29 PM",
+    "moonrise": "02:18 PM",
+    "moonset": "04:05 AM, Mar 19",
+    "brahmaMuhurta": "04:50 AM to 05:38 AM",
+    "abhijitMuhurta": "12:03 PM to 12:52 PM",
+    "festivals": [
+      "Amalaki Ekadashi"
+    ]
+  },
+  "19/03/2027": {
+    "tithi": "Dwadashi upto 11:17 PM",
+    "paksha": "Shukla Paksha",
+    "maas": "Phalguna",
+    "nakshatra": "Ashlesha upto 01:31 AM, Mar 20",
+    "sunrise": "06:25 AM",
+    "sunset": "06:30 PM",
+    "moonrise": "03:26 PM",
+    "moonset": "04:45 AM, Mar 20",
+    "brahmaMuhurta": "04:49 AM to 05:37 AM",
+    "abhijitMuhurta": "12:03 PM to 12:51 PM",
+    "festivals": [
+      "Amalaki Ekadashi Parana",
+      "Narasimha Dwadashi"
+    ]
+  },
+  "20/03/2027": {
+    "tithi": "Trayodashi upto 08:45 PM",
+    "paksha": "Shukla Paksha",
+    "maas": "Phalguna",
+    "nakshatra": "Magha upto 11:44 PM",
+    "sunrise": "06:24 AM",
+    "sunset": "06:30 PM",
+    "moonrise": "04:32 PM",
+    "moonset": "05:20 AM, Mar 21",
+    "brahmaMuhurta": "04:48 AM to 05:36 AM",
+    "abhijitMuhurta": "12:03 PM to 12:51 PM",
+    "festivals": [
+      "Shani Trayodashi",
+      "Shani Pradosh Vrat"
+    ]
+  },
+  "21/03/2027": {
+    "tithi": "Chaturdashi upto 06:21 PM",
+    "paksha": "Shukla Paksha",
+    "maas": "Phalguna",
+    "nakshatra": "Purva Phalguni upto 10:06 PM",
+    "sunrise": "06:23 AM",
+    "sunset": "06:31 PM",
+    "moonrise": "05:36 PM",
+    "moonset": "05:54 AM, Mar 22",
+    "brahmaMuhurta": "04:48 AM to 05:35 AM",
+    "abhijitMuhurta": "12:02 PM to 12:51 PM",
+    "festivals": [
+      "Chhoti Holi",
+      "Holika Dahan",
+      "Vernal Equinox",
+      "Phalguna Chaumasi Chaudas"
+    ]
+  },
+  "22/03/2027": {
+    "tithi": "Purnima upto 04:13 PM",
+    "paksha": "Shukla Paksha",
+    "maas": "Phalguna",
+    "nakshatra": "Uttara Phalguni upto 08:45 PM",
+    "sunrise": "06:21 AM",
+    "sunset": "06:31 PM",
+    "moonrise": "06:39 PM",
+    "moonset": "No Moonset",
+    "brahmaMuhurta": "04:47 AM to 05:34 AM",
+    "abhijitMuhurta": "12:02 PM to 12:51 PM",
+    "festivals": [
+      "Vasanta Purnima",
+      "Chaitanya Mahaprabhu Jayanti",
+      "Holi",
+      "Dol Purnima",
+      "Lakshmi Jayanti",
+      "Panguni Uthiram",
+      "Phalguna Ashtahnika Ends",
+      "Phalguna Purnima Vrat",
+      "Phalguna Purnima",
+      "Anvadhan",
+      "Savarni Manvadi"
+    ]
+  },
+  "23/03/2027": {
+    "tithi": "Pratipada upto 02:28 PM",
+    "paksha": "Krishna Paksha",
+    "maas": "Chaitra",
+    "nakshatra": "Hasta upto 07:49 PM",
+    "sunrise": "06:20 AM",
+    "sunset": "06:32 PM",
+    "moonrise": "07:41 PM",
+    "moonset": "06:28 AM",
+    "brahmaMuhurta": "04:46 AM to 05:33 AM",
+    "abhijitMuhurta": "12:02 PM to 12:50 PM",
+    "festivals": [
+      "Chaitra Begins *North",
+      "Ishti"
+    ]
+  },
+  "24/03/2027": {
+    "tithi": "Dwitiya upto 01:13 PM",
+    "paksha": "Krishna Paksha",
+    "maas": "Chaitra",
+    "nakshatra": "Chitra upto 07:25 PM",
+    "sunrise": "06:19 AM",
+    "sunset": "06:32 PM",
+    "moonrise": "08:43 PM",
+    "moonset": "07:02 AM",
+    "brahmaMuhurta": "04:45 AM to 05:32 AM",
+    "abhijitMuhurta": "None",
+    "festivals": [
+      "Bhai Dooj",
+      "Bhratri Dwitiya"
+    ]
+  },
+  "25/03/2027": {
+    "tithi": "Tritiya upto 12:37 PM",
+    "paksha": "Krishna Paksha",
+    "maas": "Chaitra",
+    "nakshatra": "Swati upto 07:39 PM",
+    "sunrise": "06:18 AM",
+    "sunset": "06:33 PM",
+    "moonrise": "09:45 PM",
+    "moonset": "07:39 AM",
+    "brahmaMuhurta": "04:44 AM to 05:31 AM",
+    "abhijitMuhurta": "12:01 PM to 12:50 PM",
+    "festivals": [
+      "Chhatrapati Shivaji Maharaj Jayanti",
+      "Bhalachandra Sankashti"
+    ]
+  },
+  "26/03/2027": {
+    "tithi": "Chaturthi upto 12:43 PM",
+    "paksha": "Krishna Paksha",
+    "maas": "Chaitra",
+    "nakshatra": "Vishakha upto 08:35 PM",
+    "sunrise": "06:17 AM",
+    "sunset": "06:33 PM",
+    "moonrise": "10:45 PM",
+    "moonset": "08:19 AM",
+    "brahmaMuhurta": "04:43 AM to 05:30 AM",
+    "abhijitMuhurta": "12:01 PM to 12:50 PM",
+    "festivals": []
+  },
+  "27/03/2027": {
+    "tithi": "Panchami upto 01:33 PM",
+    "paksha": "Krishna Paksha",
+    "maas": "Chaitra",
+    "nakshatra": "Anuradha upto 10:14 PM",
+    "sunrise": "06:16 AM",
+    "sunset": "06:34 PM",
+    "moonrise": "11:43 PM",
+    "moonset": "09:03 AM",
+    "brahmaMuhurta": "04:42 AM to 05:29 AM",
+    "abhijitMuhurta": "12:00 PM to 12:49 PM",
+    "festivals": [
+      "Ranga Panchami"
+    ]
+  },
+  "28/03/2027": {
+    "tithi": "Shashthi upto 03:04 PM",
+    "paksha": "Krishna Paksha",
+    "maas": "Chaitra",
+    "nakshatra": "Jyeshtha upto 12:31 AM, Mar 29",
+    "sunrise": "06:15 AM",
+    "sunset": "06:34 PM",
+    "moonrise": "12:38 AM, Mar 29",
+    "moonset": "09:51 AM",
+    "brahmaMuhurta": "04:41 AM to 05:28 AM",
+    "abhijitMuhurta": "12:00 PM to 12:49 PM",
+    "festivals": [
+      "Sheetala Saptami"
+    ]
+  },
+  "29/03/2027": {
+    "tithi": "Saptami upto 05:10 PM",
+    "paksha": "Krishna Paksha",
+    "maas": "Chaitra",
+    "nakshatra": "Mula upto 03:18 AM, Mar 30",
+    "sunrise": "06:14 AM",
+    "sunset": "06:35 PM",
+    "moonrise": "01:27 AM, Mar 30",
+    "moonset": "10:43 AM",
+    "brahmaMuhurta": "04:40 AM to 05:27 AM",
+    "abhijitMuhurta": "12:00 PM to 12:49 PM",
+    "festivals": [
+      "Kalashtami",
+      "Masik Krishna Janmashtami"
+    ]
+  },
+  "30/03/2027": {
+    "tithi": "Ashtami upto 07:39 PM",
+    "paksha": "Krishna Paksha",
+    "maas": "Chaitra",
+    "nakshatra": "Purva Ashadha upto Full Night",
+    "sunrise": "06:12 AM",
+    "sunset": "06:35 PM",
+    "moonrise": "02:11 AM, Mar 31",
+    "moonset": "11:38 AM",
+    "brahmaMuhurta": "04:39 AM to 05:26 AM",
+    "abhijitMuhurta": "11:59 AM to 12:49 PM",
+    "festivals": [
+      "Sheetala Ashtami",
+      "Basoda",
+      "Varshitapa Arambha"
+    ]
+  },
+  "31/03/2027": {
+    "tithi": "Navami upto 10:16 PM",
+    "paksha": "Krishna Paksha",
+    "maas": "Chaitra",
+    "nakshatra": "Purva Ashadha upto 06:21 AM",
+    "sunrise": "06:11 AM",
+    "sunset": "06:36 PM",
+    "moonrise": "02:50 AM, Apr 01",
+    "moonset": "12:33 PM",
+    "brahmaMuhurta": "04:39 AM to 05:25 AM",
+    "abhijitMuhurta": "None",
+    "festivals": []
+  },
+  "01/04/2027": {
+    "tithi": "Dashami upto 12:45 AM, Apr 02",
+    "paksha": "Krishna Paksha",
+    "maas": "Chaitra",
+    "nakshatra": "Uttara Ashadha upto 09:25 AM",
+    "sunrise": "06:10 AM",
+    "sunset": "06:36 PM",
+    "moonrise": "03:24 AM, Apr 02",
+    "moonset": "01:29 PM",
+    "brahmaMuhurta": "04:38 AM to 05:24 AM",
+    "abhijitMuhurta": "11:58 AM to 12:48 PM",
+    "festivals": []
+  },
+  "02/04/2027": {
+    "tithi": "Ekadashi upto 02:51 AM, Apr 03",
+    "paksha": "Krishna Paksha",
+    "maas": "Chaitra",
+    "nakshatra": "Shravana upto 12:16 PM",
+    "sunrise": "06:09 AM",
+    "sunset": "06:37 PM",
+    "moonrise": "03:56 AM, Apr 03",
+    "moonset": "02:25 PM",
+    "brahmaMuhurta": "04:37 AM to 05:23 AM",
+    "abhijitMuhurta": "11:58 AM to 12:48 PM",
+    "festivals": [
+      "Krishna Narasimha Dwadashi",
+      "Papamochani Ekadashi"
+    ]
+  },
+  "03/04/2027": {
+    "tithi": "Dwadashi upto 04:26 AM, Apr 04",
+    "paksha": "Krishna Paksha",
+    "maas": "Chaitra",
+    "nakshatra": "Dhanishtha upto 02:41 PM",
+    "sunrise": "06:08 AM",
+    "sunset": "06:37 PM",
+    "moonrise": "04:26 AM, Apr 04",
+    "moonset": "03:19 PM",
+    "brahmaMuhurta": "04:36 AM to 05:22 AM",
+    "abhijitMuhurta": "11:58 AM to 12:48 PM",
+    "festivals": [
+      "Papamochani Ekadashi Parana"
+    ]
+  },
+  "04/04/2027": {
+    "tithi": "Trayodashi upto 05:23 AM, Apr 05",
+    "paksha": "Krishna Paksha",
+    "maas": "Chaitra",
+    "nakshatra": "Shatabhisha upto 04:33 PM",
+    "sunrise": "06:07 AM",
+    "sunset": "06:38 PM",
+    "moonrise": "04:56 AM, Apr 05",
+    "moonset": "04:14 PM",
+    "brahmaMuhurta": "04:35 AM to 05:21 AM",
+    "abhijitMuhurta": "11:57 AM to 12:47 PM",
+    "festivals": [
+      "Ravi Pradosh Vrat"
+    ]
+  },
+  "05/04/2027": {
+    "tithi": "Chaturdashi upto 05:40 AM, Apr 06",
+    "paksha": "Krishna Paksha",
+    "maas": "Chaitra",
+    "nakshatra": "Purva Bhadrapada upto 05:46 PM",
+    "sunrise": "06:06 AM",
+    "sunset": "06:38 PM",
+    "moonrise": "05:26 AM, Apr 06",
+    "moonset": "05:09 PM",
+    "brahmaMuhurta": "04:34 AM to 05:20 AM",
+    "abhijitMuhurta": "11:57 AM to 12:47 PM",
+    "festivals": [
+      "Masik Shivaratri"
+    ]
+  },
+  "06/04/2027": {
+    "tithi": "Amavasya upto 05:20 AM, Apr 07",
+    "paksha": "Krishna Paksha",
+    "maas": "Chaitra",
+    "nakshatra": "Uttara Bhadrapada upto 06:23 PM",
+    "sunrise": "06:05 AM",
+    "sunset": "06:39 PM",
+    "moonrise": "05:58 AM, Apr 07",
+    "moonset": "06:07 PM",
+    "brahmaMuhurta": "04:33 AM to 05:19 AM",
+    "abhijitMuhurta": "11:57 AM to 12:47 PM",
+    "festivals": [
+      "Chaitra Amavasya",
+      "Darsha Amavasya",
+      "Anvadhan"
+    ]
+  },
+  "07/04/2027": {
+    "tithi": "Pratipada upto 04:28 AM, Apr 08",
+    "paksha": "Shukla Paksha",
+    "maas": "Chaitra",
+    "nakshatra": "Revati upto 06:25 PM",
+    "sunrise": "06:04 AM",
+    "sunset": "06:40 PM",
+    "moonrise": "No Moonrise",
+    "moonset": "07:06 PM",
+    "brahmaMuhurta": "04:32 AM to 05:18 AM",
+    "abhijitMuhurta": "None",
+    "festivals": [
+      "Nutan Varsh Prarambha",
+      "Ugadi",
+      "Gudi Padwa",
+      "Chaitra Navratri",
+      "Yugadi",
+      "Ishti"
+    ]
+  },
+  "08/04/2027": {
+    "tithi": "Dwitiya upto 03:10 AM, Apr 09",
+    "paksha": "Shukla Paksha",
+    "maas": "Chaitra",
+    "nakshatra": "Ashwini upto 05:59 PM",
+    "sunrise": "06:03 AM",
+    "sunset": "06:40 PM",
+    "moonrise": "06:33 AM",
+    "moonset": "08:09 PM",
+    "brahmaMuhurta": "04:32 AM to 05:17 AM",
+    "abhijitMuhurta": "11:56 AM to 12:47 PM",
+    "festivals": [
+      "Jhulelal Jayanti",
+      "Chandra Darshana"
+    ]
+  },
+  "09/04/2027": {
+    "tithi": "Tritiya upto 01:31 AM, Apr 10",
+    "paksha": "Shukla Paksha",
+    "maas": "Chaitra",
+    "nakshatra": "Bharani upto 05:11 PM",
+    "sunrise": "06:02 AM",
+    "sunset": "06:41 PM",
+    "moonrise": "07:13 AM",
+    "moonset": "09:14 PM",
+    "brahmaMuhurta": "04:31 AM to 05:16 AM",
+    "abhijitMuhurta": "11:56 AM to 12:46 PM",
+    "festivals": [
+      "Matsya Jayanti",
+      "Gauri Puja",
+      "Gangaur",
+      "Masik Karthigai",
+      "Swayambhuva Manvadi"
+    ]
+  },
+  "10/04/2027": {
+    "tithi": "Chaturthi upto 11:39 PM",
+    "paksha": "Shukla Paksha",
+    "maas": "Chaitra",
+    "nakshatra": "Krittika upto 04:07 PM",
+    "sunrise": "06:00 AM",
+    "sunset": "06:41 PM",
+    "moonrise": "08:00 AM",
+    "moonset": "10:20 PM",
+    "brahmaMuhurta": "04:30 AM to 05:15 AM",
+    "abhijitMuhurta": "11:55 AM to 12:46 PM",
+    "festivals": [
+      "Vasudeva Chaturthi"
+    ]
+  },
+  "11/04/2027": {
+    "tithi": "Panchami upto 09:39 PM",
+    "paksha": "Shukla Paksha",
+    "maas": "Chaitra",
+    "nakshatra": "Rohini upto 02:53 PM",
+    "sunrise": "05:59 AM",
+    "sunset": "06:42 PM",
+    "moonrise": "08:55 AM",
+    "moonset": "11:25 PM",
+    "brahmaMuhurta": "04:29 AM to 05:14 AM",
+    "abhijitMuhurta": "11:55 AM to 12:46 PM",
+    "festivals": [
+      "Lakshmi Panchami",
+      "Rohini Vrat"
+    ]
+  },
+  "12/04/2027": {
+    "tithi": "Shashthi upto 07:34 PM",
+    "paksha": "Shukla Paksha",
+    "maas": "Chaitra",
+    "nakshatra": "Mrigashira upto 01:34 PM",
+    "sunrise": "05:58 AM",
+    "sunset": "06:42 PM",
+    "moonrise": "09:56 AM",
+    "moonset": "12:24 AM, Apr 13",
+    "brahmaMuhurta": "04:28 AM to 05:13 AM",
+    "abhijitMuhurta": "11:55 AM to 12:46 PM",
+    "festivals": [
+      "Yamuna Chhath",
+      "Skanda Sashti"
+    ]
+  },
+  "13/04/2027": {
+    "tithi": "Saptami upto 05:28 PM",
+    "paksha": "Shukla Paksha",
+    "maas": "Chaitra",
+    "nakshatra": "Ardra upto 12:12 PM",
+    "sunrise": "05:57 AM",
+    "sunset": "06:43 PM",
+    "moonrise": "11:02 AM",
+    "moonset": "01:17 AM, Apr 14",
+    "brahmaMuhurta": "04:27 AM to 05:12 AM",
+    "abhijitMuhurta": "11:54 AM to 12:46 PM",
+    "festivals": [
+      "Chaitra Navapada Oli Begins"
+    ]
+  },
+  "14/04/2027": {
+    "tithi": "Ashtami upto 03:23 PM",
+    "paksha": "Shukla Paksha",
+    "maas": "Chaitra",
+    "nakshatra": "Punarvasu upto 10:52 AM",
+    "sunrise": "05:56 AM",
+    "sunset": "06:43 PM",
+    "moonrise": "12:09 PM",
+    "moonset": "02:03 AM, Apr 15",
+    "brahmaMuhurta": "04:26 AM to 05:11 AM",
+    "abhijitMuhurta": "None",
+    "festivals": [
+      "Tara Jayanti",
+      "Ashoka Ashtami Vrat",
+      "Mesha Sankranti",
+      "Solar New Year",
+      "Puthandu",
+      "Masik Durgashtami"
+    ]
+  },
+  "15/04/2027": {
+    "tithi": "Navami upto 01:20 PM",
+    "paksha": "Shukla Paksha",
+    "maas": "Chaitra",
+    "nakshatra": "Pushya upto 09:33 AM",
+    "sunrise": "05:55 AM",
+    "sunset": "06:44 PM",
+    "moonrise": "01:16 PM",
+    "moonset": "02:43 AM, Apr 16",
+    "brahmaMuhurta": "04:26 AM to 05:10 AM",
+    "abhijitMuhurta": "11:54 AM to 12:45 PM",
+    "festivals": [
+      "Rama Navami",
+      "Swaminarayan Jayanti",
+      "Vishu Kani",
+      "Pohela Boishakha"
+    ]
+  },
+  "16/04/2027": {
+    "tithi": "Dashami upto 11:21 AM",
+    "paksha": "Shukla Paksha",
+    "maas": "Chaitra",
+    "nakshatra": "Ashlesha upto 08:18 AM",
+    "sunrise": "05:54 AM",
+    "sunset": "06:44 PM",
+    "moonrise": "02:21 PM",
+    "moonset": "03:19 AM, Apr 17",
+    "brahmaMuhurta": "04:25 AM to 05:10 AM",
+    "abhijitMuhurta": "11:54 AM to 12:45 PM",
+    "festivals": []
+  },
+  "17/04/2027": {
+    "tithi": "Ekadashi upto 09:27 AM",
+    "paksha": "Shukla Paksha",
+    "maas": "Chaitra",
+    "nakshatra": "Magha upto 07:08 AM",
+    "sunrise": "05:53 AM",
+    "sunset": "06:45 PM",
+    "moonrise": "03:24 PM",
+    "moonset": "03:53 AM, Apr 18",
+    "brahmaMuhurta": "04:24 AM to 05:09 AM",
+    "abhijitMuhurta": "11:53 AM to 12:45 PM",
+    "festivals": [
+      "Vamana Dwadashi",
+      "Thrissur Pooram",
+      "Kamada Ekadashi"
+    ]
+  },
+  "18/04/2027": {
+    "tithi": "Dwadashi upto 07:42 AM",
+    "paksha": "Shukla Paksha",
+    "maas": "Chaitra",
+    "nakshatra": "Purva Phalguni upto 06:05 AM",
+    "sunrise": "05:52 AM",
+    "sunset": "06:45 PM",
+    "moonrise": "04:25 PM",
+    "moonset": "04:26 AM, Apr 19",
+    "brahmaMuhurta": "04:23 AM to 05:08 AM",
+    "abhijitMuhurta": "11:53 AM to 12:45 PM",
+    "festivals": [
+      "Kamada Ekadashi Parana",
+      "Ravi Pradosh Vrat"
+    ]
+  },
+  "19/04/2027": {
+    "tithi": "Trayodashi upto 06:08 AM",
+    "paksha": "Shukla Paksha",
+    "maas": "Chaitra",
+    "nakshatra": "Hasta upto 04:40 AM, Apr 20",
+    "sunrise": "05:51 AM",
+    "sunset": "06:46 PM",
+    "moonrise": "05:26 PM",
+    "moonset": "04:59 AM, Apr 20",
+    "brahmaMuhurta": "04:22 AM to 05:07 AM",
+    "abhijitMuhurta": "11:53 AM to 12:44 PM",
+    "festivals": [
+      "Mahavir Swami Jayanti"
+    ]
+  },
+  "20/04/2027": {
+    "tithi": "Purnima upto 03:56 AM, Apr 21",
+    "paksha": "Shukla Paksha",
+    "maas": "Chaitra",
+    "nakshatra": "Chitra upto 04:28 AM, Apr 21",
+    "sunrise": "05:50 AM",
+    "sunset": "06:47 PM",
+    "moonrise": "06:27 PM",
+    "moonset": "05:34 AM, Apr 21",
+    "brahmaMuhurta": "04:22 AM to 05:06 AM",
+    "abhijitMuhurta": "11:53 AM to 12:44 PM",
+    "festivals": [
+      "Hanuman Jayanti",
+      "Hanuman Janmotsava",
+      "Chitra Pournami",
+      "Chaitra Navapada Oli Ends",
+      "Chaitra Purnima Vrat",
+      "Chaitra Purnima",
+      "Anvadhan",
+      "Swarochisha Manvadi"
+    ]
+  },
+  "21/04/2027": {
+    "tithi": "Pratipada upto 03:29 AM, Apr 22",
+    "paksha": "Krishna Paksha",
+    "maas": "Vaishakha",
+    "nakshatra": "Swati upto 04:43 AM, Apr 22",
+    "sunrise": "05:49 AM",
+    "sunset": "06:47 PM",
+    "moonrise": "07:29 PM",
+    "moonset": "No Moonset",
+    "brahmaMuhurta": "04:21 AM to 05:05 AM",
+    "abhijitMuhurta": "None",
+    "festivals": [
+      "Vaishakha Begins *North",
+      "Ishti"
+    ]
+  },
+  "22/04/2027": {
+    "tithi": "Dwitiya upto 03:36 AM, Apr 23",
+    "paksha": "Krishna Paksha",
+    "maas": "Vaishakha",
+    "nakshatra": "Vishakha upto 05:32 AM, Apr 23",
+    "sunrise": "05:48 AM",
+    "sunset": "06:48 PM",
+    "moonrise": "08:30 PM",
+    "moonset": "06:13 AM",
+    "brahmaMuhurta": "04:20 AM to 05:04 AM",
+    "abhijitMuhurta": "11:52 AM to 12:44 PM",
+    "festivals": []
+  },
+  "23/04/2027": {
+    "tithi": "Tritiya upto 04:20 AM, Apr 24",
+    "paksha": "Krishna Paksha",
+    "maas": "Vaishakha",
+    "nakshatra": "Anuradha upto Full Night",
+    "sunrise": "05:47 AM",
+    "sunset": "06:48 PM",
+    "moonrise": "09:30 PM",
+    "moonset": "06:55 AM",
+    "brahmaMuhurta": "04:19 AM to 05:03 AM",
+    "abhijitMuhurta": "11:52 AM to 12:44 PM",
+    "festivals": []
+  },
+  "24/04/2027": {
+    "tithi": "Chaturthi upto 05:41 AM, Apr 25",
+    "paksha": "Krishna Paksha",
+    "maas": "Vaishakha",
+    "nakshatra": "Anuradha upto 06:56 AM",
+    "sunrise": "05:46 AM",
+    "sunset": "06:49 PM",
+    "moonrise": "10:27 PM",
+    "moonset": "07:42 AM",
+    "brahmaMuhurta": "04:19 AM to 05:03 AM",
+    "abhijitMuhurta": "11:52 AM to 12:44 PM",
+    "festivals": [
+      "Vikata Sankashti"
+    ]
+  },
+  "25/04/2027": {
+    "tithi": "Panchami upto Full Night",
+    "paksha": "Krishna Paksha",
+    "maas": "Vaishakha",
+    "nakshatra": "Jyeshtha upto 08:57 AM",
+    "sunrise": "05:46 AM",
+    "sunset": "06:49 PM",
+    "moonrise": "11:18 PM",
+    "moonset": "08:33 AM",
+    "brahmaMuhurta": "04:18 AM to 05:02 AM",
+    "abhijitMuhurta": "11:51 AM to 12:44 PM",
+    "festivals": []
+  },
+  "26/04/2027": {
+    "tithi": "Panchami upto 07:36 AM",
+    "paksha": "Krishna Paksha",
+    "maas": "Vaishakha",
+    "nakshatra": "Mula upto 11:29 AM",
+    "sunrise": "05:45 AM",
+    "sunset": "06:50 PM",
+    "moonrise": "12:05 AM, Apr 27",
+    "moonset": "09:28 AM",
+    "brahmaMuhurta": "04:17 AM to 05:01 AM",
+    "abhijitMuhurta": "11:51 AM to 12:43 PM",
+    "festivals": []
+  },
+  "27/04/2027": {
+    "tithi": "Shashthi upto 09:57 AM",
+    "paksha": "Krishna Paksha",
+    "maas": "Vaishakha",
+    "nakshatra": "Purva Ashadha upto 02:25 PM",
+    "sunrise": "05:44 AM",
+    "sunset": "06:50 PM",
+    "moonrise": "12:46 AM, Apr 28",
+    "moonset": "10:23 AM",
+    "brahmaMuhurta": "04:17 AM to 05:00 AM",
+    "abhijitMuhurta": "11:51 AM to 12:43 PM",
+    "festivals": []
+  },
+  "28/04/2027": {
+    "tithi": "Saptami upto 12:30 PM",
+    "paksha": "Krishna Paksha",
+    "maas": "Vaishakha",
+    "nakshatra": "Uttara Ashadha upto 05:30 PM",
+    "sunrise": "05:43 AM",
+    "sunset": "06:51 PM",
+    "moonrise": "01:22 AM, Apr 29",
+    "moonset": "11:19 AM",
+    "brahmaMuhurta": "04:16 AM to 04:59 AM",
+    "abhijitMuhurta": "None",
+    "festivals": [
+      "Kalashtami",
+      "Masik Krishna Janmashtami"
+    ]
+  },
+  "29/04/2027": {
+    "tithi": "Ashtami upto 03:01 PM",
+    "paksha": "Krishna Paksha",
+    "maas": "Vaishakha",
+    "nakshatra": "Shravana upto 08:30 PM",
+    "sunrise": "05:42 AM",
+    "sunset": "06:52 PM",
+    "moonrise": "01:54 AM, Apr 30",
+    "moonset": "12:14 PM",
+    "brahmaMuhurta": "04:15 AM to 04:59 AM",
+    "abhijitMuhurta": "11:50 AM to 12:43 PM",
+    "festivals": []
+  },
+  "30/04/2027": {
+    "tithi": "Navami upto 05:13 PM",
+    "paksha": "Krishna Paksha",
+    "maas": "Vaishakha",
+    "nakshatra": "Dhanishtha upto 11:10 PM",
+    "sunrise": "05:41 AM",
+    "sunset": "06:52 PM",
+    "moonrise": "02:25 AM, May 01",
+    "moonset": "01:08 PM",
+    "brahmaMuhurta": "04:15 AM to 04:58 AM",
+    "abhijitMuhurta": "11:50 AM to 12:43 PM",
+    "festivals": []
+  },
+  "01/05/2027": {
+    "tithi": "Dashami upto 06:53 PM",
+    "paksha": "Krishna Paksha",
+    "maas": "Vaishakha",
+    "nakshatra": "Shatabhisha upto 01:16 AM, May 02",
+    "sunrise": "05:40 AM",
+    "sunset": "06:53 PM",
+    "moonrise": "02:54 AM, May 02",
+    "moonset": "02:02 PM",
+    "brahmaMuhurta": "04:14 AM to 04:57 AM",
+    "abhijitMuhurta": "11:50 AM to 12:43 PM",
+    "festivals": []
+  },
+  "02/05/2027": {
+    "tithi": "Ekadashi upto 07:51 PM",
+    "paksha": "Krishna Paksha",
+    "maas": "Vaishakha",
+    "nakshatra": "Purva Bhadrapada upto 02:40 AM, May 03",
+    "sunrise": "05:40 AM",
+    "sunset": "06:53 PM",
+    "moonrise": "03:24 AM, May 03",
+    "moonset": "02:57 PM",
+    "brahmaMuhurta": "04:13 AM to 04:56 AM",
+    "abhijitMuhurta": "11:50 AM to 12:43 PM",
+    "festivals": [
+      "Vallabhacharya Jayanti",
+      "Varuthini Ekadashi"
+    ]
+  },
+  "03/05/2027": {
+    "tithi": "Dwadashi upto 08:03 PM",
+    "paksha": "Krishna Paksha",
+    "maas": "Vaishakha",
+    "nakshatra": "Uttara Bhadrapada upto 03:19 AM, May 04",
+    "sunrise": "05:39 AM",
+    "sunset": "06:54 PM",
+    "moonrise": "03:55 AM, May 04",
+    "moonset": "03:53 PM",
+    "brahmaMuhurta": "04:13 AM to 04:56 AM",
+    "abhijitMuhurta": "11:50 AM to 12:43 PM",
+    "festivals": [
+      "Varuthini Ekadashi Parana",
+      "Krishna Vamana Dwadashi",
+      "Soma Pradosh Vrat"
+    ]
+  },
+  "04/05/2027": {
+    "tithi": "Trayodashi upto 07:30 PM",
+    "paksha": "Krishna Paksha",
+    "maas": "Vaishakha",
+    "nakshatra": "Revati upto 03:14 AM, May 05",
+    "sunrise": "05:38 AM",
+    "sunset": "06:54 PM",
+    "moonrise": "04:29 AM, May 05",
+    "moonset": "04:51 PM",
+    "brahmaMuhurta": "04:12 AM to 04:55 AM",
+    "abhijitMuhurta": "11:50 AM to 12:43 PM",
+    "festivals": [
+      "Kubjika Jayanti",
+      "Agni Nakshatram Begins",
+      "Masik Shivaratri"
+    ]
+  },
+  "05/05/2027": {
+    "tithi": "Chaturdashi upto 06:16 PM",
+    "paksha": "Krishna Paksha",
+    "maas": "Vaishakha",
+    "nakshatra": "Ashwini upto 02:31 AM, May 06",
+    "sunrise": "05:37 AM",
+    "sunset": "06:55 PM",
+    "moonrise": "05:08 AM, May 06",
+    "moonset": "05:53 PM",
+    "brahmaMuhurta": "04:12 AM to 04:54 AM",
+    "abhijitMuhurta": "None",
+    "festivals": []
+  },
+  "06/05/2027": {
+    "tithi": "Amavasya upto 04:27 PM",
+    "paksha": "Krishna Paksha",
+    "maas": "Vaishakha",
+    "nakshatra": "Bharani upto 01:18 AM, May 07",
+    "sunrise": "05:37 AM",
+    "sunset": "06:56 PM",
+    "moonrise": "No Moonrise",
+    "moonset": "06:59 PM",
+    "brahmaMuhurta": "04:11 AM to 04:54 AM",
+    "abhijitMuhurta": "11:49 AM to 12:43 PM",
+    "festivals": [
+      "Darsha Amavasya",
+      "Anvadhan",
+      "Vaishakha Amavasya"
+    ]
+  },
+  "07/05/2027": {
+    "tithi": "Pratipada upto 02:13 PM",
+    "paksha": "Shukla Paksha",
+    "maas": "Vaishakha",
+    "nakshatra": "Krittika upto 11:42 PM",
+    "sunrise": "05:36 AM",
+    "sunset": "06:56 PM",
+    "moonrise": "05:53 AM",
+    "moonset": "08:06 PM",
+    "brahmaMuhurta": "04:10 AM to 04:53 AM",
+    "abhijitMuhurta": "11:49 AM to 12:43 PM",
+    "festivals": [
+      "Parashara Rishi Jayanti",
+      "Masik Karthigai",
+      "Ishti",
+      "Chandra Darshana"
+    ]
+  },
+  "08/05/2027": {
+    "tithi": "Dwitiya upto 11:42 AM",
+    "paksha": "Shukla Paksha",
+    "maas": "Vaishakha",
+    "nakshatra": "Rohini upto 09:53 PM",
+    "sunrise": "05:35 AM",
+    "sunset": "06:57 PM",
+    "moonrise": "06:46 AM",
+    "moonset": "09:13 PM",
+    "brahmaMuhurta": "04:10 AM to 04:52 AM",
+    "abhijitMuhurta": "11:49 AM to 12:43 PM",
+    "festivals": [
+      "Parashurama Jayanti",
+      "Rohini Vrat"
+    ]
+  },
+  "09/05/2027": {
+    "tithi": "Tritiya upto 09:03 AM",
+    "paksha": "Shukla Paksha",
+    "maas": "Vaishakha",
+    "nakshatra": "Mrigashira upto 07:59 PM",
+    "sunrise": "05:34 AM",
+    "sunset": "06:57 PM",
+    "moonrise": "07:46 AM",
+    "moonset": "10:17 PM",
+    "brahmaMuhurta": "04:09 AM to 04:52 AM",
+    "abhijitMuhurta": "11:49 AM to 12:43 PM",
+    "festivals": [
+      "Akshaya Tritiya",
+      "Matangi Jayanti",
+      "Tagore Jayanti *Bengal",
+      "Varshitapa Parana",
+      "Sankarshana Chaturthi",
+      "Treta Yuga Diwas"
+    ]
+  },
+  "10/05/2027": {
+    "tithi": "Chaturthi upto 06:22 AM",
+    "paksha": "Shukla Paksha",
+    "maas": "Vaishakha",
+    "nakshatra": "Ardra upto 06:08 PM",
+    "sunrise": "05:34 AM",
+    "sunset": "06:58 PM",
+    "moonrise": "08:53 AM",
+    "moonset": "11:13 PM",
+    "brahmaMuhurta": "04:09 AM to 04:51 AM",
+    "abhijitMuhurta": "11:49 AM to 12:43 PM",
+    "festivals": [
+      "Shankaracharya Jayanti",
+      "Surdas Jayanti",
+      "Ramanuja Jayanti"
+    ]
+  },
+  "11/05/2027": {
+    "tithi": "Shashthi upto 01:23 AM, May 12",
+    "paksha": "Shukla Paksha",
+    "maas": "Vaishakha",
+    "nakshatra": "Punarvasu upto 04:25 PM",
+    "sunrise": "05:33 AM",
+    "sunset": "06:59 PM",
+    "moonrise": "10:01 AM",
+    "moonset": "12:01 AM, May 12",
+    "brahmaMuhurta": "04:08 AM to 04:51 AM",
+    "abhijitMuhurta": "11:49 AM to 12:43 PM",
+    "festivals": [
+      "Skanda Sashti"
+    ]
+  },
+  "12/05/2027": {
+    "tithi": "Saptami upto 11:12 PM",
+    "paksha": "Shukla Paksha",
+    "maas": "Vaishakha",
+    "nakshatra": "Pushya upto 02:55 PM",
+    "sunrise": "05:32 AM",
+    "sunset": "06:59 PM",
+    "moonrise": "11:09 AM",
+    "moonset": "12:43 AM, May 13",
+    "brahmaMuhurta": "04:08 AM to 04:50 AM",
+    "abhijitMuhurta": "None",
+    "festivals": [
+      "Ganga Saptami"
+    ]
+  },
+  "13/05/2027": {
+    "tithi": "Ashtami upto 09:17 PM",
+    "paksha": "Shukla Paksha",
+    "maas": "Vaishakha",
+    "nakshatra": "Ashlesha upto 01:40 PM",
+    "sunrise": "05:32 AM",
+    "sunset": "07:00 PM",
+    "moonrise": "12:15 PM",
+    "moonset": "01:20 AM, May 14",
+    "brahmaMuhurta": "04:07 AM to 04:50 AM",
+    "abhijitMuhurta": "11:49 AM to 12:43 PM",
+    "festivals": [
+      "Bagalamukhi Jayanti",
+      "Masik Durgashtami"
+    ]
+  },
+  "14/05/2027": {
+    "tithi": "Navami upto 07:38 PM",
+    "paksha": "Shukla Paksha",
+    "maas": "Vaishakha",
+    "nakshatra": "Magha upto 12:42 PM",
+    "sunrise": "05:31 AM",
+    "sunset": "07:00 PM",
+    "moonrise": "01:17 PM",
+    "moonset": "01:54 AM, May 15",
+    "brahmaMuhurta": "04:07 AM to 04:49 AM",
+    "abhijitMuhurta": "11:49 AM to 12:43 PM",
+    "festivals": [
+      "Sita Navami"
+    ]
+  },
+  "15/05/2027": {
+    "tithi": "Dashami upto 06:17 PM",
+    "paksha": "Shukla Paksha",
+    "maas": "Vaishakha",
+    "nakshatra": "Purva Phalguni upto 12:00 PM",
+    "sunrise": "05:31 AM",
+    "sunset": "07:01 PM",
+    "moonrise": "02:18 PM",
+    "moonset": "02:27 AM, May 16",
+    "brahmaMuhurta": "04:07 AM to 04:49 AM",
+    "abhijitMuhurta": "11:49 AM to 12:43 PM",
+    "festivals": [
+      "Vrishabha Sankranti",
+      "Mahavira Swami Kevalagyan"
+    ]
+  },
+  "16/05/2027": {
+    "tithi": "Ekadashi upto 05:13 PM",
+    "paksha": "Shukla Paksha",
+    "maas": "Vaishakha",
+    "nakshatra": "Uttara Phalguni upto 11:35 AM",
+    "sunrise": "05:30 AM",
+    "sunset": "07:01 PM",
+    "moonrise": "03:18 PM",
+    "moonset": "02:59 AM, May 17",
+    "brahmaMuhurta": "04:06 AM to 04:48 AM",
+    "abhijitMuhurta": "11:49 AM to 12:43 PM",
+    "festivals": [
+      "Parashurama Dwadashi",
+      "Siddhilakshmi Jayanti",
+      "Mohini Ekadashi"
+    ]
+  },
+  "17/05/2027": {
+    "tithi": "Dwadashi upto 04:28 PM",
+    "paksha": "Shukla Paksha",
+    "maas": "Vaishakha",
+    "nakshatra": "Hasta upto 11:29 AM",
+    "sunrise": "05:30 AM",
+    "sunset": "07:02 PM",
+    "moonrise": "04:18 PM",
+    "moonset": "03:33 AM, May 18",
+    "brahmaMuhurta": "04:06 AM to 04:48 AM",
+    "abhijitMuhurta": "11:49 AM to 12:43 PM",
+    "festivals": [
+      "Mohini Ekadashi Parana",
+      "Soma Pradosh Vrat"
+    ]
+  },
+  "18/05/2027": {
+    "tithi": "Trayodashi upto 04:03 PM",
+    "paksha": "Shukla Paksha",
+    "maas": "Vaishakha",
+    "nakshatra": "Chitra upto 11:42 AM",
+    "sunrise": "05:29 AM",
+    "sunset": "07:03 PM",
+    "moonrise": "05:18 PM",
+    "moonset": "04:10 AM, May 19",
+    "brahmaMuhurta": "04:05 AM to 04:47 AM",
+    "abhijitMuhurta": "11:49 AM to 12:43 PM",
+    "festivals": [
+      "Narasimha Jayanti",
+      "Chhinnamasta Jayanti"
+    ]
+  },
+  "19/05/2027": {
+    "tithi": "Chaturdashi upto 04:02 PM",
+    "paksha": "Shukla Paksha",
+    "maas": "Vaishakha",
+    "nakshatra": "Swati upto 12:19 PM",
+    "sunrise": "05:29 AM",
+    "sunset": "07:03 PM",
+    "moonrise": "06:18 PM",
+    "moonset": "04:50 AM, May 20",
+    "brahmaMuhurta": "04:05 AM to 04:47 AM",
+    "abhijitMuhurta": "None",
+    "festivals": [
+      "Kurma Jayanti"
+    ]
+  },
+  "20/05/2027": {
+    "tithi": "Purnima upto 04:28 PM",
+    "paksha": "Shukla Paksha",
+    "maas": "Vaishakha",
+    "nakshatra": "Vishakha upto 01:21 PM",
+    "sunrise": "05:28 AM",
+    "sunset": "07:04 PM",
+    "moonrise": "07:18 PM",
+    "moonset": "No Moonset",
+    "brahmaMuhurta": "04:05 AM to 04:46 AM",
+    "abhijitMuhurta": "11:49 AM to 12:43 PM",
+    "festivals": [
+      "Buddha Purnima",
+      "Chandika Jayanti",
+      "Vaikasi Visakam",
+      "Vaishakha Purnima Vrat",
+      "Vaishakha Purnima",
+      "Anvadhan"
+    ]
+  },
+  "21/05/2027": {
+    "tithi": "Pratipada upto 05:23 PM",
+    "paksha": "Krishna Paksha",
+    "maas": "Jyeshtha",
+    "nakshatra": "Anuradha upto 02:51 PM",
+    "sunrise": "05:28 AM",
+    "sunset": "07:04 PM",
+    "moonrise": "08:16 PM",
+    "moonset": "05:35 AM",
+    "brahmaMuhurta": "04:04 AM to 04:46 AM",
+    "abhijitMuhurta": "11:49 AM to 12:43 PM",
+    "festivals": [
+      "Narada Jayanti",
+      "Jyeshtha Begins *North",
+      "Ishti"
+    ]
+  },
+  "22/05/2027": {
+    "tithi": "Dwitiya upto 06:47 PM",
+    "paksha": "Krishna Paksha",
+    "maas": "Jyeshtha",
+    "nakshatra": "Jyeshtha upto 04:50 PM",
+    "sunrise": "05:27 AM",
+    "sunset": "07:05 PM",
+    "moonrise": "09:10 PM",
+    "moonset": "06:25 AM",
+    "brahmaMuhurta": "04:04 AM to 04:46 AM",
+    "abhijitMuhurta": "11:49 AM to 12:43 PM",
+    "festivals": []
+  },
+  "23/05/2027": {
+    "tithi": "Tritiya upto 08:41 PM",
+    "paksha": "Krishna Paksha",
+    "maas": "Jyeshtha",
+    "nakshatra": "Mula upto 07:17 PM",
+    "sunrise": "05:27 AM",
+    "sunset": "07:05 PM",
+    "moonrise": "09:59 PM",
+    "moonset": "07:18 AM",
+    "brahmaMuhurta": "04:04 AM to 04:45 AM",
+    "abhijitMuhurta": "11:49 AM to 12:43 PM",
+    "festivals": [
+      "Ekadanta Sankashti"
+    ]
+  },
+  "24/05/2027": {
+    "tithi": "Chaturthi upto 10:58 PM",
+    "paksha": "Krishna Paksha",
+    "maas": "Jyeshtha",
+    "nakshatra": "Purva Ashadha upto 10:07 PM",
+    "sunrise": "05:26 AM",
+    "sunset": "07:06 PM",
+    "moonrise": "10:42 PM",
+    "moonset": "08:14 AM",
+    "brahmaMuhurta": "04:04 AM to 04:45 AM",
+    "abhijitMuhurta": "11:49 AM to 12:44 PM",
+    "festivals": []
+  },
+  "25/05/2027": {
+    "tithi": "Panchami upto 01:30 AM, May 26",
+    "paksha": "Krishna Paksha",
+    "maas": "Jyeshtha",
+    "nakshatra": "Uttara Ashadha upto 01:12 AM, May 26",
+    "sunrise": "05:26 AM",
+    "sunset": "07:06 PM",
+    "moonrise": "11:19 PM",
+    "moonset": "09:10 AM",
+    "brahmaMuhurta": "04:03 AM to 04:45 AM",
+    "abhijitMuhurta": "11:49 AM to 12:44 PM",
+    "festivals": []
+  },
+  "26/05/2027": {
+    "tithi": "Shashthi upto 04:04 AM, May 27",
+    "paksha": "Krishna Paksha",
+    "maas": "Jyeshtha",
+    "nakshatra": "Shravana upto 04:19 AM, May 27",
+    "sunrise": "05:26 AM",
+    "sunset": "07:07 PM",
+    "moonrise": "11:53 PM",
+    "moonset": "10:05 AM",
+    "brahmaMuhurta": "04:03 AM to 04:44 AM",
+    "abhijitMuhurta": "None",
+    "festivals": []
+  },
+  "27/05/2027": {
+    "tithi": "Saptami upto Full Night",
+    "paksha": "Krishna Paksha",
+    "maas": "Jyeshtha",
+    "nakshatra": "Dhanishtha upto Full Night",
+    "sunrise": "05:25 AM",
+    "sunset": "07:08 PM",
+    "moonrise": "12:24 AM, May 28",
+    "moonset": "10:59 AM",
+    "brahmaMuhurta": "04:03 AM to 04:44 AM",
+    "abhijitMuhurta": "11:49 AM to 12:44 PM",
+    "festivals": []
+  },
+  "28/05/2027": {
+    "tithi": "Saptami upto 06:26 AM",
+    "paksha": "Krishna Paksha",
+    "maas": "Jyeshtha",
+    "nakshatra": "Dhanishtha upto 07:14 AM",
+    "sunrise": "05:25 AM",
+    "sunset": "07:08 PM",
+    "moonrise": "12:53 AM, May 29",
+    "moonset": "11:52 AM",
+    "brahmaMuhurta": "04:03 AM to 04:44 AM",
+    "abhijitMuhurta": "11:49 AM to 12:44 PM",
+    "festivals": [
+      "Kalashtami",
+      "Masik Krishna Janmashtami"
+    ]
+  },
+  "29/05/2027": {
+    "tithi": "Ashtami upto 08:20 AM",
+    "paksha": "Krishna Paksha",
+    "maas": "Jyeshtha",
+    "nakshatra": "Shatabhisha upto 09:42 AM",
+    "sunrise": "05:25 AM",
+    "sunset": "07:09 PM",
+    "moonrise": "01:22 AM, May 30",
+    "moonset": "12:46 PM",
+    "brahmaMuhurta": "04:03 AM to 04:44 AM",
+    "abhijitMuhurta": "11:49 AM to 12:44 PM",
+    "festivals": [
+      "Agni Nakshatram Ends"
+    ]
+  },
+  "30/05/2027": {
+    "tithi": "Navami upto 09:34 AM",
+    "paksha": "Krishna Paksha",
+    "maas": "Jyeshtha",
+    "nakshatra": "Purva Bhadrapada upto 11:32 AM",
+    "sunrise": "05:25 AM",
+    "sunset": "07:09 PM",
+    "moonrise": "01:52 AM, May 31",
+    "moonset": "01:40 PM",
+    "brahmaMuhurta": "04:02 AM to 04:44 AM",
+    "abhijitMuhurta": "11:49 AM to 12:44 PM",
+    "festivals": []
+  },
+  "31/05/2027": {
+    "tithi": "Dashami upto 10:02 AM",
+    "paksha": "Krishna Paksha",
+    "maas": "Jyeshtha",
+    "nakshatra": "Uttara Bhadrapada upto 12:35 PM",
+    "sunrise": "05:24 AM",
+    "sunset": "07:10 PM",
+    "moonrise": "02:24 AM, Jun 01",
+    "moonset": "02:36 PM",
+    "brahmaMuhurta": "04:02 AM to 04:43 AM",
+    "abhijitMuhurta": "11:49 AM to 12:45 PM",
+    "festivals": [
+      "Hanuman Jayanti *Telugu"
+    ]
+  },
+  "01/06/2027": {
+    "tithi": "Ekadashi upto 09:39 AM",
+    "paksha": "Krishna Paksha",
+    "maas": "Jyeshtha",
+    "nakshatra": "Revati upto 12:49 PM",
+    "sunrise": "05:24 AM",
+    "sunset": "07:10 PM",
+    "moonrise": "03:00 AM, Jun 02",
+    "moonset": "03:35 PM",
+    "brahmaMuhurta": "04:02 AM to 04:43 AM",
+    "abhijitMuhurta": "11:50 AM to 12:45 PM",
+    "festivals": [
+      "Krishna Parashurama Dwadashi",
+      "Apara Ekadashi"
+    ]
+  },
+  "02/06/2027": {
+    "tithi": "Dwadashi upto 08:28 AM",
+    "paksha": "Krishna Paksha",
+    "maas": "Jyeshtha",
+    "nakshatra": "Ashwini upto 12:16 PM",
+    "sunrise": "05:24 AM",
+    "sunset": "07:11 PM",
+    "moonrise": "03:42 AM, Jun 03",
+    "moonset": "04:39 PM",
+    "brahmaMuhurta": "04:02 AM to 04:43 AM",
+    "abhijitMuhurta": "None",
+    "festivals": [
+      "Apara Ekadashi Parana",
+      "Budha Pradosh Vrat"
+    ]
+  },
+  "03/06/2027": {
+    "tithi": "Trayodashi upto 06:34 AM",
+    "paksha": "Krishna Paksha",
+    "maas": "Jyeshtha",
+    "nakshatra": "Bharani upto 11:01 AM",
+    "sunrise": "05:24 AM",
+    "sunset": "07:11 PM",
+    "moonrise": "04:32 AM, Jun 04",
+    "moonset": "05:46 PM",
+    "brahmaMuhurta": "04:02 AM to 04:43 AM",
+    "abhijitMuhurta": "11:50 AM to 12:45 PM",
+    "festivals": [
+      "Masik Karthigai",
+      "Masik Shivaratri"
+    ]
+  },
+  "04/06/2027": {
+    "tithi": "Amavasya upto 01:09 AM, Jun 05",
+    "paksha": "Krishna Paksha",
+    "maas": "Jyeshtha",
+    "nakshatra": "Krittika upto 09:13 AM",
+    "sunrise": "05:24 AM",
+    "sunset": "07:12 PM",
+    "moonrise": "No Moonrise",
+    "moonset": "06:54 PM",
+    "brahmaMuhurta": "04:02 AM to 04:43 AM",
+    "abhijitMuhurta": "11:50 AM to 12:45 PM",
+    "festivals": [
+      "Vat Savitri Vrat",
+      "Shani Jayanti",
+      "Darsha Amavasya",
+      "Anvadhan",
+      "Jyeshtha Amavasya"
+    ]
+  },
+  "05/06/2027": {
+    "tithi": "Pratipada upto 09:58 PM",
+    "paksha": "Shukla Paksha",
+    "maas": "Jyeshtha",
+    "nakshatra": "Rohini upto 07:02 AM",
+    "sunrise": "05:24 AM",
+    "sunset": "07:12 PM",
+    "moonrise": "05:30 AM",
+    "moonset": "08:01 PM",
+    "brahmaMuhurta": "04:02 AM to 04:43 AM",
+    "abhijitMuhurta": "11:50 AM to 12:45 PM",
+    "festivals": [
+      "Rohini Vrat",
+      "Ishti",
+      "Chandra Darshana"
+    ]
+  },
+  "06/06/2027": {
+    "tithi": "Dwitiya upto 06:40 PM",
+    "paksha": "Shukla Paksha",
+    "maas": "Jyeshtha",
+    "nakshatra": "Ardra upto 02:08 AM, Jun 07",
+    "sunrise": "05:23 AM",
+    "sunset": "07:13 PM",
+    "moonrise": "06:36 AM",
+    "moonset": "09:02 PM",
+    "brahmaMuhurta": "04:02 AM to 04:43 AM",
+    "abhijitMuhurta": "11:50 AM to 12:46 PM",
+    "festivals": []
+  },
+  "07/06/2027": {
+    "tithi": "Tritiya upto 03:25 PM",
+    "paksha": "Shukla Paksha",
+    "maas": "Jyeshtha",
+    "nakshatra": "Punarvasu upto 11:45 PM",
+    "sunrise": "05:23 AM",
+    "sunset": "07:13 PM",
+    "moonrise": "07:47 AM",
+    "moonset": "09:55 PM",
+    "brahmaMuhurta": "04:02 AM to 04:43 AM",
+    "abhijitMuhurta": "11:50 AM to 12:46 PM",
+    "festivals": [
+      "Maharana Pratap Jayanti"
+    ]
+  },
+  "08/06/2027": {
+    "tithi": "Chaturthi upto 12:21 PM",
+    "paksha": "Shukla Paksha",
+    "maas": "Jyeshtha",
+    "nakshatra": "Pushya upto 09:36 PM",
+    "sunrise": "05:23 AM",
+    "sunset": "07:13 PM",
+    "moonrise": "08:57 AM",
+    "moonset": "10:41 PM",
+    "brahmaMuhurta": "04:02 AM to 04:43 AM",
+    "abhijitMuhurta": "11:51 AM to 12:46 PM",
+    "festivals": [
+      "Pradyumna Chaturthi"
+    ]
+  },
+  "09/06/2027": {
+    "tithi": "Panchami upto 09:35 AM",
+    "paksha": "Shukla Paksha",
+    "maas": "Jyeshtha",
+    "nakshatra": "Ashlesha upto 07:47 PM",
+    "sunrise": "05:23 AM",
+    "sunset": "07:14 PM",
+    "moonrise": "10:06 AM",
+    "moonset": "11:20 PM",
+    "brahmaMuhurta": "04:02 AM to 04:43 AM",
+    "abhijitMuhurta": "None",
+    "festivals": [
+      "Skanda Sashti"
+    ]
+  },
+  "10/06/2027": {
+    "tithi": "Shashthi upto 07:11 AM",
+    "paksha": "Shukla Paksha",
+    "maas": "Jyeshtha",
+    "nakshatra": "Magha upto 06:23 PM",
+    "sunrise": "05:23 AM",
+    "sunset": "07:14 PM",
+    "moonrise": "11:11 AM",
+    "moonset": "11:56 PM",
+    "brahmaMuhurta": "04:02 AM to 04:43 AM",
+    "abhijitMuhurta": "11:51 AM to 12:46 PM",
+    "festivals": [
+      "Jamai Shashti"
+    ]
+  },
+  "11/06/2027": {
+    "tithi": "Ashtami upto 03:44 AM, Jun 12",
+    "paksha": "Shukla Paksha",
+    "maas": "Jyeshtha",
+    "nakshatra": "Purva Phalguni upto 05:27 PM",
+    "sunrise": "05:23 AM",
+    "sunset": "07:15 PM",
+    "moonrise": "12:13 PM",
+    "moonset": "12:29 AM, Jun 12",
+    "brahmaMuhurta": "04:02 AM to 04:43 AM",
+    "abhijitMuhurta": "11:51 AM to 12:47 PM",
+    "festivals": [
+      "Dhumavati Jayanti",
+      "Masik Durgashtami"
+    ]
+  },
+  "12/06/2027": {
+    "tithi": "Navami upto 02:43 AM, Jun 13",
+    "paksha": "Shukla Paksha",
+    "maas": "Jyeshtha",
+    "nakshatra": "Uttara Phalguni upto 04:59 PM",
+    "sunrise": "05:23 AM",
+    "sunset": "07:15 PM",
+    "moonrise": "01:13 PM",
+    "moonset": "01:01 AM, Jun 13",
+    "brahmaMuhurta": "04:02 AM to 04:43 AM",
+    "abhijitMuhurta": "11:51 AM to 12:47 PM",
+    "festivals": [
+      "Mahesh Navami"
+    ]
+  },
+  "13/06/2027": {
+    "tithi": "Dashami upto 02:11 AM, Jun 14",
+    "paksha": "Shukla Paksha",
+    "maas": "Jyeshtha",
+    "nakshatra": "Hasta upto 04:59 PM",
+    "sunrise": "05:23 AM",
+    "sunset": "07:15 PM",
+    "moonrise": "02:12 PM",
+    "moonset": "01:34 AM, Jun 14",
+    "brahmaMuhurta": "04:02 AM to 04:43 AM",
+    "abhijitMuhurta": "11:52 AM to 12:47 PM",
+    "festivals": [
+      "Ganga Dussehra"
+    ]
+  },
+  "14/06/2027": {
+    "tithi": "Ekadashi upto 02:07 AM, Jun 15",
+    "paksha": "Shukla Paksha",
+    "maas": "Jyeshtha",
+    "nakshatra": "Chitra upto 05:28 PM",
+    "sunrise": "05:23 AM",
+    "sunset": "07:16 PM",
+    "moonrise": "03:11 PM",
+    "moonset": "02:10 AM, Jun 15",
+    "brahmaMuhurta": "04:02 AM to 04:43 AM",
+    "abhijitMuhurta": "11:52 AM to 12:47 PM",
+    "festivals": [
+      "Gayatri Jayanti",
+      "Nirjala Ekadashi"
+    ]
+  },
+  "15/06/2027": {
+    "tithi": "Dwadashi upto 02:30 AM, Jun 16",
+    "paksha": "Shukla Paksha",
+    "maas": "Jyeshtha",
+    "nakshatra": "Swati upto 06:23 PM",
+    "sunrise": "05:23 AM",
+    "sunset": "07:16 PM",
+    "moonrise": "04:11 PM",
+    "moonset": "02:48 AM, Jun 16",
+    "brahmaMuhurta": "04:02 AM to 04:43 AM",
+    "abhijitMuhurta": "11:52 AM to 12:47 PM",
+    "festivals": [
+      "Nirjala Ekadashi Parana",
+      "Ramalakshmana Dwadashi",
+      "Mithuna Sankranti"
+    ]
+  },
+  "16/06/2027": {
+    "tithi": "Trayodashi upto 03:20 AM, Jun 17",
+    "paksha": "Shukla Paksha",
+    "maas": "Jyeshtha",
+    "nakshatra": "Vishakha upto 07:44 PM",
+    "sunrise": "05:24 AM",
+    "sunset": "07:16 PM",
+    "moonrise": "05:11 PM",
+    "moonset": "03:31 AM, Jun 17",
+    "brahmaMuhurta": "04:03 AM to 04:43 AM",
+    "abhijitMuhurta": "None",
+    "festivals": [
+      "Budha Pradosh Vrat"
+    ]
+  },
+  "17/06/2027": {
+    "tithi": "Chaturdashi upto 04:34 AM, Jun 18",
+    "paksha": "Shukla Paksha",
+    "maas": "Jyeshtha",
+    "nakshatra": "Anuradha upto 09:30 PM",
+    "sunrise": "05:24 AM",
+    "sunset": "07:17 PM",
+    "moonrise": "06:09 PM",
+    "moonset": "04:19 AM, Jun 18",
+    "brahmaMuhurta": "04:03 AM to 04:43 AM",
+    "abhijitMuhurta": "11:52 AM to 12:48 PM",
+    "festivals": []
+  },
+  "18/06/2027": {
+    "tithi": "Purnima upto Full Night",
+    "paksha": "Shukla Paksha",
+    "maas": "Jyeshtha",
+    "nakshatra": "Jyeshtha upto 11:40 PM",
+    "sunrise": "05:24 AM",
+    "sunset": "07:17 PM",
+    "moonrise": "07:04 PM",
+    "moonset": "05:11 AM, Jun 19",
+    "brahmaMuhurta": "04:03 AM to 04:43 AM",
+    "abhijitMuhurta": "11:53 AM to 12:48 PM",
+    "festivals": [
+      "Vat Purnima Vrat",
+      "Kabirdas Jayanti",
+      "Batuka Bhairavi Jayanti",
+      "Jyeshtha Purnima Vrat",
+      "Jyeshtha Purnima",
+      "Anvadhan",
+      "Vaivaswata Manvadi"
+    ]
+  },
+  "19/06/2027": {
+    "tithi": "Purnima upto 06:13 AM",
+    "paksha": "Shukla Paksha",
+    "maas": "Jyeshtha",
+    "nakshatra": "Mula upto 02:12 AM, Jun 20",
+    "sunrise": "05:24 AM",
+    "sunset": "07:17 PM",
+    "moonrise": "07:54 PM",
+    "moonset": "No Moonset",
+    "brahmaMuhurta": "04:03 AM to 04:44 AM",
+    "abhijitMuhurta": "11:53 AM to 12:48 PM",
+    "festivals": [
+      "Ishti"
+    ]
+  },
+  "20/06/2027": {
+    "tithi": "Pratipada upto 08:15 AM",
+    "paksha": "Krishna Paksha",
+    "maas": "Ashadha",
+    "nakshatra": "Purva Ashadha upto 05:03 AM, Jun 21",
+    "sunrise": "05:24 AM",
+    "sunset": "07:17 PM",
+    "moonrise": "08:39 PM",
+    "moonset": "06:06 AM",
+    "brahmaMuhurta": "04:03 AM to 04:44 AM",
+    "abhijitMuhurta": "11:53 AM to 12:49 PM",
+    "festivals": [
+      "Ashadha Begins *North"
+    ]
+  },
+  "21/06/2027": {
+    "tithi": "Dwitiya upto 10:35 AM",
+    "paksha": "Krishna Paksha",
+    "maas": "Ashadha",
+    "nakshatra": "Uttara Ashadha upto Full Night",
+    "sunrise": "05:24 AM",
+    "sunset": "07:18 PM",
+    "moonrise": "09:18 PM",
+    "moonset": "07:02 AM",
+    "brahmaMuhurta": "04:03 AM to 04:44 AM",
+    "abhijitMuhurta": "11:53 AM to 12:49 PM",
+    "festivals": [
+      "Longest Day of Year"
+    ]
+  },
+  "22/06/2027": {
+    "tithi": "Tritiya upto 01:07 PM",
+    "paksha": "Krishna Paksha",
+    "maas": "Ashadha",
+    "nakshatra": "Uttara Ashadha upto 08:08 AM",
+    "sunrise": "05:25 AM",
+    "sunset": "07:18 PM",
+    "moonrise": "09:53 PM",
+    "moonset": "07:58 AM",
+    "brahmaMuhurta": "04:04 AM to 04:44 AM",
+    "abhijitMuhurta": "11:53 AM to 12:49 PM",
+    "festivals": [
+      "Krishnapingala Sankashti"
+    ]
+  },
+  "23/06/2027": {
+    "tithi": "Chaturthi upto 03:42 PM",
+    "paksha": "Krishna Paksha",
+    "maas": "Ashadha",
+    "nakshatra": "Shravana upto 11:17 AM",
+    "sunrise": "05:25 AM",
+    "sunset": "07:18 PM",
+    "moonrise": "10:25 PM",
+    "moonset": "08:52 AM",
+    "brahmaMuhurta": "04:04 AM to 04:44 AM",
+    "abhijitMuhurta": "None",
+    "festivals": []
+  },
+  "24/06/2027": {
+    "tithi": "Panchami upto 06:09 PM",
+    "paksha": "Krishna Paksha",
+    "maas": "Ashadha",
+    "nakshatra": "Dhanishtha upto 02:21 PM",
+    "sunrise": "05:25 AM",
+    "sunset": "07:18 PM",
+    "moonrise": "10:54 PM",
+    "moonset": "09:45 AM",
+    "brahmaMuhurta": "04:04 AM to 04:45 AM",
+    "abhijitMuhurta": "11:54 AM to 12:49 PM",
+    "festivals": []
+  },
+  "25/06/2027": {
+    "tithi": "Shashthi upto 08:16 PM",
+    "paksha": "Krishna Paksha",
+    "maas": "Ashadha",
+    "nakshatra": "Shatabhisha upto 05:06 PM",
+    "sunrise": "05:25 AM",
+    "sunset": "07:18 PM",
+    "moonrise": "11:22 PM",
+    "moonset": "10:38 AM",
+    "brahmaMuhurta": "04:04 AM to 04:45 AM",
+    "abhijitMuhurta": "11:54 AM to 12:50 PM",
+    "festivals": []
+  },
+  "26/06/2027": {
+    "tithi": "Saptami upto 09:51 PM",
+    "paksha": "Krishna Paksha",
+    "maas": "Ashadha",
+    "nakshatra": "Purva Bhadrapada upto 07:22 PM",
+    "sunrise": "05:26 AM",
+    "sunset": "07:18 PM",
+    "moonrise": "11:51 PM",
+    "moonset": "11:31 AM",
+    "brahmaMuhurta": "04:05 AM to 04:45 AM",
+    "abhijitMuhurta": "11:54 AM to 12:50 PM",
+    "festivals": [
+      "Masik Krishna Janmashtami"
+    ]
+  },
+  "27/06/2027": {
+    "tithi": "Ashtami upto 10:44 PM",
+    "paksha": "Krishna Paksha",
+    "maas": "Ashadha",
+    "nakshatra": "Uttara Bhadrapada upto 08:58 PM",
+    "sunrise": "05:26 AM",
+    "sunset": "07:19 PM",
+    "moonrise": "12:21 AM, Jun 28",
+    "moonset": "12:25 PM",
+    "brahmaMuhurta": "04:05 AM to 04:45 AM",
+    "abhijitMuhurta": "11:54 AM to 12:50 PM",
+    "festivals": [
+      "Kalashtami"
+    ]
+  },
+  "28/06/2027": {
+    "tithi": "Navami upto 10:49 PM",
+    "paksha": "Krishna Paksha",
+    "maas": "Ashadha",
+    "nakshatra": "Revati upto 09:48 PM",
+    "sunrise": "05:26 AM",
+    "sunset": "07:19 PM",
+    "moonrise": "12:54 AM, Jun 29",
+    "moonset": "01:21 PM",
+    "brahmaMuhurta": "04:05 AM to 04:46 AM",
+    "abhijitMuhurta": "11:55 AM to 12:50 PM",
+    "festivals": []
+  },
+  "29/06/2027": {
+    "tithi": "Dashami upto 10:03 PM",
+    "paksha": "Krishna Paksha",
+    "maas": "Ashadha",
+    "nakshatra": "Ashwini upto 09:48 PM",
+    "sunrise": "05:27 AM",
+    "sunset": "07:19 PM",
+    "moonrise": "01:32 AM, Jun 30",
+    "moonset": "02:21 PM",
+    "brahmaMuhurta": "04:05 AM to 04:46 AM",
+    "abhijitMuhurta": "11:55 AM to 12:50 PM",
+    "festivals": []
+  },
+  "30/06/2027": {
+    "tithi": "Ekadashi upto 08:30 PM",
+    "paksha": "Krishna Paksha",
+    "maas": "Ashadha",
+    "nakshatra": "Bharani upto 09:01 PM",
+    "sunrise": "05:27 AM",
+    "sunset": "07:19 PM",
+    "moonrise": "02:17 AM, Jul 01",
+    "moonset": "03:25 PM",
+    "brahmaMuhurta": "04:06 AM to 04:46 AM",
+    "abhijitMuhurta": "None",
+    "festivals": [
+      "Yogini Ekadashi"
+    ]
+  },
+  "01/07/2027": {
+    "tithi": "Dwadashi upto 06:14 PM",
+    "paksha": "Krishna Paksha",
+    "maas": "Ashadha",
+    "nakshatra": "Krittika upto 07:31 PM",
+    "sunrise": "05:27 AM",
+    "sunset": "07:19 PM",
+    "moonrise": "03:11 AM, Jul 02",
+    "moonset": "04:32 PM",
+    "brahmaMuhurta": "04:06 AM to 04:47 AM",
+    "abhijitMuhurta": "11:55 AM to 12:51 PM",
+    "festivals": [
+      "Yogini Ekadashi Parana",
+      "Krishna Ramalakshmana Dwadashi",
+      "Masik Karthigai",
+      "Guru Pradosh Vrat"
+    ]
+  },
+  "02/07/2027": {
+    "tithi": "Trayodashi upto 03:23 PM",
+    "paksha": "Krishna Paksha",
+    "maas": "Ashadha",
+    "nakshatra": "Rohini upto 05:26 PM",
+    "sunrise": "05:28 AM",
+    "sunset": "07:19 PM",
+    "moonrise": "04:14 AM, Jul 03",
+    "moonset": "05:40 PM",
+    "brahmaMuhurta": "04:06 AM to 04:47 AM",
+    "abhijitMuhurta": "11:56 AM to 12:51 PM",
+    "festivals": [
+      "Rohini Vrat",
+      "Masik Shivaratri"
+    ]
+  },
+  "03/07/2027": {
+    "tithi": "Chaturdashi upto 12:05 PM",
+    "paksha": "Krishna Paksha",
+    "maas": "Ashadha",
+    "nakshatra": "Mrigashira upto 02:55 PM",
+    "sunrise": "05:28 AM",
+    "sunset": "07:19 PM",
+    "moonrise": "05:23 AM, Jul 04",
+    "moonset": "06:44 PM",
+    "brahmaMuhurta": "04:07 AM to 04:47 AM",
+    "abhijitMuhurta": "11:56 AM to 12:51 PM",
+    "festivals": [
+      "Darsha Amavasya",
+      "Anvadhan"
+    ]
+  },
+  "04/07/2027": {
+    "tithi": "Amavasya upto 08:31 AM",
+    "paksha": "Krishna Paksha",
+    "maas": "Ashadha",
+    "nakshatra": "Ardra upto 12:09 PM",
+    "sunrise": "05:28 AM",
+    "sunset": "07:19 PM",
+    "moonrise": "No Moonrise",
+    "moonset": "07:42 PM",
+    "brahmaMuhurta": "04:07 AM to 04:48 AM",
+    "abhijitMuhurta": "11:56 AM to 12:51 PM",
+    "festivals": [
+      "Ashadha Navratri",
+      "Ishti",
+      "Ashadha Amavasya"
+    ]
+  },
+  "05/07/2027": {
+    "tithi": "Dwitiya upto 01:13 AM, Jul 06",
+    "paksha": "Shukla Paksha",
+    "maas": "Ashadha",
+    "nakshatra": "Punarvasu upto 09:19 AM",
+    "sunrise": "05:29 AM",
+    "sunset": "07:19 PM",
+    "moonrise": "06:36 AM",
+    "moonset": "08:32 PM",
+    "brahmaMuhurta": "04:07 AM to 04:48 AM",
+    "abhijitMuhurta": "11:56 AM to 12:51 PM",
+    "festivals": [
+      "Jagannath Rathyatra",
+      "Chandra Darshana"
+    ]
+  },
+  "06/07/2027": {
+    "tithi": "Tritiya upto 09:48 PM",
+    "paksha": "Shukla Paksha",
+    "maas": "Ashadha",
+    "nakshatra": "Pushya upto 06:33 AM",
+    "sunrise": "05:29 AM",
+    "sunset": "07:19 PM",
+    "moonrise": "07:48 AM",
+    "moonset": "09:16 PM",
+    "brahmaMuhurta": "04:08 AM to 04:48 AM",
+    "abhijitMuhurta": "11:56 AM to 12:52 PM",
+    "festivals": []
+  },
+  "07/07/2027": {
+    "tithi": "Chaturthi upto 06:43 PM",
+    "paksha": "Shukla Paksha",
+    "maas": "Ashadha",
+    "nakshatra": "Magha upto 01:55 AM, Jul 08",
+    "sunrise": "05:30 AM",
+    "sunset": "07:19 PM",
+    "moonrise": "08:57 AM",
+    "moonset": "09:54 PM",
+    "brahmaMuhurta": "04:08 AM to 04:49 AM",
+    "abhijitMuhurta": "None",
+    "festivals": [
+      "Aniruddha Chaturthi"
+    ]
+  },
+  "08/07/2027": {
+    "tithi": "Panchami upto 04:07 PM",
+    "paksha": "Shukla Paksha",
+    "maas": "Ashadha",
+    "nakshatra": "Purva Phalguni upto 12:18 AM, Jul 09",
+    "sunrise": "05:30 AM",
+    "sunset": "07:18 PM",
+    "moonrise": "10:02 AM",
+    "moonset": "10:29 PM",
+    "brahmaMuhurta": "04:09 AM to 04:49 AM",
+    "abhijitMuhurta": "11:57 AM to 12:52 PM",
+    "festivals": [
+      "Skanda Sashti"
+    ]
+  },
+  "09/07/2027": {
+    "tithi": "Shashthi upto 02:03 PM",
+    "paksha": "Shukla Paksha",
+    "maas": "Ashadha",
+    "nakshatra": "Uttara Phalguni upto 11:15 PM",
+    "sunrise": "05:30 AM",
+    "sunset": "07:18 PM",
+    "moonrise": "11:05 AM",
+    "moonset": "11:02 PM",
+    "brahmaMuhurta": "04:09 AM to 04:50 AM",
+    "abhijitMuhurta": "11:57 AM to 12:52 PM",
+    "festivals": []
+  },
+  "10/07/2027": {
+    "tithi": "Saptami upto 12:37 PM",
+    "paksha": "Shukla Paksha",
+    "maas": "Ashadha",
+    "nakshatra": "Hasta upto 10:51 PM",
+    "sunrise": "05:31 AM",
+    "sunset": "07:18 PM",
+    "moonrise": "12:06 PM",
+    "moonset": "11:36 PM",
+    "brahmaMuhurta": "04:09 AM to 04:50 AM",
+    "abhijitMuhurta": "11:57 AM to 12:52 PM",
+    "festivals": [
+      "Ashadha Ashtahnika Begins"
+    ]
+  },
+  "11/07/2027": {
+    "tithi": "Ashtami upto 11:49 AM",
+    "paksha": "Shukla Paksha",
+    "maas": "Ashadha",
+    "nakshatra": "Chitra upto 11:04 PM",
+    "sunrise": "05:31 AM",
+    "sunset": "07:18 PM",
+    "moonrise": "01:06 PM",
+    "moonset": "12:10 AM, Jul 12",
+    "brahmaMuhurta": "04:10 AM to 04:51 AM",
+    "abhijitMuhurta": "11:57 AM to 12:52 PM",
+    "festivals": [
+      "Parvati Jayanti",
+      "Masik Durgashtami"
+    ]
+  },
+  "12/07/2027": {
+    "tithi": "Navami upto 11:40 AM",
+    "paksha": "Shukla Paksha",
+    "maas": "Ashadha",
+    "nakshatra": "Swati upto 11:56 PM",
+    "sunrise": "05:32 AM",
+    "sunset": "07:18 PM",
+    "moonrise": "02:06 PM",
+    "moonset": "12:48 AM, Jul 13",
+    "brahmaMuhurta": "04:10 AM to 04:51 AM",
+    "abhijitMuhurta": "11:57 AM to 12:52 PM",
+    "festivals": [
+      "Bhadali Navami"
+    ]
+  },
+  "13/07/2027": {
+    "tithi": "Dashami upto 12:08 PM",
+    "paksha": "Shukla Paksha",
+    "maas": "Ashadha",
+    "nakshatra": "Vishakha upto 01:22 AM, Jul 14",
+    "sunrise": "05:32 AM",
+    "sunset": "07:17 PM",
+    "moonrise": "03:05 PM",
+    "moonset": "01:30 AM, Jul 14",
+    "brahmaMuhurta": "04:10 AM to 04:51 AM",
+    "abhijitMuhurta": "11:57 AM to 12:52 PM",
+    "festivals": [
+      "Asha Dashami Vrat",
+      "Raivata Manvadi"
+    ]
+  },
+  "14/07/2027": {
+    "tithi": "Ekadashi upto 01:10 PM",
+    "paksha": "Shukla Paksha",
+    "maas": "Ashadha",
+    "nakshatra": "Anuradha upto 03:18 AM, Jul 15",
+    "sunrise": "05:33 AM",
+    "sunset": "07:17 PM",
+    "moonrise": "04:04 PM",
+    "moonset": "02:16 AM, Jul 15",
+    "brahmaMuhurta": "04:11 AM to 04:52 AM",
+    "abhijitMuhurta": "None",
+    "festivals": [
+      "Vasudeva Dwadashi",
+      "Gauri Vrat Begins",
+      "Devshayani Ekadashi"
+    ]
+  },
+  "15/07/2027": {
+    "tithi": "Dwadashi upto 02:40 PM",
+    "paksha": "Shukla Paksha",
+    "maas": "Ashadha",
+    "nakshatra": "Jyeshtha upto Full Night",
+    "sunrise": "05:33 AM",
+    "sunset": "07:17 PM",
+    "moonrise": "04:59 PM",
+    "moonset": "03:07 AM, Jul 16",
+    "brahmaMuhurta": "04:11 AM to 04:52 AM",
+    "abhijitMuhurta": "11:58 AM to 12:53 PM",
+    "festivals": [
+      "1st Chaturmasa Begins🥗green leafy vegetable prohibition fast",
+      "Devshayani Ekadashi Parana",
+      "Guru Pradosh Vrat"
+    ]
+  },
+  "16/07/2027": {
+    "tithi": "Trayodashi upto 04:34 PM",
+    "paksha": "Shukla Paksha",
+    "maas": "Ashadha",
+    "nakshatra": "Jyeshtha upto 05:39 AM",
+    "sunrise": "05:34 AM",
+    "sunset": "07:17 PM",
+    "moonrise": "05:51 PM",
+    "moonset": "04:00 AM, Jul 17",
+    "brahmaMuhurta": "04:12 AM to 04:53 AM",
+    "abhijitMuhurta": "11:58 AM to 12:53 PM",
+    "festivals": [
+      "1st Chaturmasa Day 2🥗green leafy vegetable prohibition fast",
+      "Jayaparvati Vrat Begins"
+    ]
+  },
+  "17/07/2027": {
+    "tithi": "Chaturdashi upto 06:48 PM",
+    "paksha": "Shukla Paksha",
+    "maas": "Ashadha",
+    "nakshatra": "Mula upto 08:21 AM",
+    "sunrise": "05:34 AM",
+    "sunset": "07:16 PM",
+    "moonrise": "06:37 PM",
+    "moonset": "04:56 AM, Jul 18",
+    "brahmaMuhurta": "04:12 AM to 04:53 AM",
+    "abhijitMuhurta": "11:58 AM to 12:53 PM",
+    "festivals": [
+      "1st Chaturmasa Day 3🥗green leafy vegetable prohibition fast",
+      "Kokila Vrat",
+      "Karka Sankranti",
+      "Ashadha Chaumasi Chaudas"
+    ]
+  },
+  "18/07/2027": {
+    "tithi": "Purnima upto 09:14 PM",
+    "paksha": "Shukla Paksha",
+    "maas": "Ashadha",
+    "nakshatra": "Purva Ashadha upto 11:17 AM",
+    "sunrise": "05:35 AM",
+    "sunset": "07:16 PM",
+    "moonrise": "07:18 PM",
+    "moonset": "No Moonset",
+    "brahmaMuhurta": "04:12 AM to 04:54 AM",
+    "abhijitMuhurta": "11:58 AM to 12:53 PM",
+    "festivals": [
+      "1st Chaturmasa Day 4🥗green leafy vegetable prohibition fast",
+      "Guru Purnima",
+      "Vyasa Puja",
+      "Gauri Vrat Ends",
+      "Dakshinamurti Jayanti",
+      "Ashadha Ashtahnika Ends",
+      "Ashadha Purnima Vrat",
+      "Ashadha Purnima",
+      "Anvadhan",
+      "Chakshusha Manvadi"
+    ]
+  },
+  "19/07/2027": {
+    "tithi": "Pratipada upto 11:47 PM",
+    "paksha": "Krishna Paksha",
+    "maas": "Shravana",
+    "nakshatra": "Uttara Ashadha upto 02:23 PM",
+    "sunrise": "05:35 AM",
+    "sunset": "07:15 PM",
+    "moonrise": "07:54 PM",
+    "moonset": "05:52 AM",
+    "brahmaMuhurta": "04:13 AM to 04:54 AM",
+    "abhijitMuhurta": "11:58 AM to 12:53 PM",
+    "festivals": [
+      "1st Chaturmasa Day 5🥗green leafy vegetable prohibition fast",
+      "Shravana Begins *North",
+      "First Shravan Somwar Vrat",
+      "Ishti"
+    ]
+  },
+  "20/07/2027": {
+    "tithi": "Dwitiya upto 02:20 AM, Jul 21",
+    "paksha": "Krishna Paksha",
+    "maas": "Shravana",
+    "nakshatra": "Shravana upto 05:31 PM",
+    "sunrise": "05:36 AM",
+    "sunset": "07:15 PM",
+    "moonrise": "08:27 PM",
+    "moonset": "06:47 AM",
+    "brahmaMuhurta": "04:13 AM to 04:54 AM",
+    "abhijitMuhurta": "11:58 AM to 12:53 PM",
+    "festivals": [
+      "1st Chaturmasa Day 6🥗green leafy vegetable prohibition fast",
+      "First Mangala Gauri Vrat"
+    ]
+  },
+  "21/07/2027": {
+    "tithi": "Tritiya upto 04:46 AM, Jul 22",
+    "paksha": "Krishna Paksha",
+    "maas": "Shravana",
+    "nakshatra": "Dhanishtha upto 08:34 PM",
+    "sunrise": "05:36 AM",
+    "sunset": "07:15 PM",
+    "moonrise": "08:57 PM",
+    "moonset": "07:40 AM",
+    "brahmaMuhurta": "04:14 AM to 04:55 AM",
+    "abhijitMuhurta": "None",
+    "festivals": [
+      "1st Chaturmasa Day 7🥗green leafy vegetable prohibition fast",
+      "Jayaparvati Vrat Ends"
+    ]
+  },
+  "22/07/2027": {
+    "tithi": "Chaturthi upto Full Night",
+    "paksha": "Krishna Paksha",
+    "maas": "Shravana",
+    "nakshatra": "Shatabhisha upto 11:24 PM",
+    "sunrise": "05:37 AM",
+    "sunset": "07:14 PM",
+    "moonrise": "09:25 PM",
+    "moonset": "08:33 AM",
+    "brahmaMuhurta": "04:14 AM to 04:55 AM",
+    "abhijitMuhurta": "11:58 AM to 12:53 PM",
+    "festivals": [
+      "1st Chaturmasa Day 8🥗green leafy vegetable prohibition fast",
+      "Gajanana Sankashti"
+    ]
+  },
+  "23/07/2027": {
+    "tithi": "Chaturthi upto 06:56 AM",
+    "paksha": "Krishna Paksha",
+    "maas": "Shravana",
+    "nakshatra": "Purva Bhadrapada upto 01:53 AM, Jul 24",
+    "sunrise": "05:37 AM",
+    "sunset": "07:14 PM",
+    "moonrise": "09:53 PM",
+    "moonset": "09:25 AM",
+    "brahmaMuhurta": "04:14 AM to 04:56 AM",
+    "abhijitMuhurta": "11:58 AM to 12:53 PM",
+    "festivals": [
+      "1st Chaturmasa Day 8🥗green leafy vegetable prohibition fast"
+    ]
+  },
+  "24/07/2027": {
+    "tithi": "Panchami upto 08:40 AM",
+    "paksha": "Krishna Paksha",
+    "maas": "Shravana",
+    "nakshatra": "Uttara Bhadrapada upto 03:52 AM, Jul 25",
+    "sunrise": "05:38 AM",
+    "sunset": "07:13 PM",
+    "moonrise": "10:22 PM",
+    "moonset": "10:18 AM",
+    "brahmaMuhurta": "04:15 AM to 04:56 AM",
+    "abhijitMuhurta": "11:58 AM to 12:53 PM",
+    "festivals": [
+      "1st Chaturmasa Day 9🥗green leafy vegetable prohibition fast"
+    ]
+  },
+  "25/07/2027": {
+    "tithi": "Shashthi upto 09:52 AM",
+    "paksha": "Krishna Paksha",
+    "maas": "Shravana",
+    "nakshatra": "Revati upto 05:13 AM, Jul 26",
+    "sunrise": "05:38 AM",
+    "sunset": "07:13 PM",
+    "moonrise": "10:53 PM",
+    "moonset": "11:12 AM",
+    "brahmaMuhurta": "04:15 AM to 04:57 AM",
+    "abhijitMuhurta": "11:58 AM to 12:53 PM",
+    "festivals": [
+      "1st Chaturmasa Day 10🥗green leafy vegetable prohibition fast"
+    ]
+  },
+  "26/07/2027": {
+    "tithi": "Saptami upto 10:24 AM",
+    "paksha": "Krishna Paksha",
+    "maas": "Shravana",
+    "nakshatra": "Ashwini upto Full Night",
+    "sunrise": "05:39 AM",
+    "sunset": "07:12 PM",
+    "moonrise": "11:28 PM",
+    "moonset": "12:09 PM",
+    "brahmaMuhurta": "04:16 AM to 04:57 AM",
+    "abhijitMuhurta": "11:59 AM to 12:53 PM",
+    "festivals": [
+      "1st Chaturmasa Day 11🥗green leafy vegetable prohibition fast",
+      "Second Shravan Somwar Vrat",
+      "Kalashtami",
+      "Masik Krishna Janmashtami"
+    ]
+  },
+  "27/07/2027": {
+    "tithi": "Ashtami upto 10:12 AM",
+    "paksha": "Krishna Paksha",
+    "maas": "Shravana",
+    "nakshatra": "Ashwini upto 05:53 AM",
+    "sunrise": "05:40 AM",
+    "sunset": "07:12 PM",
+    "moonrise": "12:09 AM, Jul 28",
+    "moonset": "01:10 PM",
+    "brahmaMuhurta": "04:16 AM to 04:58 AM",
+    "abhijitMuhurta": "11:59 AM to 12:53 PM",
+    "festivals": [
+      "1st Chaturmasa Day 12🥗green leafy vegetable prohibition fast",
+      "Second Mangala Gauri Vrat"
+    ]
+  },
+  "28/07/2027": {
+    "tithi": "Navami upto 09:15 AM",
+    "paksha": "Krishna Paksha",
+    "maas": "Shravana",
+    "nakshatra": "Bharani upto 05:47 AM",
+    "sunrise": "05:40 AM",
+    "sunset": "07:11 PM",
+    "moonrise": "12:57 AM, Jul 29",
+    "moonset": "02:14 PM",
+    "brahmaMuhurta": "04:16 AM to 04:58 AM",
+    "abhijitMuhurta": "None",
+    "festivals": [
+      "1st Chaturmasa Day 13🥗green leafy vegetable prohibition fast",
+      "Masik Karthigai"
+    ]
+  },
+  "29/07/2027": {
+    "tithi": "Dashami upto 07:33 AM",
+    "paksha": "Krishna Paksha",
+    "maas": "Shravana",
+    "nakshatra": "Rohini upto 03:27 AM, Jul 30",
+    "sunrise": "05:41 AM",
+    "sunset": "07:11 PM",
+    "moonrise": "01:53 AM, Jul 30",
+    "moonset": "03:19 PM",
+    "brahmaMuhurta": "04:17 AM to 04:59 AM",
+    "abhijitMuhurta": "11:59 AM to 12:53 PM",
+    "festivals": [
+      "1st Chaturmasa Day 14🥗green leafy vegetable prohibition fast",
+      "1st Chaturmasa Day 15🥗green leafy vegetable prohibition fast",
+      "Rohini Vrat",
+      "Kamika Ekadashi"
+    ]
+  },
+  "30/07/2027": {
+    "tithi": "Dwadashi upto 02:18 AM, Jul 31",
+    "paksha": "Krishna Paksha",
+    "maas": "Shravana",
+    "nakshatra": "Mrigashira upto 01:23 AM, Jul 31",
+    "sunrise": "05:41 AM",
+    "sunset": "07:10 PM",
+    "moonrise": "02:59 AM, Jul 31",
+    "moonset": "04:24 PM",
+    "brahmaMuhurta": "04:17 AM to 04:59 AM",
+    "abhijitMuhurta": "11:59 AM to 12:52 PM",
+    "festivals": [
+      "1st Chaturmasa Day 16🥗green leafy vegetable prohibition fast",
+      "Kamika Ekadashi Parana",
+      "Krishna Vasudeva Dwadashi",
+      "Gauna Kamika Ekadashi",
+      "Vaishnava Kamika Ekadashi"
+    ]
+  },
+  "31/07/2027": {
+    "tithi": "Trayodashi upto 10:57 PM",
+    "paksha": "Krishna Paksha",
+    "maas": "Shravana",
+    "nakshatra": "Ardra upto 10:52 PM",
+    "sunrise": "05:42 AM",
+    "sunset": "07:09 PM",
+    "moonrise": "04:10 AM, Aug 01",
+    "moonset": "05:25 PM",
+    "brahmaMuhurta": "04:17 AM to 05:00 AM",
+    "abhijitMuhurta": "11:59 AM to 12:52 PM",
+    "festivals": [
+      "1st Chaturmasa Day 17🥗green leafy vegetable prohibition fast",
+      "Shani Trayodashi",
+      "Sawan Shivaratri",
+      "Shani Pradosh Vrat",
+      "Masik Shivaratri"
+    ]
+  },
+  "01/08/2027": {
+    "tithi": "Chaturdashi upto 07:19 PM",
+    "paksha": "Krishna Paksha",
+    "maas": "Shravana",
+    "nakshatra": "Punarvasu upto 08:04 PM",
+    "sunrise": "05:42 AM",
+    "sunset": "07:09 PM",
+    "moonrise": "05:23 AM, Aug 02",
+    "moonset": "06:19 PM",
+    "brahmaMuhurta": "04:18 AM to 05:00 AM",
+    "abhijitMuhurta": "11:59 AM to 12:52 PM",
+    "festivals": [
+      "1st Chaturmasa Day 18🥗green leafy vegetable prohibition fast"
+    ]
+  },
+  "02/08/2027": {
+    "tithi": "Amavasya upto 03:34 PM",
+    "paksha": "Krishna Paksha",
+    "maas": "Shravana",
+    "nakshatra": "Pushya upto 05:09 PM",
+    "sunrise": "05:43 AM",
+    "sunset": "07:08 PM",
+    "moonrise": "No Moonrise",
+    "moonset": "07:06 PM",
+    "brahmaMuhurta": "04:18 AM to 05:00 AM",
+    "abhijitMuhurta": "11:59 AM to 12:52 PM",
+    "festivals": [
+      "1st Chaturmasa Day 19🥗green leafy vegetable prohibition fast",
+      "Somavati Amavasya",
+      "Hariyali Amavasya",
+      "Third Shravan Somwar Vrat",
+      "Aadi Amavasai",
+      "Surya Grahan *Purna",
+      "Darsha Amavasya",
+      "Anvadhan",
+      "Shravana Amavasya"
+    ]
+  },
+  "03/08/2027": {
+    "tithi": "Pratipada upto 11:51 AM",
+    "paksha": "Shukla Paksha",
+    "maas": "Shravana",
+    "nakshatra": "Ashlesha upto 02:16 PM",
+    "sunrise": "05:43 AM",
+    "sunset": "07:07 PM",
+    "moonrise": "06:34 AM",
+    "moonset": "07:47 PM",
+    "brahmaMuhurta": "04:19 AM to 05:01 AM",
+    "abhijitMuhurta": "11:58 AM to 12:52 PM",
+    "festivals": [
+      "1st Chaturmasa Day 20🥗green leafy vegetable prohibition fast",
+      "Third Mangala Gauri Vrat",
+      "Aadi Perukku",
+      "Ishti",
+      "Chandra Darshana"
+    ]
+  },
+  "04/08/2027": {
+    "tithi": "Dwitiya upto 08:19 AM",
+    "paksha": "Shukla Paksha",
+    "maas": "Shravana",
+    "nakshatra": "Magha upto 11:36 AM",
+    "sunrise": "05:44 AM",
+    "sunset": "07:07 PM",
+    "moonrise": "07:43 AM",
+    "moonset": "08:25 PM",
+    "brahmaMuhurta": "04:19 AM to 05:01 AM",
+    "abhijitMuhurta": "None",
+    "festivals": [
+      "1st Chaturmasa Day 21🥗green leafy vegetable prohibition fast",
+      "1st Chaturmasa Day 22🥗green leafy vegetable prohibition fast",
+      "Hariyali Teej"
+    ]
+  },
+  "05/08/2027": {
+    "tithi": "Chaturthi upto 02:27 AM, Aug 06",
+    "paksha": "Shukla Paksha",
+    "maas": "Shravana",
+    "nakshatra": "Purva Phalguni upto 09:19 AM",
+    "sunrise": "05:44 AM",
+    "sunset": "07:06 PM",
+    "moonrise": "08:49 AM",
+    "moonset": "09:00 PM",
+    "brahmaMuhurta": "04:19 AM to 05:02 AM",
+    "abhijitMuhurta": "11:58 AM to 12:52 PM",
+    "festivals": [
+      "1st Chaturmasa Day 23🥗green leafy vegetable prohibition fast",
+      "Andal Jayanthi",
+      "Durva Ganapati Chaturthi"
+    ]
+  },
+  "06/08/2027": {
+    "tithi": "Panchami upto 12:22 AM, Aug 07",
+    "paksha": "Shukla Paksha",
+    "maas": "Shravana",
+    "nakshatra": "Uttara Phalguni upto 07:33 AM",
+    "sunrise": "05:45 AM",
+    "sunset": "07:05 PM",
+    "moonrise": "09:53 AM",
+    "moonset": "09:34 PM",
+    "brahmaMuhurta": "04:20 AM to 05:02 AM",
+    "abhijitMuhurta": "11:58 AM to 12:52 PM",
+    "festivals": [
+      "1st Chaturmasa Day 24🥗green leafy vegetable prohibition fast",
+      "Nag Panchami"
+    ]
+  },
+  "07/08/2027": {
+    "tithi": "Shashthi upto 11:00 PM",
+    "paksha": "Shukla Paksha",
+    "maas": "Shravana",
+    "nakshatra": "Hasta upto 06:25 AM",
+    "sunrise": "05:45 AM",
+    "sunset": "07:04 PM",
+    "moonrise": "10:55 AM",
+    "moonset": "10:09 PM",
+    "brahmaMuhurta": "04:20 AM to 05:03 AM",
+    "abhijitMuhurta": "11:58 AM to 12:51 PM",
+    "festivals": [
+      "1st Chaturmasa Day 25🥗green leafy vegetable prohibition fast",
+      "Kalki Jayanti",
+      "Skanda Sashti"
+    ]
+  },
+  "08/08/2027": {
+    "tithi": "Saptami upto 10:24 PM",
+    "paksha": "Shukla Paksha",
+    "maas": "Shravana",
+    "nakshatra": "Chitra upto 06:00 AM",
+    "sunrise": "05:46 AM",
+    "sunset": "07:04 PM",
+    "moonrise": "11:57 AM",
+    "moonset": "10:47 PM",
+    "brahmaMuhurta": "04:20 AM to 05:03 AM",
+    "abhijitMuhurta": "11:58 AM to 12:51 PM",
+    "festivals": [
+      "1st Chaturmasa Day 26🥗green leafy vegetable prohibition fast",
+      "Bhanu Saptami",
+      "Tulsidas Jayanti"
+    ]
+  },
+  "09/08/2027": {
+    "tithi": "Ashtami upto 10:34 PM",
+    "paksha": "Shukla Paksha",
+    "maas": "Shravana",
+    "nakshatra": "Swati upto 06:21 AM",
+    "sunrise": "05:46 AM",
+    "sunset": "07:03 PM",
+    "moonrise": "12:58 PM",
+    "moonset": "11:28 PM",
+    "brahmaMuhurta": "04:21 AM to 05:04 AM",
+    "abhijitMuhurta": "11:58 AM to 12:51 PM",
+    "festivals": [
+      "1st Chaturmasa Day 27🥗green leafy vegetable prohibition fast",
+      "Fourth Shravan Somwar Vrat",
+      "Masik Durgashtami"
+    ]
+  },
+  "10/08/2027": {
+    "tithi": "Navami upto 11:27 PM",
+    "paksha": "Shukla Paksha",
+    "maas": "Shravana",
+    "nakshatra": "Vishakha upto 07:27 AM",
+    "sunrise": "05:47 AM",
+    "sunset": "07:02 PM",
+    "moonrise": "01:57 PM",
+    "moonset": "12:13 AM, Aug 11",
+    "brahmaMuhurta": "04:21 AM to 05:04 AM",
+    "abhijitMuhurta": "11:58 AM to 12:51 PM",
+    "festivals": [
+      "1st Chaturmasa Day 28🥗green leafy vegetable prohibition fast",
+      "Fourth Mangala Gauri Vrat"
+    ]
+  },
+  "11/08/2027": {
+    "tithi": "Dashami upto 12:58 AM, Aug 12",
+    "paksha": "Shukla Paksha",
+    "maas": "Shravana",
+    "nakshatra": "Anuradha upto 09:13 AM",
+    "sunrise": "05:48 AM",
+    "sunset": "07:01 PM",
+    "moonrise": "02:54 PM",
+    "moonset": "01:02 AM, Aug 12",
+    "brahmaMuhurta": "04:21 AM to 05:04 AM",
+    "abhijitMuhurta": "None",
+    "festivals": [
+      "1st Chaturmasa Day 29🥗green leafy vegetable prohibition fast"
+    ]
+  },
+  "12/08/2027": {
+    "tithi": "Ekadashi upto 02:59 AM, Aug 13",
+    "paksha": "Shukla Paksha",
+    "maas": "Shravana",
+    "nakshatra": "Jyeshtha upto 11:34 AM",
+    "sunrise": "05:48 AM",
+    "sunset": "07:00 PM",
+    "moonrise": "03:47 PM",
+    "moonset": "01:55 AM, Aug 13",
+    "brahmaMuhurta": "04:22 AM to 05:05 AM",
+    "abhijitMuhurta": "11:58 AM to 12:51 PM",
+    "festivals": [
+      "1st Chaturmasa Last Day🥗green leafy vegetable prohibition fast",
+      "Shravana Putrada Ekadashi"
+    ]
+  },
+  "13/08/2027": {
+    "tithi": "Dwadashi upto 05:21 AM, Aug 14",
+    "paksha": "Shukla Paksha",
+    "maas": "Shravana",
+    "nakshatra": "Mula upto 02:19 PM",
+    "sunrise": "05:49 AM",
+    "sunset": "06:59 PM",
+    "moonrise": "04:35 PM",
+    "moonset": "02:50 AM, Aug 14",
+    "brahmaMuhurta": "04:22 AM to 05:05 AM",
+    "abhijitMuhurta": "11:58 AM to 12:50 PM",
+    "festivals": [
+      "2nd Chaturmasa Begins🐄yogurt prohibition fast",
+      "Shravana Putrada Ekadashi Parana",
+      "Damodara Dwadashi",
+      "Varalakshmi Vrat"
+    ]
+  },
+  "14/08/2027": {
+    "tithi": "Trayodashi upto Full Night",
+    "paksha": "Shukla Paksha",
+    "maas": "Shravana",
+    "nakshatra": "Purva Ashadha upto 05:20 PM",
+    "sunrise": "05:49 AM",
+    "sunset": "06:58 PM",
+    "moonrise": "05:18 PM",
+    "moonset": "03:46 AM, Aug 15",
+    "brahmaMuhurta": "04:22 AM to 05:06 AM",
+    "abhijitMuhurta": "11:57 AM to 12:50 PM",
+    "festivals": [
+      "2nd Chaturmasa Day 2🐄yogurt prohibition fast",
+      "Shani Trayodashi",
+      "Shani Pradosh Vrat"
+    ]
+  },
+  "15/08/2027": {
+    "tithi": "Trayodashi upto 07:53 AM",
+    "paksha": "Shukla Paksha",
+    "maas": "Shravana",
+    "nakshatra": "Uttara Ashadha upto 08:27 PM",
+    "sunrise": "05:50 AM",
+    "sunset": "06:58 PM",
+    "moonrise": "05:55 PM",
+    "moonset": "04:41 AM, Aug 16",
+    "brahmaMuhurta": "04:23 AM to 05:06 AM",
+    "abhijitMuhurta": "11:57 AM to 12:50 PM",
+    "festivals": [
+      "2nd Chaturmasa Day 2🐄yogurt prohibition fast"
+    ]
+  },
+  "16/08/2027": {
+    "tithi": "Chaturdashi upto 10:28 AM",
+    "paksha": "Shukla Paksha",
+    "maas": "Shravana",
+    "nakshatra": "Shravana upto 11:34 PM",
+    "sunrise": "05:50 AM",
+    "sunset": "06:57 PM",
+    "moonrise": "06:29 PM",
+    "moonset": "05:35 AM, Aug 17",
+    "brahmaMuhurta": "04:23 AM to 05:07 AM",
+    "abhijitMuhurta": "11:57 AM to 12:50 PM",
+    "festivals": [
+      "2nd Chaturmasa Day 3🐄yogurt prohibition fast",
+      "Fifth Shravan Somwar Vrat",
+      "Rigveda Upakarma",
+      "Hayagriva Jayanti",
+      "Shravana Purnima Vrat"
+    ]
+  },
+  "17/08/2027": {
+    "tithi": "Purnima upto 12:58 PM",
+    "paksha": "Shukla Paksha",
+    "maas": "Shravana",
+    "nakshatra": "Dhanishtha upto 02:31 AM, Aug 18",
+    "sunrise": "05:51 AM",
+    "sunset": "06:56 PM",
+    "moonrise": "07:00 PM",
+    "moonset": "No Moonset",
+    "brahmaMuhurta": "04:23 AM to 05:07 AM",
+    "abhijitMuhurta": "11:57 AM to 12:49 PM",
+    "festivals": [
+      "2nd Chaturmasa Day 4🐄yogurt prohibition fast",
+      "Raksha Bandhan",
+      "Rakhi",
+      "Gayatri Jayanti",
+      "Fifth Mangala Gauri Vrat",
+      "Narali Purnima",
+      "Sanskrit Diwas",
+      "Simha Sankranti",
+      "Chandra Grahan *Upachchaya",
+      "Shravana Purnima",
+      "Anvadhan"
+    ]
+  },
+  "18/08/2027": {
+    "tithi": "Pratipada upto 03:15 PM",
+    "paksha": "Krishna Paksha",
+    "maas": "Bhadrapada",
+    "nakshatra": "Shatabhisha upto 05:15 AM, Aug 19",
+    "sunrise": "05:51 AM",
+    "sunset": "06:55 PM",
+    "moonrise": "07:29 PM",
+    "moonset": "06:29 AM",
+    "brahmaMuhurta": "04:24 AM to 05:07 AM",
+    "abhijitMuhurta": "None",
+    "festivals": [
+      "2nd Chaturmasa Day 5🐄yogurt prohibition fast",
+      "Bhadrapada Begins *North",
+      "Malayalam New Year",
+      "Ishti"
+    ]
+  },
+  "19/08/2027": {
+    "tithi": "Dwitiya upto 05:15 PM",
+    "paksha": "Krishna Paksha",
+    "maas": "Bhadrapada",
+    "nakshatra": "Purva Bhadrapada upto Full Night",
+    "sunrise": "05:52 AM",
+    "sunset": "06:54 PM",
+    "moonrise": "07:57 PM",
+    "moonset": "07:21 AM",
+    "brahmaMuhurta": "04:24 AM to 05:08 AM",
+    "abhijitMuhurta": "11:57 AM to 12:49 PM",
+    "festivals": [
+      "2nd Chaturmasa Day 6🐄yogurt prohibition fast"
+    ]
+  },
+  "20/08/2027": {
+    "tithi": "Tritiya upto 06:53 PM",
+    "paksha": "Krishna Paksha",
+    "maas": "Bhadrapada",
+    "nakshatra": "Purva Bhadrapada upto 07:38 AM",
+    "sunrise": "05:52 AM",
+    "sunset": "06:53 PM",
+    "moonrise": "08:25 PM",
+    "moonset": "08:14 AM",
+    "brahmaMuhurta": "04:24 AM to 05:08 AM",
+    "abhijitMuhurta": "11:56 AM to 12:49 PM",
+    "festivals": [
+      "2nd Chaturmasa Day 7🐄yogurt prohibition fast",
+      "Kajari Teej",
+      "Maha Sangada Hara Chathurti",
+      "Heramba Sankashti"
+    ]
+  },
+  "21/08/2027": {
+    "tithi": "Chaturthi upto 08:04 PM",
+    "paksha": "Krishna Paksha",
+    "maas": "Bhadrapada",
+    "nakshatra": "Uttara Bhadrapada upto 09:38 AM",
+    "sunrise": "05:53 AM",
+    "sunset": "06:52 PM",
+    "moonrise": "08:56 PM",
+    "moonset": "09:08 AM",
+    "brahmaMuhurta": "04:25 AM to 05:09 AM",
+    "abhijitMuhurta": "11:56 AM to 12:48 PM",
+    "festivals": [
+      "2nd Chaturmasa Day 8🐄yogurt prohibition fast",
+      "Bahula Chaturthi"
+    ]
+  },
+  "22/08/2027": {
+    "tithi": "Panchami upto 08:45 PM",
+    "paksha": "Krishna Paksha",
+    "maas": "Bhadrapada",
+    "nakshatra": "Revati upto 11:10 AM",
+    "sunrise": "05:53 AM",
+    "sunset": "06:51 PM",
+    "moonrise": "09:29 PM",
+    "moonset": "10:03 AM",
+    "brahmaMuhurta": "04:25 AM to 05:09 AM",
+    "abhijitMuhurta": "11:56 AM to 12:48 PM",
+    "festivals": [
+      "2nd Chaturmasa Day 9🐄yogurt prohibition fast",
+      "Nag Pancham"
+    ]
+  },
+  "23/08/2027": {
+    "tithi": "Shashthi upto 08:52 PM",
+    "paksha": "Krishna Paksha",
+    "maas": "Bhadrapada",
+    "nakshatra": "Ashwini upto 12:11 PM",
+    "sunrise": "05:54 AM",
+    "sunset": "06:50 PM",
+    "moonrise": "10:07 PM",
+    "moonset": "11:02 AM",
+    "brahmaMuhurta": "04:25 AM to 05:09 AM",
+    "abhijitMuhurta": "11:56 AM to 12:48 PM",
+    "festivals": [
+      "2nd Chaturmasa Day 10🐄yogurt prohibition fast",
+      "Hala Shashthi",
+      "Randhan Chhath"
+    ]
+  },
+  "24/08/2027": {
+    "tithi": "Saptami upto 08:24 PM",
+    "paksha": "Krishna Paksha",
+    "maas": "Bhadrapada",
+    "nakshatra": "Bharani upto 12:37 PM",
+    "sunrise": "05:54 AM",
+    "sunset": "06:49 PM",
+    "moonrise": "10:50 PM",
+    "moonset": "12:03 PM",
+    "brahmaMuhurta": "04:25 AM to 05:10 AM",
+    "abhijitMuhurta": "11:56 AM to 12:47 PM",
+    "festivals": [
+      "2nd Chaturmasa Day 11🐄yogurt prohibition fast",
+      "Shitala Satam",
+      "Kali Jayanti",
+      "Vindhyavasini Jayanti",
+      "Ashtami Rohini",
+      "Masik Karthigai",
+      "Kalashtami",
+      "Indra Savarni Manvadi"
+    ]
+  },
+  "25/08/2027": {
+    "tithi": "Ashtami upto 07:19 PM",
+    "paksha": "Krishna Paksha",
+    "maas": "Bhadrapada",
+    "nakshatra": "Krittika upto 12:27 PM",
+    "sunrise": "05:55 AM",
+    "sunset": "06:48 PM",
+    "moonrise": "11:42 PM",
+    "moonset": "01:06 PM",
+    "brahmaMuhurta": "04:26 AM to 05:10 AM",
+    "abhijitMuhurta": "None",
+    "festivals": [
+      "2nd Chaturmasa Day 12🐄yogurt prohibition fast",
+      "Krishna Janmashtami",
+      "Masik Krishna Janmashtami"
+    ]
+  },
+  "26/08/2027": {
+    "tithi": "Navami upto 05:39 PM",
+    "paksha": "Krishna Paksha",
+    "maas": "Bhadrapada",
+    "nakshatra": "Rohini upto 11:42 AM",
+    "sunrise": "05:55 AM",
+    "sunset": "06:47 PM",
+    "moonrise": "12:41 AM, Aug 27",
+    "moonset": "02:09 PM",
+    "brahmaMuhurta": "04:26 AM to 05:11 AM",
+    "abhijitMuhurta": "11:55 AM to 12:47 PM",
+    "festivals": [
+      "2nd Chaturmasa Day 13🐄yogurt prohibition fast",
+      "Dahi Handi",
+      "Shri Goga Navami",
+      "Rohini Vrat"
+    ]
+  },
+  "27/08/2027": {
+    "tithi": "Dashami upto 03:25 PM",
+    "paksha": "Krishna Paksha",
+    "maas": "Bhadrapada",
+    "nakshatra": "Mrigashira upto 10:22 AM",
+    "sunrise": "05:55 AM",
+    "sunset": "06:46 PM",
+    "moonrise": "01:48 AM, Aug 28",
+    "moonset": "03:10 PM",
+    "brahmaMuhurta": "04:26 AM to 05:11 AM",
+    "abhijitMuhurta": "11:55 AM to 12:46 PM",
+    "festivals": [
+      "2nd Chaturmasa Day 14🐄yogurt prohibition fast"
+    ]
+  },
+  "28/08/2027": {
+    "tithi": "Ekadashi upto 12:42 PM",
+    "paksha": "Krishna Paksha",
+    "maas": "Bhadrapada",
+    "nakshatra": "Ardra upto 08:32 AM",
+    "sunrise": "05:56 AM",
+    "sunset": "06:45 PM",
+    "moonrise": "02:58 AM, Aug 29",
+    "moonset": "04:05 PM",
+    "brahmaMuhurta": "04:27 AM to 05:11 AM",
+    "abhijitMuhurta": "11:55 AM to 12:46 PM",
+    "festivals": [
+      "2nd Chaturmasa Day 15🐄yogurt prohibition fast",
+      "Krishna Damodara Dwadashi",
+      "Bachha Baras Dwadashi",
+      "Paryushana Parvarambha",
+      "Aja Ekadashi"
+    ]
+  },
+  "29/08/2027": {
+    "tithi": "Dwadashi upto 09:35 AM",
+    "paksha": "Krishna Paksha",
+    "maas": "Bhadrapada",
+    "nakshatra": "Punarvasu upto 06:17 AM",
+    "sunrise": "05:56 AM",
+    "sunset": "06:44 PM",
+    "moonrise": "04:09 AM, Aug 30",
+    "moonset": "04:55 PM",
+    "brahmaMuhurta": "04:27 AM to 05:12 AM",
+    "abhijitMuhurta": "11:54 AM to 12:46 PM",
+    "festivals": [
+      "2nd Chaturmasa Day 16🐄yogurt prohibition fast",
+      "Aja Ekadashi Parana",
+      "Ravi Pradosh Vrat"
+    ]
+  },
+  "30/08/2027": {
+    "tithi": "Trayodashi upto 06:12 AM",
+    "paksha": "Krishna Paksha",
+    "maas": "Bhadrapada",
+    "nakshatra": "Ashlesha upto 01:02 AM, Aug 31",
+    "sunrise": "05:57 AM",
+    "sunset": "06:43 PM",
+    "moonrise": "05:19 AM, Aug 31",
+    "moonset": "05:38 PM",
+    "brahmaMuhurta": "04:27 AM to 05:12 AM",
+    "abhijitMuhurta": "11:54 AM to 12:45 PM",
+    "festivals": [
+      "2nd Chaturmasa Day 17🐄yogurt prohibition fast",
+      "2nd Chaturmasa Day 18🐄yogurt prohibition fast",
+      "Masik Shivaratri"
+    ]
+  },
+  "31/08/2027": {
+    "tithi": "Amavasya upto 11:10 PM",
+    "paksha": "Krishna Paksha",
+    "maas": "Bhadrapada",
+    "nakshatra": "Magha upto 10:20 PM",
+    "sunrise": "05:57 AM",
+    "sunset": "06:41 PM",
+    "moonrise": "No Moonrise",
+    "moonset": "06:17 PM",
+    "brahmaMuhurta": "04:27 AM to 05:12 AM",
+    "abhijitMuhurta": "11:54 AM to 12:45 PM",
+    "festivals": [
+      "2nd Chaturmasa Day 19🐄yogurt prohibition fast",
+      "Pithori Amavasya",
+      "Pola",
+      "Vrishabhotsava",
+      "Darsha Amavasya",
+      "Anvadhan",
+      "Bhadrapada Amavasya",
+      "Daiva Savarni Manvadi"
+    ]
+  },
+  "01/09/2027": {
+    "tithi": "Pratipada upto 07:50 PM",
+    "paksha": "Shukla Paksha",
+    "maas": "Bhadrapada",
+    "nakshatra": "Purva Phalguni upto 07:48 PM",
+    "sunrise": "05:58 AM",
+    "sunset": "06:40 PM",
+    "moonrise": "06:27 AM",
+    "moonset": "06:54 PM",
+    "brahmaMuhurta": "04:28 AM to 05:13 AM",
+    "abhijitMuhurta": "None",
+    "festivals": [
+      "2nd Chaturmasa Day 20🐄yogurt prohibition fast",
+      "Agastya Arghya",
+      "Ishti"
+    ]
+  },
+  "02/09/2027": {
+    "tithi": "Dwitiya upto 04:49 PM",
+    "paksha": "Shukla Paksha",
+    "maas": "Bhadrapada",
+    "nakshatra": "Uttara Phalguni upto 05:36 PM",
+    "sunrise": "05:58 AM",
+    "sunset": "06:39 PM",
+    "moonrise": "07:33 AM",
+    "moonset": "07:29 PM",
+    "brahmaMuhurta": "04:28 AM to 05:13 AM",
+    "abhijitMuhurta": "11:53 AM to 12:44 PM",
+    "festivals": [
+      "2nd Chaturmasa Day 21🐄yogurt prohibition fast",
+      "Chandra Darshana"
+    ]
+  },
+  "03/09/2027": {
+    "tithi": "Tritiya upto 02:18 PM",
+    "paksha": "Shukla Paksha",
+    "maas": "Bhadrapada",
+    "nakshatra": "Hasta upto 03:53 PM",
+    "sunrise": "05:59 AM",
+    "sunset": "06:38 PM",
+    "moonrise": "08:37 AM",
+    "moonset": "08:05 PM",
+    "brahmaMuhurta": "04:28 AM to 05:13 AM",
+    "abhijitMuhurta": "11:53 AM to 12:44 PM",
+    "festivals": [
+      "2nd Chaturmasa Day 22🐄yogurt prohibition fast",
+      "Varaha Jayanti",
+      "Hartalika Teej",
+      "Samaveda Upakarma",
+      "Gowri Habba",
+      "Rudra Savarni Manvadi"
+    ]
+  },
+  "04/09/2027": {
+    "tithi": "Chaturthi upto 12:25 PM",
+    "paksha": "Shukla Paksha",
+    "maas": "Bhadrapada",
+    "nakshatra": "Chitra upto 02:49 PM",
+    "sunrise": "05:59 AM",
+    "sunset": "06:37 PM",
+    "moonrise": "09:41 AM",
+    "moonset": "08:43 PM",
+    "brahmaMuhurta": "04:28 AM to 05:14 AM",
+    "abhijitMuhurta": "11:53 AM to 12:43 PM",
+    "festivals": [
+      "2nd Chaturmasa Day 23🐄yogurt prohibition fast",
+      "Ganesh Chaturthi",
+      "Rishi Panchami",
+      "Kerala Vinayaka Chaturthi",
+      "Samvatsari Parva",
+      "Siddhivinayaka Chaturthi"
+    ]
+  },
+  "05/09/2027": {
+    "tithi": "Panchami upto 11:17 AM",
+    "paksha": "Shukla Paksha",
+    "maas": "Bhadrapada",
+    "nakshatra": "Swati upto 02:30 PM",
+    "sunrise": "06:00 AM",
+    "sunset": "06:36 PM",
+    "moonrise": "10:45 AM",
+    "moonset": "09:23 PM",
+    "brahmaMuhurta": "04:29 AM to 05:14 AM",
+    "abhijitMuhurta": "11:53 AM to 12:43 PM",
+    "festivals": [
+      "2nd Chaturmasa Day 24🐄yogurt prohibition fast",
+      "Skanda Sashti"
+    ]
+  },
+  "06/09/2027": {
+    "tithi": "Shashthi upto 10:57 AM",
+    "paksha": "Shukla Paksha",
+    "maas": "Bhadrapada",
+    "nakshatra": "Vishakha upto 02:59 PM",
+    "sunrise": "06:00 AM",
+    "sunset": "06:35 PM",
+    "moonrise": "11:47 AM",
+    "moonset": "10:08 PM",
+    "brahmaMuhurta": "04:29 AM to 05:15 AM",
+    "abhijitMuhurta": "11:52 AM to 12:43 PM",
+    "festivals": [
+      "2nd Chaturmasa Day 25🐄yogurt prohibition fast",
+      "Balarama Jayanti"
+    ]
+  },
+  "07/09/2027": {
+    "tithi": "Saptami upto 11:28 AM",
+    "paksha": "Shukla Paksha",
+    "maas": "Bhadrapada",
+    "nakshatra": "Anuradha upto 04:16 PM",
+    "sunrise": "06:01 AM",
+    "sunset": "06:34 PM",
+    "moonrise": "12:46 PM",
+    "moonset": "10:57 PM",
+    "brahmaMuhurta": "04:29 AM to 05:15 AM",
+    "abhijitMuhurta": "11:52 AM to 12:42 PM",
+    "festivals": [
+      "2nd Chaturmasa Day 26🐄yogurt prohibition fast",
+      "Lalita Saptami",
+      "Durva Ashtami",
+      "Jyeshtha Gauri Avahana"
+    ]
+  },
+  "08/09/2027": {
+    "tithi": "Ashtami upto 12:44 PM",
+    "paksha": "Shukla Paksha",
+    "maas": "Bhadrapada",
+    "nakshatra": "Jyeshtha upto 06:16 PM",
+    "sunrise": "06:01 AM",
+    "sunset": "06:33 PM",
+    "moonrise": "01:41 PM",
+    "moonset": "11:49 PM",
+    "brahmaMuhurta": "04:29 AM to 05:15 AM",
+    "abhijitMuhurta": "None",
+    "festivals": [
+      "2nd Chaturmasa Day 27🐄yogurt prohibition fast",
+      "Radha Ashtami",
+      "Mahalakshmi Vrat Begins",
+      "Jyeshtha Gauri Puja",
+      "Dadhichi Jayanti",
+      "Masik Durgashtami"
+    ]
+  },
+  "09/09/2027": {
+    "tithi": "Navami upto 02:38 PM",
+    "paksha": "Shukla Paksha",
+    "maas": "Bhadrapada",
+    "nakshatra": "Mula upto 08:52 PM",
+    "sunrise": "06:01 AM",
+    "sunset": "06:31 PM",
+    "moonrise": "02:31 PM",
+    "moonset": "12:44 AM, Sep 10",
+    "brahmaMuhurta": "04:30 AM to 05:16 AM",
+    "abhijitMuhurta": "11:51 AM to 12:41 PM",
+    "festivals": [
+      "2nd Chaturmasa Day 28🐄yogurt prohibition fast",
+      "Jyeshtha Gauri Visarjana",
+      "Dashavatara Vrat"
+    ]
+  },
+  "10/09/2027": {
+    "tithi": "Dashami upto 05:00 PM",
+    "paksha": "Shukla Paksha",
+    "maas": "Bhadrapada",
+    "nakshatra": "Purva Ashadha upto 11:50 PM",
+    "sunrise": "06:02 AM",
+    "sunset": "06:30 PM",
+    "moonrise": "03:16 PM",
+    "moonset": "01:39 AM, Sep 11",
+    "brahmaMuhurta": "04:30 AM to 05:16 AM",
+    "abhijitMuhurta": "11:51 AM to 12:41 PM",
+    "festivals": [
+      "2nd Chaturmasa Day 29🐄yogurt prohibition fast"
+    ]
+  },
+  "11/09/2027": {
+    "tithi": "Ekadashi upto 07:35 PM",
+    "paksha": "Shukla Paksha",
+    "maas": "Bhadrapada",
+    "nakshatra": "Uttara Ashadha upto 02:58 AM, Sep 12",
+    "sunrise": "06:02 AM",
+    "sunset": "06:29 PM",
+    "moonrise": "03:55 PM",
+    "moonset": "02:35 AM, Sep 12",
+    "brahmaMuhurta": "04:30 AM to 05:16 AM",
+    "abhijitMuhurta": "11:51 AM to 12:41 PM",
+    "festivals": [
+      "2nd Chaturmasa Last Day🐄yogurt prohibition fast",
+      "Parsva Ekadashi"
+    ]
+  },
+  "12/09/2027": {
+    "tithi": "Dwadashi upto 10:12 PM",
+    "paksha": "Shukla Paksha",
+    "maas": "Bhadrapada",
+    "nakshatra": "Shravana upto Full Night",
+    "sunrise": "06:03 AM",
+    "sunset": "06:28 PM",
+    "moonrise": "04:30 PM",
+    "moonset": "03:29 AM, Sep 13",
+    "brahmaMuhurta": "04:30 AM to 05:17 AM",
+    "abhijitMuhurta": "11:51 AM to 12:40 PM",
+    "festivals": [
+      "3rd Chaturmasa Begins🥛milk prohibition fast",
+      "Parsva Ekadashi Parana",
+      "Kalki Dwadashi",
+      "Vamana Jayanti",
+      "Bhuvaneshvari Jayanti",
+      "Onam"
+    ]
+  },
+  "13/09/2027": {
+    "tithi": "Trayodashi upto 12:39 AM, Sep 14",
+    "paksha": "Shukla Paksha",
+    "maas": "Bhadrapada",
+    "nakshatra": "Shravana upto 06:04 AM",
+    "sunrise": "06:03 AM",
+    "sunset": "06:27 PM",
+    "moonrise": "05:02 PM",
+    "moonset": "04:23 AM, Sep 14",
+    "brahmaMuhurta": "04:31 AM to 05:17 AM",
+    "abhijitMuhurta": "11:50 AM to 12:40 PM",
+    "festivals": [
+      "3rd Chaturmasa Day 2🥛milk prohibition fast",
+      "Soma Pradosh Vrat"
+    ]
+  },
+  "14/09/2027": {
+    "tithi": "Chaturdashi upto 02:48 AM, Sep 15",
+    "paksha": "Shukla Paksha",
+    "maas": "Bhadrapada",
+    "nakshatra": "Dhanishtha upto 08:58 AM",
+    "sunrise": "06:04 AM",
+    "sunset": "06:26 PM",
+    "moonrise": "05:31 PM",
+    "moonset": "05:16 AM, Sep 15",
+    "brahmaMuhurta": "04:31 AM to 05:17 AM",
+    "abhijitMuhurta": "11:50 AM to 12:39 PM",
+    "festivals": [
+      "3rd Chaturmasa Day 3🥛milk prohibition fast",
+      "Ganesh Visarjan",
+      "Anant Chaturdashi"
+    ]
+  },
+  "15/09/2027": {
+    "tithi": "Purnima upto 04:32 AM, Sep 16",
+    "paksha": "Shukla Paksha",
+    "maas": "Bhadrapada",
+    "nakshatra": "Shatabhisha upto 11:33 AM",
+    "sunrise": "06:04 AM",
+    "sunset": "06:24 PM",
+    "moonrise": "06:00 PM",
+    "moonset": "No Moonset",
+    "brahmaMuhurta": "04:31 AM to 05:18 AM",
+    "abhijitMuhurta": "None",
+    "festivals": [
+      "3rd Chaturmasa Day 4🥛milk prohibition fast",
+      "Purnima Shraddha",
+      "Bhadrapada Purnima Vrat",
+      "Bhadrapada Purnima",
+      "Anvadhan"
+    ]
+  },
+  "16/09/2027": {
+    "tithi": "Pratipada upto 05:51 AM, Sep 17",
+    "paksha": "Krishna Paksha",
+    "maas": "Ashwina",
+    "nakshatra": "Purva Bhadrapada upto 01:43 PM",
+    "sunrise": "06:05 AM",
+    "sunset": "06:23 PM",
+    "moonrise": "06:29 PM",
+    "moonset": "06:09 AM",
+    "brahmaMuhurta": "04:31 AM to 05:18 AM",
+    "abhijitMuhurta": "11:49 AM to 12:39 PM",
+    "festivals": [
+      "3rd Chaturmasa Day 5🥛milk prohibition fast",
+      "Pitrupaksha Begins",
+      "Pratipada Shraddha",
+      "Ashwina Begins *North",
+      "Ishti"
+    ]
+  },
+  "17/09/2027": {
+    "tithi": "Dwitiya upto Full Night",
+    "paksha": "Krishna Paksha",
+    "maas": "Ashwina",
+    "nakshatra": "Uttara Bhadrapada upto 03:28 PM",
+    "sunrise": "06:05 AM",
+    "sunset": "06:22 PM",
+    "moonrise": "06:59 PM",
+    "moonset": "07:03 AM",
+    "brahmaMuhurta": "04:32 AM to 05:18 AM",
+    "abhijitMuhurta": "11:49 AM to 12:38 PM",
+    "festivals": [
+      "3rd Chaturmasa Day 6🥛milk prohibition fast",
+      "Dwitiya Shraddha",
+      "Vishwakarma Puja",
+      "Kanya Sankranti"
+    ]
+  },
+  "18/09/2027": {
+    "tithi": "Dwitiya upto 06:43 AM",
+    "paksha": "Krishna Paksha",
+    "maas": "Ashwina",
+    "nakshatra": "Revati upto 04:47 PM",
+    "sunrise": "06:06 AM",
+    "sunset": "06:21 PM",
+    "moonrise": "07:31 PM",
+    "moonset": "07:58 AM",
+    "brahmaMuhurta": "04:32 AM to 05:19 AM",
+    "abhijitMuhurta": "11:49 AM to 12:38 PM",
+    "festivals": [
+      "3rd Chaturmasa Day 6🥛milk prohibition fast",
+      "Tritiya Shraddha"
+    ]
+  },
+  "19/09/2027": {
+    "tithi": "Tritiya upto 07:08 AM",
+    "paksha": "Krishna Paksha",
+    "maas": "Ashwina",
+    "nakshatra": "Ashwini upto 05:40 PM",
+    "sunrise": "06:06 AM",
+    "sunset": "06:20 PM",
+    "moonrise": "08:08 PM",
+    "moonset": "08:56 AM",
+    "brahmaMuhurta": "04:32 AM to 05:19 AM",
+    "abhijitMuhurta": "11:48 AM to 12:37 PM",
+    "festivals": [
+      "3rd Chaturmasa Day 7🥛milk prohibition fast",
+      "Chaturthi Shraddha",
+      "Vighnaraja Sankashti"
+    ]
+  },
+  "20/09/2027": {
+    "tithi": "Chaturthi upto 07:08 AM",
+    "paksha": "Krishna Paksha",
+    "maas": "Ashwina",
+    "nakshatra": "Bharani upto 06:09 PM",
+    "sunrise": "06:06 AM",
+    "sunset": "06:19 PM",
+    "moonrise": "08:49 PM",
+    "moonset": "09:57 AM",
+    "brahmaMuhurta": "04:32 AM to 05:19 AM",
+    "abhijitMuhurta": "11:48 AM to 12:37 PM",
+    "festivals": [
+      "3rd Chaturmasa Day 8🥛milk prohibition fast",
+      "Panchami Shraddha",
+      "Masik Karthigai"
+    ]
+  },
+  "21/09/2027": {
+    "tithi": "Panchami upto 06:42 AM",
+    "paksha": "Krishna Paksha",
+    "maas": "Ashwina",
+    "nakshatra": "Krittika upto 06:12 PM",
+    "sunrise": "06:07 AM",
+    "sunset": "06:17 PM",
+    "moonrise": "09:38 PM",
+    "moonset": "10:59 AM",
+    "brahmaMuhurta": "04:32 AM to 05:20 AM",
+    "abhijitMuhurta": "11:48 AM to 12:37 PM",
+    "festivals": [
+      "3rd Chaturmasa Day 9🥛milk prohibition fast",
+      "3rd Chaturmasa Day 10🥛milk prohibition fast",
+      "Shashthi Shraddha"
+    ]
+  },
+  "22/09/2027": {
+    "tithi": "Saptami upto 04:36 AM, Sep 23",
+    "paksha": "Krishna Paksha",
+    "maas": "Ashwina",
+    "nakshatra": "Rohini upto 05:51 PM",
+    "sunrise": "06:07 AM",
+    "sunset": "06:16 PM",
+    "moonrise": "10:34 PM",
+    "moonset": "12:01 PM",
+    "brahmaMuhurta": "04:33 AM to 05:20 AM",
+    "abhijitMuhurta": "None",
+    "festivals": [
+      "3rd Chaturmasa Day 11🥛milk prohibition fast",
+      "Saptami Shraddha",
+      "Rohini Vrat"
+    ]
+  },
+  "23/09/2027": {
+    "tithi": "Ashtami upto 02:57 AM, Sep 24",
+    "paksha": "Krishna Paksha",
+    "maas": "Ashwina",
+    "nakshatra": "Mrigashira upto 05:06 PM",
+    "sunrise": "06:08 AM",
+    "sunset": "06:15 PM",
+    "moonrise": "11:36 PM",
+    "moonset": "01:01 PM",
+    "brahmaMuhurta": "04:33 AM to 05:20 AM",
+    "abhijitMuhurta": "11:47 AM to 12:36 PM",
+    "festivals": [
+      "3rd Chaturmasa Day 12🥛milk prohibition fast",
+      "Ashtami Shraddha",
+      "Mahalakshmi Vrat Ends",
+      "Jivitputrika Vrat",
+      "Autumnal Equinox",
+      "Kalashtami",
+      "Masik Krishna Janmashtami"
+    ]
+  },
+  "24/09/2027": {
+    "tithi": "Navami upto 12:54 AM, Sep 25",
+    "paksha": "Krishna Paksha",
+    "maas": "Ashwina",
+    "nakshatra": "Ardra upto 03:58 PM",
+    "sunrise": "06:08 AM",
+    "sunset": "06:14 PM",
+    "moonrise": "12:42 AM, Sep 25",
+    "moonset": "01:57 PM",
+    "brahmaMuhurta": "04:33 AM to 05:21 AM",
+    "abhijitMuhurta": "11:47 AM to 12:35 PM",
+    "festivals": [
+      "3rd Chaturmasa Day 13🥛milk prohibition fast",
+      "Navami Shraddha"
+    ]
+  },
+  "25/09/2027": {
+    "tithi": "Dashami upto 10:30 PM",
+    "paksha": "Krishna Paksha",
+    "maas": "Ashwina",
+    "nakshatra": "Punarvasu upto 02:27 PM",
+    "sunrise": "06:09 AM",
+    "sunset": "06:13 PM",
+    "moonrise": "01:51 AM, Sep 26",
+    "moonset": "02:47 PM",
+    "brahmaMuhurta": "04:33 AM to 05:21 AM",
+    "abhijitMuhurta": "11:47 AM to 12:35 PM",
+    "festivals": [
+      "3rd Chaturmasa Day 14🥛milk prohibition fast",
+      "Dashami Shraddha"
+    ]
+  },
+  "26/09/2027": {
+    "tithi": "Ekadashi upto 07:49 PM",
+    "paksha": "Krishna Paksha",
+    "maas": "Ashwina",
+    "nakshatra": "Pushya upto 12:37 PM",
+    "sunrise": "06:09 AM",
+    "sunset": "06:12 PM",
+    "moonrise": "02:59 AM, Sep 27",
+    "moonset": "03:31 PM",
+    "brahmaMuhurta": "04:34 AM to 05:21 AM",
+    "abhijitMuhurta": "11:46 AM to 12:35 PM",
+    "festivals": [
+      "3rd Chaturmasa Day 15🥛milk prohibition fast",
+      "Ekadashi Shraddha",
+      "Indira Ekadashi"
+    ]
+  },
+  "27/09/2027": {
+    "tithi": "Dwadashi upto 04:55 PM",
+    "paksha": "Krishna Paksha",
+    "maas": "Ashwina",
+    "nakshatra": "Ashlesha upto 10:33 AM",
+    "sunrise": "06:10 AM",
+    "sunset": "06:10 PM",
+    "moonrise": "04:06 AM, Sep 28",
+    "moonset": "04:11 PM",
+    "brahmaMuhurta": "04:34 AM to 05:22 AM",
+    "abhijitMuhurta": "11:46 AM to 12:34 PM",
+    "festivals": [
+      "3rd Chaturmasa Day 16🥛milk prohibition fast",
+      "Indira Ekadashi Parana",
+      "Krishna Kalki Dwadashi",
+      "Dwadashi Shraddha",
+      "Soma Pradosh Vrat"
+    ]
+  },
+  "28/09/2027": {
+    "tithi": "Trayodashi upto 01:54 PM",
+    "paksha": "Krishna Paksha",
+    "maas": "Ashwina",
+    "nakshatra": "Magha upto 08:20 AM",
+    "sunrise": "06:10 AM",
+    "sunset": "06:09 PM",
+    "moonrise": "05:11 AM, Sep 29",
+    "moonset": "04:48 PM",
+    "brahmaMuhurta": "04:34 AM to 05:22 AM",
+    "abhijitMuhurta": "11:46 AM to 12:34 PM",
+    "festivals": [
+      "3rd Chaturmasa Day 17🥛milk prohibition fast",
+      "Trayodashi Shraddha",
+      "Chaturdashi Shraddha",
+      "Masik Shivaratri",
+      "Kali Yuga Diwas"
+    ]
+  },
+  "29/09/2027": {
+    "tithi": "Chaturdashi upto 10:54 AM",
+    "paksha": "Krishna Paksha",
+    "maas": "Ashwina",
+    "nakshatra": "Uttara Phalguni upto 04:00 AM, Sep 30",
+    "sunrise": "06:11 AM",
+    "sunset": "06:08 PM",
+    "moonrise": "No Moonrise",
+    "moonset": "05:23 PM",
+    "brahmaMuhurta": "04:34 AM to 05:23 AM",
+    "abhijitMuhurta": "None",
+    "festivals": [
+      "3rd Chaturmasa Day 18🥛milk prohibition fast",
+      "Sarva Pitru Amavasya",
+      "Darsha Amavasya",
+      "Anvadhan"
+    ]
+  },
+  "30/09/2027": {
+    "tithi": "Amavasya upto 08:05 AM",
+    "paksha": "Krishna Paksha",
+    "maas": "Ashwina",
+    "nakshatra": "Hasta upto 02:11 AM, Oct 01",
+    "sunrise": "06:11 AM",
+    "sunset": "06:07 PM",
+    "moonrise": "06:16 AM",
+    "moonset": "05:59 PM",
+    "brahmaMuhurta": "04:35 AM to 05:23 AM",
+    "abhijitMuhurta": "11:45 AM to 12:33 PM",
+    "festivals": [
+      "3rd Chaturmasa Day 19🥛milk prohibition fast",
+      "3rd Chaturmasa Day 20🥛milk prohibition fast",
+      "Maharaja Agrasen Jayanti",
+      "Navratri Begins",
+      "Ghatasthapana",
+      "Ishti",
+      "Ashwina Amavasya"
+    ]
+  },
+  "01/10/2027": {
+    "tithi": "Dwitiya upto 03:33 AM, Oct 02",
+    "paksha": "Shukla Paksha",
+    "maas": "Ashwina",
+    "nakshatra": "Chitra upto 12:49 AM, Oct 02",
+    "sunrise": "06:12 AM",
+    "sunset": "06:06 PM",
+    "moonrise": "07:21 AM",
+    "moonset": "06:36 PM",
+    "brahmaMuhurta": "04:35 AM to 05:23 AM",
+    "abhijitMuhurta": "11:45 AM to 12:33 PM",
+    "festivals": [
+      "3rd Chaturmasa Day 21🥛milk prohibition fast",
+      "Chandra Darshana"
+    ]
+  },
+  "02/10/2027": {
+    "tithi": "Tritiya upto 02:08 AM, Oct 03",
+    "paksha": "Shukla Paksha",
+    "maas": "Ashwina",
+    "nakshatra": "Swati upto 12:03 AM, Oct 03",
+    "sunrise": "06:12 AM",
+    "sunset": "06:05 PM",
+    "moonrise": "08:26 AM",
+    "moonset": "07:16 PM",
+    "brahmaMuhurta": "04:35 AM to 05:24 AM",
+    "abhijitMuhurta": "11:45 AM to 12:32 PM",
+    "festivals": [
+      "3rd Chaturmasa Day 22🥛milk prohibition fast"
+    ]
+  },
+  "03/10/2027": {
+    "tithi": "Chaturthi upto 01:28 AM, Oct 04",
+    "paksha": "Shukla Paksha",
+    "maas": "Ashwina",
+    "nakshatra": "Vishakha upto 12:00 PM",
+    "sunrise": "06:13 AM",
+    "sunset": "06:04 PM",
+    "moonrise": "09:30 AM",
+    "moonset": "08:00 PM",
+    "brahmaMuhurta": "04:36 AM to 05:24 AM",
+    "abhijitMuhurta": "11:44 AM to 12:32 PM",
+    "festivals": [
+      "3rd Chaturmasa Day 23🥛milk prohibition fast",
+      "Kapardisha Chaturthi"
+    ]
+  },
+  "04/10/2027": {
+    "tithi": "Panchami upto 01:36 AM, Oct 05",
+    "paksha": "Shukla Paksha",
+    "maas": "Ashwina",
+    "nakshatra": "Anuradha upto 12:44 AM, Oct 05",
+    "sunrise": "06:13 AM",
+    "sunset": "06:03 PM",
+    "moonrise": "10:32 AM",
+    "moonset": "08:48 PM",
+    "brahmaMuhurta": "04:36 AM to 05:24 AM",
+    "abhijitMuhurta": "11:44 AM to 12:31 PM",
+    "festivals": [
+      "3rd Chaturmasa Day 24🥛milk prohibition fast",
+      "Upang Lalita Vrat"
+    ]
+  },
+  "05/10/2027": {
+    "tithi": "Shashthi upto 02:32 AM, Oct 06",
+    "paksha": "Shukla Paksha",
+    "maas": "Ashwina",
+    "nakshatra": "Jyeshtha upto 02:15 AM, Oct 06",
+    "sunrise": "06:14 AM",
+    "sunset": "06:01 PM",
+    "moonrise": "11:30 AM",
+    "moonset": "09:40 PM",
+    "brahmaMuhurta": "04:36 AM to 05:25 AM",
+    "abhijitMuhurta": "11:44 AM to 12:31 PM",
+    "festivals": [
+      "3rd Chaturmasa Day 25🥛milk prohibition fast",
+      "Bilva Nimantran",
+      "Kalparambha",
+      "Akal Bodhon",
+      "Skanda Sashti"
+    ]
+  },
+  "06/10/2027": {
+    "tithi": "Saptami upto 04:13 AM, Oct 07",
+    "paksha": "Shukla Paksha",
+    "maas": "Ashwina",
+    "nakshatra": "Mula upto 04:28 AM, Oct 07",
+    "sunrise": "06:14 AM",
+    "sunset": "06:00 PM",
+    "moonrise": "12:24 PM",
+    "moonset": "10:35 PM",
+    "brahmaMuhurta": "04:36 AM to 05:25 AM",
+    "abhijitMuhurta": "None",
+    "festivals": [
+      "3rd Chaturmasa Day 26🥛milk prohibition fast",
+      "Saraswati Avahan",
+      "Navpatrika Puja",
+      "Ashwina Navapada Oli Begins"
+    ]
+  },
+  "07/10/2027": {
+    "tithi": "Ashtami upto Full Night",
+    "paksha": "Shukla Paksha",
+    "maas": "Ashwina",
+    "nakshatra": "Purva Ashadha upto Full Night",
+    "sunrise": "06:15 AM",
+    "sunset": "05:59 PM",
+    "moonrise": "01:11 PM",
+    "moonset": "11:31 PM",
+    "brahmaMuhurta": "04:37 AM to 05:26 AM",
+    "abhijitMuhurta": "11:43 AM to 12:30 PM",
+    "festivals": [
+      "3rd Chaturmasa Day 27🥛milk prohibition fast",
+      "Saraswati Puja",
+      "Durga Ashtami",
+      "Masik Durgashtami"
+    ]
+  },
+  "08/10/2027": {
+    "tithi": "Ashtami upto 06:27 AM",
+    "paksha": "Shukla Paksha",
+    "maas": "Ashwina",
+    "nakshatra": "Purva Ashadha upto 07:13 AM",
+    "sunrise": "06:15 AM",
+    "sunset": "05:58 PM",
+    "moonrise": "01:52 PM",
+    "moonset": "12:26 AM, Oct 09",
+    "brahmaMuhurta": "04:37 AM to 05:26 AM",
+    "abhijitMuhurta": "11:43 AM to 12:30 PM",
+    "festivals": [
+      "3rd Chaturmasa Day 27🥛milk prohibition fast",
+      "Sandhi Puja",
+      "Maha Navami",
+      "Saraswati Balidan"
+    ]
+  },
+  "09/10/2027": {
+    "tithi": "Navami upto 09:01 AM",
+    "paksha": "Shukla Paksha",
+    "maas": "Ashwina",
+    "nakshatra": "Uttara Ashadha upto 10:17 AM",
+    "sunrise": "06:16 AM",
+    "sunset": "05:57 PM",
+    "moonrise": "02:29 PM",
+    "moonset": "01:21 AM, Oct 10",
+    "brahmaMuhurta": "04:37 AM to 05:26 AM",
+    "abhijitMuhurta": "11:43 AM to 12:30 PM",
+    "festivals": [
+      "3rd Chaturmasa Day 28🥛milk prohibition fast",
+      "Saraswati Visarjan",
+      "Ayudha Puja",
+      "Durga Balidan",
+      "Vijayadashami",
+      "Dussehra",
+      "Bengal Maha Navami",
+      "South Saraswati Puja",
+      "Buddha Jayanti",
+      "Aparajita Jayanti",
+      "Daksha Savarni Manvadi"
+    ]
+  },
+  "10/10/2027": {
+    "tithi": "Dashami upto 11:40 AM",
+    "paksha": "Shukla Paksha",
+    "maas": "Ashwina",
+    "nakshatra": "Shravana upto 01:25 PM",
+    "sunrise": "06:16 AM",
+    "sunset": "05:56 PM",
+    "moonrise": "03:02 PM",
+    "moonset": "02:15 AM, Oct 11",
+    "brahmaMuhurta": "04:38 AM to 05:27 AM",
+    "abhijitMuhurta": "11:43 AM to 12:29 PM",
+    "festivals": [
+      "3rd Chaturmasa Day 29🥛milk prohibition fast",
+      "Durga Visarjan",
+      "Bengal Vijayadashami",
+      "Vidyarambham Day",
+      "Madhvacharya Jayanti",
+      "Mysore Dasara",
+      "Kashi Bharat Milap"
+    ]
+  },
+  "11/10/2027": {
+    "tithi": "Ekadashi upto 02:08 PM",
+    "paksha": "Shukla Paksha",
+    "maas": "Ashwina",
+    "nakshatra": "Dhanishtha upto 04:21 PM",
+    "sunrise": "06:17 AM",
+    "sunset": "05:55 PM",
+    "moonrise": "03:32 PM",
+    "moonset": "03:08 AM, Oct 12",
+    "brahmaMuhurta": "04:38 AM to 05:27 AM",
+    "abhijitMuhurta": "11:43 AM to 12:29 PM",
+    "festivals": [
+      "3rd Chaturmasa Last Day🥛milk prohibition fast",
+      "Padmanabha Dwadashi",
+      "Papankusha Ekadashi"
+    ]
+  },
+  "12/10/2027": {
+    "tithi": "Dwadashi upto 04:13 PM",
+    "paksha": "Shukla Paksha",
+    "maas": "Ashwina",
+    "nakshatra": "Shatabhisha upto 06:55 PM",
+    "sunrise": "06:17 AM",
+    "sunset": "05:54 PM",
+    "moonrise": "04:01 PM",
+    "moonset": "04:01 AM, Oct 13",
+    "brahmaMuhurta": "04:38 AM to 05:28 AM",
+    "abhijitMuhurta": "11:42 AM to 12:29 PM",
+    "festivals": [
+      "4th Chaturmasa Begins🫘Dwidala prohibition fast",
+      "Papankusha Ekadashi Parana",
+      "Bhauma Pradosh Vrat"
+    ]
+  },
+  "13/10/2027": {
+    "tithi": "Trayodashi upto 05:48 PM",
+    "paksha": "Shukla Paksha",
+    "maas": "Ashwina",
+    "nakshatra": "Purva Bhadrapada upto 08:59 PM",
+    "sunrise": "06:18 AM",
+    "sunset": "05:53 PM",
+    "moonrise": "04:30 PM",
+    "moonset": "04:55 AM, Oct 14",
+    "brahmaMuhurta": "04:39 AM to 05:28 AM",
+    "abhijitMuhurta": "None",
+    "festivals": [
+      "4th Chaturmasa Day 2🫘Dwidala prohibition fast"
+    ]
+  },
+  "14/10/2027": {
+    "tithi": "Chaturdashi upto 06:49 PM",
+    "paksha": "Shukla Paksha",
+    "maas": "Ashwina",
+    "nakshatra": "Uttara Bhadrapada upto 10:30 PM",
+    "sunrise": "06:18 AM",
+    "sunset": "05:52 PM",
+    "moonrise": "05:00 PM",
+    "moonset": "05:50 AM, Oct 15",
+    "brahmaMuhurta": "04:39 AM to 05:29 AM",
+    "abhijitMuhurta": "11:42 AM to 12:28 PM",
+    "festivals": [
+      "4th Chaturmasa Day 3🫘Dwidala prohibition fast",
+      "Kojagara Puja",
+      "Sharad Purnima"
+    ]
+  },
+  "15/10/2027": {
+    "tithi": "Purnima upto 07:16 PM",
+    "paksha": "Shukla Paksha",
+    "maas": "Ashwina",
+    "nakshatra": "Revati upto 11:29 PM",
+    "sunrise": "06:19 AM",
+    "sunset": "05:51 PM",
+    "moonrise": "05:32 PM",
+    "moonset": "No Moonset",
+    "brahmaMuhurta": "04:39 AM to 05:29 AM",
+    "abhijitMuhurta": "11:42 AM to 12:28 PM",
+    "festivals": [
+      "4th Chaturmasa Day 4🫘Dwidala prohibition fast",
+      "Valmiki Jayanti",
+      "Meerabai Jayanti",
+      "Ashwina Navapada Oli Ends",
+      "Ashwina Purnima Vrat",
+      "Ashwina Purnima",
+      "Anvadhan"
+    ]
+  },
+  "16/10/2027": {
+    "tithi": "Pratipada upto 07:12 PM",
+    "paksha": "Krishna Paksha",
+    "maas": "Kartika",
+    "nakshatra": "Ashwini upto 11:58 PM",
+    "sunrise": "06:19 AM",
+    "sunset": "05:50 PM",
+    "moonrise": "06:08 PM",
+    "moonset": "06:48 AM",
+    "brahmaMuhurta": "04:40 AM to 05:30 AM",
+    "abhijitMuhurta": "11:42 AM to 12:28 PM",
+    "festivals": [
+      "4th Chaturmasa Day 5🫘Dwidala prohibition fast",
+      "Kartika Begins *North",
+      "Ishti"
+    ]
+  },
+  "17/10/2027": {
+    "tithi": "Dwitiya upto 06:43 PM",
+    "paksha": "Krishna Paksha",
+    "maas": "Kartika",
+    "nakshatra": "Bharani upto 12:03 AM, Oct 18",
+    "sunrise": "06:20 AM",
+    "sunset": "05:49 PM",
+    "moonrise": "06:48 PM",
+    "moonset": "07:49 AM",
+    "brahmaMuhurta": "04:40 AM to 05:30 AM",
+    "abhijitMuhurta": "11:41 AM to 12:27 PM",
+    "festivals": [
+      "4th Chaturmasa Day 6🫘Dwidala prohibition fast"
+    ]
+  },
+  "18/10/2027": {
+    "tithi": "Tritiya upto 05:51 PM",
+    "paksha": "Krishna Paksha",
+    "maas": "Kartika",
+    "nakshatra": "Krittika upto 11:47 PM",
+    "sunrise": "06:21 AM",
+    "sunset": "05:48 PM",
+    "moonrise": "07:35 PM",
+    "moonset": "08:51 AM",
+    "brahmaMuhurta": "04:40 AM to 05:30 AM",
+    "abhijitMuhurta": "11:41 AM to 12:27 PM",
+    "festivals": [
+      "4th Chaturmasa Day 7🫘Dwidala prohibition fast",
+      "Karwa Chauth",
+      "Atla Tadde",
+      "Tula Sankranti",
+      "Masik Karthigai",
+      "Vakratunda Sankashti"
+    ]
+  },
+  "19/10/2027": {
+    "tithi": "Chaturthi upto 04:42 PM",
+    "paksha": "Krishna Paksha",
+    "maas": "Kartika",
+    "nakshatra": "Rohini upto 11:15 PM",
+    "sunrise": "06:21 AM",
+    "sunset": "05:47 PM",
+    "moonrise": "08:29 PM",
+    "moonset": "09:55 AM",
+    "brahmaMuhurta": "04:41 AM to 05:31 AM",
+    "abhijitMuhurta": "11:41 AM to 12:27 PM",
+    "festivals": [
+      "4th Chaturmasa Day 8🫘Dwidala prohibition fast",
+      "Rohini Vrat"
+    ]
+  },
+  "20/10/2027": {
+    "tithi": "Panchami upto 03:18 PM",
+    "paksha": "Krishna Paksha",
+    "maas": "Kartika",
+    "nakshatra": "Mrigashira upto 10:29 PM",
+    "sunrise": "06:22 AM",
+    "sunset": "05:46 PM",
+    "moonrise": "09:30 PM",
+    "moonset": "10:56 AM",
+    "brahmaMuhurta": "04:41 AM to 05:31 AM",
+    "abhijitMuhurta": "None",
+    "festivals": [
+      "4th Chaturmasa Day 9🫘Dwidala prohibition fast"
+    ]
+  },
+  "21/10/2027": {
+    "tithi": "Shashthi upto 01:42 PM",
+    "paksha": "Krishna Paksha",
+    "maas": "Kartika",
+    "nakshatra": "Ardra upto 09:32 PM",
+    "sunrise": "06:22 AM",
+    "sunset": "05:45 PM",
+    "moonrise": "10:35 PM",
+    "moonset": "11:53 AM",
+    "brahmaMuhurta": "04:42 AM to 05:32 AM",
+    "abhijitMuhurta": "11:41 AM to 12:26 PM",
+    "festivals": [
+      "4th Chaturmasa Day 10🫘Dwidala prohibition fast"
+    ]
+  },
+  "22/10/2027": {
+    "tithi": "Saptami upto 11:55 AM",
+    "paksha": "Krishna Paksha",
+    "maas": "Kartika",
+    "nakshatra": "Punarvasu upto 08:24 PM",
+    "sunrise": "06:23 AM",
+    "sunset": "05:44 PM",
+    "moonrise": "11:41 PM",
+    "moonset": "12:43 PM",
+    "brahmaMuhurta": "04:42 AM to 05:32 AM",
+    "abhijitMuhurta": "11:41 AM to 12:26 PM",
+    "festivals": [
+      "4th Chaturmasa Day 11🫘Dwidala prohibition fast",
+      "Ahoi Ashtami",
+      "Radha Kunda Snan",
+      "Kalashtami",
+      "Masik Krishna Janmashtami"
+    ]
+  },
+  "23/10/2027": {
+    "tithi": "Ashtami upto 09:59 AM",
+    "paksha": "Krishna Paksha",
+    "maas": "Kartika",
+    "nakshatra": "Pushya upto 07:07 PM",
+    "sunrise": "06:24 AM",
+    "sunset": "05:43 PM",
+    "moonrise": "12:48 AM, Oct 24",
+    "moonset": "01:28 PM",
+    "brahmaMuhurta": "04:42 AM to 05:33 AM",
+    "abhijitMuhurta": "11:41 AM to 12:26 PM",
+    "festivals": [
+      "4th Chaturmasa Day 12🫘Dwidala prohibition fast"
+    ]
+  },
+  "24/10/2027": {
+    "tithi": "Navami upto 07:53 AM",
+    "paksha": "Krishna Paksha",
+    "maas": "Kartika",
+    "nakshatra": "Ashlesha upto 05:41 PM",
+    "sunrise": "06:24 AM",
+    "sunset": "05:42 PM",
+    "moonrise": "01:53 AM, Oct 25",
+    "moonset": "02:08 PM",
+    "brahmaMuhurta": "04:43 AM to 05:33 AM",
+    "abhijitMuhurta": "11:41 AM to 12:26 PM",
+    "festivals": [
+      "4th Chaturmasa Day 13🫘Dwidala prohibition fast",
+      "4th Chaturmasa Day 14🫘Dwidala prohibition fast"
+    ]
+  },
+  "25/10/2027": {
+    "tithi": "Ekadashi upto 03:22 AM, Oct 26",
+    "paksha": "Krishna Paksha",
+    "maas": "Kartika",
+    "nakshatra": "Magha upto 04:09 PM",
+    "sunrise": "06:25 AM",
+    "sunset": "05:41 PM",
+    "moonrise": "02:57 AM, Oct 26",
+    "moonset": "02:45 PM",
+    "brahmaMuhurta": "04:43 AM to 05:34 AM",
+    "abhijitMuhurta": "11:41 AM to 12:26 PM",
+    "festivals": [
+      "4th Chaturmasa Day 15🫘Dwidala prohibition fast",
+      "Rama Ekadashi"
+    ]
+  },
+  "26/10/2027": {
+    "tithi": "Dwadashi upto 01:03 AM, Oct 27",
+    "paksha": "Krishna Paksha",
+    "maas": "Kartika",
+    "nakshatra": "Purva Phalguni upto 02:33 PM",
+    "sunrise": "06:25 AM",
+    "sunset": "05:40 PM",
+    "moonrise": "04:00 AM, Oct 27",
+    "moonset": "03:20 PM",
+    "brahmaMuhurta": "04:44 AM to 05:35 AM",
+    "abhijitMuhurta": "11:40 AM to 12:25 PM",
+    "festivals": [
+      "4th Chaturmasa Day 16🫘Dwidala prohibition fast",
+      "Rama Ekadashi Parana",
+      "Krishna Padmanabha Dwadashi",
+      "Govatsa Dwadashi",
+      "Vaishnava Rama Ekadashi"
+    ]
+  },
+  "27/10/2027": {
+    "tithi": "Trayodashi upto 10:49 PM",
+    "paksha": "Krishna Paksha",
+    "maas": "Kartika",
+    "nakshatra": "Uttara Phalguni upto 01:00 PM",
+    "sunrise": "06:26 AM",
+    "sunset": "05:40 PM",
+    "moonrise": "05:03 AM, Oct 28",
+    "moonset": "03:54 PM",
+    "brahmaMuhurta": "04:44 AM to 05:35 AM",
+    "abhijitMuhurta": "None",
+    "festivals": [
+      "4th Chaturmasa Day 17🫘Dwidala prohibition fast",
+      "Dhanteras",
+      "Yama Deepam",
+      "Kali Chaudas",
+      "Hanuman Puja",
+      "Yama Panchaka Begins",
+      "Budha Pradosh Vrat",
+      "Masik Shivaratri"
+    ]
+  },
+  "28/10/2027": {
+    "tithi": "Chaturdashi upto 08:47 PM",
+    "paksha": "Krishna Paksha",
+    "maas": "Kartika",
+    "nakshatra": "Hasta upto 11:35 AM",
+    "sunrise": "06:27 AM",
+    "sunset": "05:39 PM",
+    "moonrise": "06:07 AM, Oct 29",
+    "moonset": "04:30 PM",
+    "brahmaMuhurta": "04:44 AM to 05:36 AM",
+    "abhijitMuhurta": "11:40 AM to 12:25 PM",
+    "festivals": [
+      "4th Chaturmasa Day 18🫘Dwidala prohibition fast",
+      "Narak Chaturdashi",
+      "Tamil Deepavali",
+      "Kali Puja"
+    ]
+  },
+  "29/10/2027": {
+    "tithi": "Amavasya upto 07:05 PM",
+    "paksha": "Krishna Paksha",
+    "maas": "Kartika",
+    "nakshatra": "Chitra upto 10:27 AM",
+    "sunrise": "06:27 AM",
+    "sunset": "05:38 PM",
+    "moonrise": "No Moonrise",
+    "moonset": "05:09 PM",
+    "brahmaMuhurta": "04:45 AM to 05:36 AM",
+    "abhijitMuhurta": "11:40 AM to 12:25 PM",
+    "festivals": [
+      "Lakshmi Puja",
+      "4th Chaturmasa Day 19🫘Dwidala prohibition fast",
+      "Kedar Gauri Vrat",
+      "Diwali",
+      "Chopda Puja",
+      "Sharda Puja",
+      "Deepamalika",
+      "Kamala Jayanti",
+      "Darsha Amavasya",
+      "Anvadhan",
+      "Kartika Amavasya"
+    ]
+  },
+  "30/10/2027": {
+    "tithi": "Pratipada upto 05:51 PM",
+    "paksha": "Shukla Paksha",
+    "maas": "Kartika",
+    "nakshatra": "Swati upto 09:43 AM",
+    "sunrise": "06:28 AM",
+    "sunset": "05:37 PM",
+    "moonrise": "07:11 AM",
+    "moonset": "05:51 PM",
+    "brahmaMuhurta": "04:45 AM to 05:37 AM",
+    "abhijitMuhurta": "11:40 AM to 12:25 PM",
+    "festivals": [
+      "4th Chaturmasa Day 20🫘Dwidala prohibition fast",
+      "Govardhan Puja",
+      "Annakut",
+      "Bali Pratipada",
+      "Dyuta Krida",
+      "Gujarati New Year",
+      "Ishti"
+    ]
+  },
+  "31/10/2027": {
+    "tithi": "Dwitiya upto 05:12 PM",
+    "paksha": "Shukla Paksha",
+    "maas": "Kartika",
+    "nakshatra": "Vishakha upto 09:31 AM",
+    "sunrise": "06:29 AM",
+    "sunset": "05:36 PM",
+    "moonrise": "08:15 AM",
+    "moonset": "06:37 PM",
+    "brahmaMuhurta": "04:46 AM to 05:37 AM",
+    "abhijitMuhurta": "11:40 AM to 12:25 PM",
+    "festivals": [
+      "4th Chaturmasa Day 21🫘Dwidala prohibition fast",
+      "Bhaiya Dooj",
+      "Yama Dwitiya",
+      "Chitragupta Puja",
+      "Chandra Darshana"
+    ]
+  },
+  "01/11/2027": {
+    "tithi": "Tritiya upto 05:15 PM",
+    "paksha": "Shukla Paksha",
+    "maas": "Kartika",
+    "nakshatra": "Anuradha upto 09:57 AM",
+    "sunrise": "06:29 AM",
+    "sunset": "05:36 PM",
+    "moonrise": "09:16 AM",
+    "moonset": "07:29 PM",
+    "brahmaMuhurta": "04:46 AM to 05:38 AM",
+    "abhijitMuhurta": "11:40 AM to 12:25 PM",
+    "festivals": [
+      "4th Chaturmasa Day 22🫘Dwidala prohibition fast"
+    ]
+  },
+  "02/11/2027": {
+    "tithi": "Chaturthi upto 06:01 PM",
+    "paksha": "Shukla Paksha",
+    "maas": "Kartika",
+    "nakshatra": "Jyeshtha upto 11:06 AM",
+    "sunrise": "06:30 AM",
+    "sunset": "05:35 PM",
+    "moonrise": "10:12 AM",
+    "moonset": "08:23 PM",
+    "brahmaMuhurta": "04:47 AM to 05:39 AM",
+    "abhijitMuhurta": "11:40 AM to 12:25 PM",
+    "festivals": [
+      "4th Chaturmasa Day 23🫘Dwidala prohibition fast",
+      "Nagula Chavithi",
+      "Labh Chaturthi"
+    ]
+  },
+  "03/11/2027": {
+    "tithi": "Panchami upto 07:31 PM",
+    "paksha": "Shukla Paksha",
+    "maas": "Kartika",
+    "nakshatra": "Mula upto 12:57 PM",
+    "sunrise": "06:31 AM",
+    "sunset": "05:34 PM",
+    "moonrise": "11:03 AM",
+    "moonset": "09:20 PM",
+    "brahmaMuhurta": "04:47 AM to 05:39 AM",
+    "abhijitMuhurta": "None",
+    "festivals": [
+      "4th Chaturmasa Day 24🫘Dwidala prohibition fast",
+      "Labh Panchami"
+    ]
+  },
+  "04/11/2027": {
+    "tithi": "Shashthi upto 09:37 PM",
+    "paksha": "Shukla Paksha",
+    "maas": "Kartika",
+    "nakshatra": "Purva Ashadha upto 03:25 PM",
+    "sunrise": "06:32 AM",
+    "sunset": "05:34 PM",
+    "moonrise": "11:47 AM",
+    "moonset": "10:16 PM",
+    "brahmaMuhurta": "04:48 AM to 05:40 AM",
+    "abhijitMuhurta": "11:40 AM to 12:25 PM",
+    "festivals": [
+      "4th Chaturmasa Day 25🫘Dwidala prohibition fast",
+      "Soora Samharam",
+      "Chhath Puja",
+      "Skanda Sashti"
+    ]
+  },
+  "05/11/2027": {
+    "tithi": "Saptami upto 12:09 AM, Nov 06",
+    "paksha": "Shukla Paksha",
+    "maas": "Kartika",
+    "nakshatra": "Uttara Ashadha upto 06:19 PM",
+    "sunrise": "06:32 AM",
+    "sunset": "05:33 PM",
+    "moonrise": "12:26 PM",
+    "moonset": "11:12 PM",
+    "brahmaMuhurta": "04:48 AM to 05:40 AM",
+    "abhijitMuhurta": "11:41 AM to 12:25 PM",
+    "festivals": [
+      "4th Chaturmasa Day 26🫘Dwidala prohibition fast",
+      "Jalaram Bapa Jayanti",
+      "Kartika Ashtahnika Begins"
+    ]
+  },
+  "06/11/2027": {
+    "tithi": "Ashtami upto 02:49 AM, Nov 07",
+    "paksha": "Shukla Paksha",
+    "maas": "Kartika",
+    "nakshatra": "Shravana upto 09:26 PM",
+    "sunrise": "06:33 AM",
+    "sunset": "05:32 PM",
+    "moonrise": "01:00 PM",
+    "moonset": "12:06 AM, Nov 07",
+    "brahmaMuhurta": "04:49 AM to 05:41 AM",
+    "abhijitMuhurta": "11:41 AM to 12:25 PM",
+    "festivals": [
+      "4th Chaturmasa Day 27🫘Dwidala prohibition fast",
+      "Gopashtami",
+      "Masik Durgashtami"
+    ]
+  },
+  "07/11/2027": {
+    "tithi": "Navami upto 05:23 AM, Nov 08",
+    "paksha": "Shukla Paksha",
+    "maas": "Kartika",
+    "nakshatra": "Dhanishtha upto 12:29 AM, Nov 08",
+    "sunrise": "06:34 AM",
+    "sunset": "05:32 PM",
+    "moonrise": "01:31 PM",
+    "moonset": "12:59 AM, Nov 08",
+    "brahmaMuhurta": "04:49 AM to 05:42 AM",
+    "abhijitMuhurta": "11:41 AM to 12:25 PM",
+    "festivals": [
+      "4th Chaturmasa Day 28🫘Dwidala prohibition fast",
+      "Akshaya Navami",
+      "Jagaddhatri Puja",
+      "Sata Yuga Diwas"
+    ]
+  },
+  "08/11/2027": {
+    "tithi": "Dashami upto Full Night",
+    "paksha": "Shukla Paksha",
+    "maas": "Kartika",
+    "nakshatra": "Shatabhisha upto 03:13 AM, Nov 09",
+    "sunrise": "06:34 AM",
+    "sunset": "05:31 PM",
+    "moonrise": "02:01 PM",
+    "moonset": "01:51 AM, Nov 09",
+    "brahmaMuhurta": "04:50 AM to 05:42 AM",
+    "abhijitMuhurta": "11:41 AM to 12:25 PM",
+    "festivals": [
+      "4th Chaturmasa Day 29🫘Dwidala prohibition fast",
+      "Kansa Vadh"
+    ]
+  },
+  "09/11/2027": {
+    "tithi": "Dashami upto 07:34 AM",
+    "paksha": "Shukla Paksha",
+    "maas": "Kartika",
+    "nakshatra": "Purva Bhadrapada upto 05:27 AM, Nov 10",
+    "sunrise": "06:35 AM",
+    "sunset": "05:31 PM",
+    "moonrise": "02:29 PM",
+    "moonset": "02:44 AM, Nov 10",
+    "brahmaMuhurta": "04:51 AM to 05:43 AM",
+    "abhijitMuhurta": "11:41 AM to 12:25 PM",
+    "festivals": [
+      "4th Chaturmasa Day 29🫘Dwidala prohibition fast"
+    ]
+  },
+  "10/11/2027": {
+    "tithi": "Ekadashi upto 09:11 AM",
+    "paksha": "Shukla Paksha",
+    "maas": "Kartika",
+    "nakshatra": "Uttara Bhadrapada upto Full Night",
+    "sunrise": "06:36 AM",
+    "sunset": "05:30 PM",
+    "moonrise": "02:59 PM",
+    "moonset": "03:38 AM, Nov 11",
+    "brahmaMuhurta": "04:51 AM to 05:44 AM",
+    "abhijitMuhurta": "None",
+    "festivals": [
+      "Chaturmasa Last Day🫘Dwidala prohibition fast",
+      "Yogeshwara Dwadashi",
+      "Bhishma Panchak Begins",
+      "Devutthana Ekadashi"
+    ]
+  },
+  "11/11/2027": {
+    "tithi": "Dwadashi upto 10:07 AM",
+    "paksha": "Shukla Paksha",
+    "maas": "Kartika",
+    "nakshatra": "Uttara Bhadrapada upto 07:01 AM",
+    "sunrise": "06:37 AM",
+    "sunset": "05:29 PM",
+    "moonrise": "03:30 PM",
+    "moonset": "04:35 AM, Nov 12",
+    "brahmaMuhurta": "04:52 AM to 05:44 AM",
+    "abhijitMuhurta": "11:41 AM to 12:25 PM",
+    "festivals": [
+      "Devutthana Ekadashi Parana",
+      "Tulasi Vivah",
+      "Guru Pradosh Vrat",
+      "Tamasa Manvadi"
+    ]
+  },
+  "12/11/2027": {
+    "tithi": "Trayodashi upto 10:20 AM",
+    "paksha": "Shukla Paksha",
+    "maas": "Kartika",
+    "nakshatra": "Revati upto 07:55 AM",
+    "sunrise": "06:37 AM",
+    "sunset": "05:29 PM",
+    "moonrise": "04:04 PM",
+    "moonset": "05:35 AM, Nov 13",
+    "brahmaMuhurta": "04:52 AM to 05:45 AM",
+    "abhijitMuhurta": "11:41 AM to 12:25 PM",
+    "festivals": [
+      "Vaikuntha Chaturdashi",
+      "Vishweshwara Vrat"
+    ]
+  },
+  "13/11/2027": {
+    "tithi": "Chaturdashi upto 09:55 AM",
+    "paksha": "Shukla Paksha",
+    "maas": "Kartika",
+    "nakshatra": "Ashwini upto 08:10 AM",
+    "sunrise": "06:38 AM",
+    "sunset": "05:28 PM",
+    "moonrise": "04:43 PM",
+    "moonset": "06:38 AM, Nov 14",
+    "brahmaMuhurta": "04:53 AM to 05:46 AM",
+    "abhijitMuhurta": "11:42 AM to 12:25 PM",
+    "festivals": [
+      "Manikarnika Snan",
+      "Dev Diwali",
+      "Kartika Chaumasi Chaudas",
+      "Kartika Purnima Vrat",
+      "Anvadhan"
+    ]
+  },
+  "14/11/2027": {
+    "tithi": "Purnima upto 08:55 AM",
+    "paksha": "Shukla Paksha",
+    "maas": "Kartika",
+    "nakshatra": "Bharani upto 07:51 AM",
+    "sunrise": "06:39 AM",
+    "sunset": "05:28 PM",
+    "moonrise": "05:29 PM",
+    "moonset": "No Moonset",
+    "brahmaMuhurta": "04:53 AM to 05:46 AM",
+    "abhijitMuhurta": "11:42 AM to 12:25 PM",
+    "festivals": [
+      "Bhishma Panchak Ends",
+      "Guru Nanak Jayanti",
+      "Pushkara Snana",
+      "Masik Karthigai",
+      "Kartika Ashtahnika Ends",
+      "Kartika Ratha Yatra",
+      "Kartika Purnima",
+      "Ishti",
+      "Uttama Manvadi"
+    ]
+  },
+  "15/11/2027": {
+    "tithi": "Pratipada upto 07:28 AM",
+    "paksha": "Krishna Paksha",
+    "maas": "Margashirsha",
+    "nakshatra": "Krittika upto 07:05 AM",
+    "sunrise": "06:40 AM",
+    "sunset": "05:28 PM",
+    "moonrise": "06:22 PM",
+    "moonset": "07:43 AM",
+    "brahmaMuhurta": "04:54 AM to 05:47 AM",
+    "abhijitMuhurta": "11:42 AM to 12:25 PM",
+    "festivals": [
+      "Margashirsha Begins *North",
+      "Rohini Vrat"
+    ]
+  },
+  "16/11/2027": {
+    "tithi": "Tritiya upto 03:41 AM, Nov 17",
+    "paksha": "Krishna Paksha",
+    "maas": "Margashirsha",
+    "nakshatra": "Mrigashira upto 04:42 AM, Nov 17",
+    "sunrise": "06:40 AM",
+    "sunset": "05:27 PM",
+    "moonrise": "07:22 PM",
+    "moonset": "08:47 AM",
+    "brahmaMuhurta": "04:55 AM to 05:48 AM",
+    "abhijitMuhurta": "11:42 AM to 12:25 PM",
+    "festivals": []
+  },
+  "17/11/2027": {
+    "tithi": "Chaturthi upto 01:35 AM, Nov 18",
+    "paksha": "Krishna Paksha",
+    "maas": "Margashirsha",
+    "nakshatra": "Ardra upto 03:17 AM, Nov 18",
+    "sunrise": "06:41 AM",
+    "sunset": "05:27 PM",
+    "moonrise": "08:27 PM",
+    "moonset": "09:46 AM",
+    "brahmaMuhurta": "04:55 AM to 05:48 AM",
+    "abhijitMuhurta": "None",
+    "festivals": [
+      "Vrishchika Sankranti",
+      "Mandala Pooja Begins",
+      "Ganadhipa Sankashti"
+    ]
+  },
+  "18/11/2027": {
+    "tithi": "Panchami upto 11:26 PM",
+    "paksha": "Krishna Paksha",
+    "maas": "Margashirsha",
+    "nakshatra": "Punarvasu upto 01:51 AM, Nov 19",
+    "sunrise": "06:42 AM",
+    "sunset": "05:26 PM",
+    "moonrise": "09:34 PM",
+    "moonset": "10:40 AM",
+    "brahmaMuhurta": "04:56 AM to 05:49 AM",
+    "abhijitMuhurta": "11:43 AM to 12:26 PM",
+    "festivals": []
+  },
+  "19/11/2027": {
+    "tithi": "Shashthi upto 09:20 PM",
+    "paksha": "Krishna Paksha",
+    "maas": "Margashirsha",
+    "nakshatra": "Pushya upto 12:27 AM, Nov 20",
+    "sunrise": "06:43 AM",
+    "sunset": "05:26 PM",
+    "moonrise": "10:41 PM",
+    "moonset": "11:27 AM",
+    "brahmaMuhurta": "04:57 AM to 05:50 AM",
+    "abhijitMuhurta": "11:43 AM to 12:26 PM",
+    "festivals": []
+  },
+  "20/11/2027": {
+    "tithi": "Saptami upto 07:17 PM",
+    "paksha": "Krishna Paksha",
+    "maas": "Margashirsha",
+    "nakshatra": "Ashlesha upto 11:07 PM",
+    "sunrise": "06:44 AM",
+    "sunset": "05:26 PM",
+    "moonrise": "11:46 PM",
+    "moonset": "12:09 PM",
+    "brahmaMuhurta": "04:57 AM to 05:50 AM",
+    "abhijitMuhurta": "11:43 AM to 12:26 PM",
+    "festivals": [
+      "Kalabhairav Jayanti",
+      "Kalashtami",
+      "Masik Krishna Janmashtami"
+    ]
+  },
+  "21/11/2027": {
+    "tithi": "Ashtami upto 05:19 PM",
+    "paksha": "Krishna Paksha",
+    "maas": "Margashirsha",
+    "nakshatra": "Magha upto 09:52 PM",
+    "sunrise": "06:44 AM",
+    "sunset": "05:25 PM",
+    "moonrise": "12:49 AM, Nov 22",
+    "moonset": "12:46 PM",
+    "brahmaMuhurta": "04:58 AM to 05:51 AM",
+    "abhijitMuhurta": "11:44 AM to 12:26 PM",
+    "festivals": []
+  },
+  "22/11/2027": {
+    "tithi": "Navami upto 03:28 PM",
+    "paksha": "Krishna Paksha",
+    "maas": "Margashirsha",
+    "nakshatra": "Purva Phalguni upto 08:43 PM",
+    "sunrise": "06:45 AM",
+    "sunset": "05:25 PM",
+    "moonrise": "01:51 AM, Nov 23",
+    "moonset": "01:20 PM",
+    "brahmaMuhurta": "04:58 AM to 05:52 AM",
+    "abhijitMuhurta": "11:44 AM to 12:26 PM",
+    "festivals": []
+  },
+  "23/11/2027": {
+    "tithi": "Dashami upto 01:44 PM",
+    "paksha": "Krishna Paksha",
+    "maas": "Margashirsha",
+    "nakshatra": "Uttara Phalguni upto 07:43 PM",
+    "sunrise": "06:46 AM",
+    "sunset": "05:25 PM",
+    "moonrise": "02:53 AM, Nov 24",
+    "moonset": "01:54 PM",
+    "brahmaMuhurta": "04:59 AM to 05:52 AM",
+    "abhijitMuhurta": "11:44 AM to 12:27 PM",
+    "festivals": []
+  },
+  "24/11/2027": {
+    "tithi": "Ekadashi upto 12:11 PM",
+    "paksha": "Krishna Paksha",
+    "maas": "Margashirsha",
+    "nakshatra": "Hasta upto 06:53 PM",
+    "sunrise": "06:47 AM",
+    "sunset": "05:25 PM",
+    "moonrise": "03:54 AM, Nov 25",
+    "moonset": "02:28 PM",
+    "brahmaMuhurta": "05:00 AM to 05:53 AM",
+    "abhijitMuhurta": "None",
+    "festivals": [
+      "Krishna Yogeshwara Dwadashi",
+      "Utpanna Ekadashi"
+    ]
+  },
+  "25/11/2027": {
+    "tithi": "Dwadashi upto 10:50 AM",
+    "paksha": "Krishna Paksha",
+    "maas": "Margashirsha",
+    "nakshatra": "Chitra upto 06:17 PM",
+    "sunrise": "06:47 AM",
+    "sunset": "05:25 PM",
+    "moonrise": "04:57 AM, Nov 26",
+    "moonset": "03:05 PM",
+    "brahmaMuhurta": "05:00 AM to 05:54 AM",
+    "abhijitMuhurta": "11:45 AM to 12:27 PM",
+    "festivals": [
+      "Utpanna Ekadashi Parana",
+      "Guru Pradosh Vrat"
+    ]
+  },
+  "26/11/2027": {
+    "tithi": "Trayodashi upto 09:47 AM",
+    "paksha": "Krishna Paksha",
+    "maas": "Margashirsha",
+    "nakshatra": "Swati upto 05:59 PM",
+    "sunrise": "06:48 AM",
+    "sunset": "05:24 PM",
+    "moonrise": "06:00 AM, Nov 27",
+    "moonset": "03:45 PM",
+    "brahmaMuhurta": "05:01 AM to 05:55 AM",
+    "abhijitMuhurta": "11:45 AM to 12:28 PM",
+    "festivals": [
+      "Masik Shivaratri"
+    ]
+  },
+  "27/11/2027": {
+    "tithi": "Chaturdashi upto 09:07 AM",
+    "paksha": "Krishna Paksha",
+    "maas": "Margashirsha",
+    "nakshatra": "Vishakha upto 06:05 PM",
+    "sunrise": "06:49 AM",
+    "sunset": "05:24 PM",
+    "moonrise": "No Moonrise",
+    "moonset": "04:29 PM",
+    "brahmaMuhurta": "05:02 AM to 05:55 AM",
+    "abhijitMuhurta": "11:45 AM to 12:28 PM",
+    "festivals": [
+      "Bala Jayanti",
+      "Darsha Amavasya",
+      "Anvadhan"
+    ]
+  },
+  "28/11/2027": {
+    "tithi": "Amavasya upto 08:53 AM",
+    "paksha": "Krishna Paksha",
+    "maas": "Margashirsha",
+    "nakshatra": "Anuradha upto 06:40 PM",
+    "sunrise": "06:50 AM",
+    "sunset": "05:24 PM",
+    "moonrise": "07:02 AM",
+    "moonset": "05:18 PM",
+    "brahmaMuhurta": "05:02 AM to 05:56 AM",
+    "abhijitMuhurta": "11:46 AM to 12:28 PM",
+    "festivals": [
+      "Ishti",
+      "Margashirsha Amavasya"
+    ]
+  },
+  "29/11/2027": {
+    "tithi": "Pratipada upto 09:13 AM",
+    "paksha": "Shukla Paksha",
+    "maas": "Margashirsha",
+    "nakshatra": "Jyeshtha upto 07:47 PM",
+    "sunrise": "06:50 AM",
+    "sunset": "05:24 PM",
+    "moonrise": "08:00 AM",
+    "moonset": "06:12 PM",
+    "brahmaMuhurta": "05:03 AM to 05:57 AM",
+    "abhijitMuhurta": "11:46 AM to 12:28 PM",
+    "festivals": [
+      "Chandra Darshana"
+    ]
+  },
+  "30/11/2027": {
+    "tithi": "Dwitiya upto 10:07 AM",
+    "paksha": "Shukla Paksha",
+    "maas": "Margashirsha",
+    "nakshatra": "Mula upto 09:29 PM",
+    "sunrise": "06:51 AM",
+    "sunset": "05:24 PM",
+    "moonrise": "08:53 AM",
+    "moonset": "07:08 PM",
+    "brahmaMuhurta": "05:04 AM to 05:57 AM",
+    "abhijitMuhurta": "11:47 AM to 12:29 PM",
+    "festivals": []
+  },
+  "01/12/2027": {
+    "tithi": "Tritiya upto 11:39 AM",
+    "paksha": "Shukla Paksha",
+    "maas": "Margashirsha",
+    "nakshatra": "Purva Ashadha upto 11:45 PM",
+    "sunrise": "06:52 AM",
+    "sunset": "05:24 PM",
+    "moonrise": "09:40 AM",
+    "moonset": "08:05 PM",
+    "brahmaMuhurta": "05:04 AM to 05:58 AM",
+    "abhijitMuhurta": "None",
+    "festivals": []
+  },
+  "02/12/2027": {
+    "tithi": "Chaturthi upto 01:43 PM",
+    "paksha": "Shukla Paksha",
+    "maas": "Margashirsha",
+    "nakshatra": "Uttara Ashadha upto 02:29 AM, Dec 03",
+    "sunrise": "06:53 AM",
+    "sunset": "05:24 PM",
+    "moonrise": "10:22 AM",
+    "moonset": "09:01 PM",
+    "brahmaMuhurta": "05:05 AM to 05:59 AM",
+    "abhijitMuhurta": "11:47 AM to 12:29 PM",
+    "festivals": [
+      "Krichchhra Chaturthi"
+    ]
+  },
+  "03/12/2027": {
+    "tithi": "Panchami upto 04:13 PM",
+    "paksha": "Shukla Paksha",
+    "maas": "Margashirsha",
+    "nakshatra": "Shravana upto 05:33 AM, Dec 04",
+    "sunrise": "06:54 AM",
+    "sunset": "05:24 PM",
+    "moonrise": "10:58 AM",
+    "moonset": "09:56 PM",
+    "brahmaMuhurta": "05:06 AM to 06:00 AM",
+    "abhijitMuhurta": "11:48 AM to 12:30 PM",
+    "festivals": [
+      "Vivah Panchami",
+      "Subrahmanya Sashti",
+      "Naga Panchami *Telugu",
+      "Skanda Sashti"
+    ]
+  },
+  "04/12/2027": {
+    "tithi": "Shashthi upto 06:56 PM",
+    "paksha": "Shukla Paksha",
+    "maas": "Margashirsha",
+    "nakshatra": "Dhanishtha upto Full Night",
+    "sunrise": "06:54 AM",
+    "sunset": "05:24 PM",
+    "moonrise": "11:30 AM",
+    "moonset": "10:49 PM",
+    "brahmaMuhurta": "05:06 AM to 06:00 AM",
+    "abhijitMuhurta": "11:48 AM to 12:30 PM",
+    "festivals": [
+      "Champa Shashthi"
+    ]
+  },
+  "05/12/2027": {
+    "tithi": "Saptami upto 09:36 PM",
+    "paksha": "Shukla Paksha",
+    "maas": "Margashirsha",
+    "nakshatra": "Dhanishtha upto 08:41 AM",
+    "sunrise": "06:55 AM",
+    "sunset": "05:24 PM",
+    "moonrise": "12:00 PM",
+    "moonset": "11:41 PM",
+    "brahmaMuhurta": "05:07 AM to 06:01 AM",
+    "abhijitMuhurta": "11:49 AM to 12:31 PM",
+    "festivals": [
+      "Bhanu Saptami"
+    ]
+  },
+  "06/12/2027": {
+    "tithi": "Ashtami upto 11:59 PM",
+    "paksha": "Shukla Paksha",
+    "maas": "Margashirsha",
+    "nakshatra": "Shatabhisha upto 11:40 AM",
+    "sunrise": "06:56 AM",
+    "sunset": "05:24 PM",
+    "moonrise": "12:28 PM",
+    "moonset": "12:33 AM, Dec 07",
+    "brahmaMuhurta": "05:08 AM to 06:02 AM",
+    "abhijitMuhurta": "11:49 AM to 12:31 PM",
+    "festivals": [
+      "Masik Durgashtami"
+    ]
+  },
+  "07/12/2027": {
+    "tithi": "Navami upto 01:50 AM, Dec 08",
+    "paksha": "Shukla Paksha",
+    "maas": "Margashirsha",
+    "nakshatra": "Purva Bhadrapada upto 02:14 PM",
+    "sunrise": "06:56 AM",
+    "sunset": "05:25 PM",
+    "moonrise": "12:57 PM",
+    "moonset": "01:26 AM, Dec 08",
+    "brahmaMuhurta": "05:08 AM to 06:02 AM",
+    "abhijitMuhurta": "11:50 AM to 12:31 PM",
+    "festivals": []
+  },
+  "08/12/2027": {
+    "tithi": "Dashami upto 02:58 AM, Dec 09",
+    "paksha": "Shukla Paksha",
+    "maas": "Margashirsha",
+    "nakshatra": "Uttara Bhadrapada upto 04:12 PM",
+    "sunrise": "06:57 AM",
+    "sunset": "05:25 PM",
+    "moonrise": "01:26 PM",
+    "moonset": "02:21 AM, Dec 09",
+    "brahmaMuhurta": "05:09 AM to 06:03 AM",
+    "abhijitMuhurta": "None",
+    "festivals": []
+  },
+  "09/12/2027": {
+    "tithi": "Ekadashi upto 03:19 AM, Dec 10",
+    "paksha": "Shukla Paksha",
+    "maas": "Margashirsha",
+    "nakshatra": "Revati upto 05:27 PM",
+    "sunrise": "06:58 AM",
+    "sunset": "05:25 PM",
+    "moonrise": "01:59 PM",
+    "moonset": "03:18 AM, Dec 10",
+    "brahmaMuhurta": "05:09 AM to 06:04 AM",
+    "abhijitMuhurta": "11:50 AM to 12:32 PM",
+    "festivals": [
+      "Gita Jayanti",
+      "Guruvayur Ekadashi",
+      "Mokshada Ekadashi"
+    ]
+  },
+  "10/12/2027": {
+    "tithi": "Dwadashi upto 02:53 AM, Dec 11",
+    "paksha": "Shukla Paksha",
+    "maas": "Margashirsha",
+    "nakshatra": "Ashwini upto 05:54 PM",
+    "sunrise": "06:59 AM",
+    "sunset": "05:25 PM",
+    "moonrise": "02:35 PM",
+    "moonset": "04:20 AM, Dec 11",
+    "brahmaMuhurta": "05:10 AM to 06:04 AM",
+    "abhijitMuhurta": "11:51 AM to 12:33 PM",
+    "festivals": [
+      "Mokshada Ekadashi Parana",
+      "Matsya Dwadashi"
+    ]
+  },
+  "11/12/2027": {
+    "tithi": "Trayodashi upto 01:42 AM, Dec 12",
+    "paksha": "Shukla Paksha",
+    "maas": "Margashirsha",
+    "nakshatra": "Bharani upto 05:37 PM",
+    "sunrise": "06:59 AM",
+    "sunset": "05:25 PM",
+    "moonrise": "03:18 PM",
+    "moonset": "05:24 AM, Dec 12",
+    "brahmaMuhurta": "05:11 AM to 06:05 AM",
+    "abhijitMuhurta": "11:51 AM to 12:33 PM",
+    "festivals": [
+      "Shani Trayodashi",
+      "Hanuman Jayanti *Kannada",
+      "Shani Pradosh Vrat"
+    ]
+  },
+  "12/12/2027": {
+    "tithi": "Chaturdashi upto 11:54 PM",
+    "paksha": "Shukla Paksha",
+    "maas": "Margashirsha",
+    "nakshatra": "Krittika upto 04:41 PM",
+    "sunrise": "07:00 AM",
+    "sunset": "05:26 PM",
+    "moonrise": "04:08 PM",
+    "moonset": "06:29 AM, Dec 13",
+    "brahmaMuhurta": "05:11 AM to 06:06 AM",
+    "abhijitMuhurta": "11:52 AM to 12:34 PM",
+    "festivals": [
+      "Karthigai Deepam"
+    ]
+  },
+  "13/12/2027": {
+    "tithi": "Purnima upto 09:38 PM",
+    "paksha": "Shukla Paksha",
+    "maas": "Margashirsha",
+    "nakshatra": "Rohini upto 03:14 PM",
+    "sunrise": "07:01 AM",
+    "sunset": "05:26 PM",
+    "moonrise": "05:06 PM",
+    "moonset": "No Moonset",
+    "brahmaMuhurta": "05:12 AM to 06:06 AM",
+    "abhijitMuhurta": "11:52 AM to 12:34 PM",
+    "festivals": [
+      "Dattatreya Jayanti",
+      "Annapurna Jayanti",
+      "Bhairavi Jayanti",
+      "Rohini Vrat",
+      "Margashirsha Purnima Vrat",
+      "Margashirsha Purnima",
+      "Anvadhan"
+    ]
+  },
+  "14/12/2027": {
+    "tithi": "Pratipada upto 07:01 PM",
+    "paksha": "Krishna Paksha",
+    "maas": "Pausha",
+    "nakshatra": "Mrigashira upto 01:24 PM",
+    "sunrise": "07:01 AM",
+    "sunset": "05:26 PM",
+    "moonrise": "06:11 PM",
+    "moonset": "07:32 AM",
+    "brahmaMuhurta": "05:12 AM to 06:07 AM",
+    "abhijitMuhurta": "11:53 AM to 12:35 PM",
+    "festivals": [
+      "Pausha Begins *North",
+      "Ishti"
+    ]
+  },
+  "15/12/2027": {
+    "tithi": "Dwitiya upto 04:12 PM",
+    "paksha": "Krishna Paksha",
+    "maas": "Pausha",
+    "nakshatra": "Ardra upto 11:21 AM",
+    "sunrise": "07:02 AM",
+    "sunset": "05:27 PM",
+    "moonrise": "07:20 PM",
+    "moonset": "08:31 AM",
+    "brahmaMuhurta": "05:13 AM to 06:07 AM",
+    "abhijitMuhurta": "None",
+    "festivals": []
+  },
+  "16/12/2027": {
+    "tithi": "Tritiya upto 01:21 PM",
+    "paksha": "Krishna Paksha",
+    "maas": "Pausha",
+    "nakshatra": "Punarvasu upto 09:12 AM",
+    "sunrise": "07:02 AM",
+    "sunset": "05:27 PM",
+    "moonrise": "08:30 PM",
+    "moonset": "09:22 AM",
+    "brahmaMuhurta": "05:14 AM to 06:08 AM",
+    "abhijitMuhurta": "11:54 AM to 12:36 PM",
+    "festivals": [
+      "Dhanu Sankranti",
+      "Akhuratha Sankashti"
+    ]
+  },
+  "17/12/2027": {
+    "tithi": "Chaturthi upto 10:34 AM",
+    "paksha": "Krishna Paksha",
+    "maas": "Pausha",
+    "nakshatra": "Pushya upto 07:07 AM",
+    "sunrise": "07:03 AM",
+    "sunset": "05:27 PM",
+    "moonrise": "09:37 PM",
+    "moonset": "10:07 AM",
+    "brahmaMuhurta": "05:14 AM to 06:09 AM",
+    "abhijitMuhurta": "11:54 AM to 12:36 PM",
+    "festivals": []
+  },
+  "18/12/2027": {
+    "tithi": "Panchami upto 07:57 AM",
+    "paksha": "Krishna Paksha",
+    "maas": "Pausha",
+    "nakshatra": "Magha upto 03:30 AM, Dec 19",
+    "sunrise": "07:04 AM",
+    "sunset": "05:28 PM",
+    "moonrise": "10:43 PM",
+    "moonset": "10:46 AM",
+    "brahmaMuhurta": "05:15 AM to 06:09 AM",
+    "abhijitMuhurta": "11:55 AM to 12:36 PM",
+    "festivals": []
+  },
+  "19/12/2027": {
+    "tithi": "Saptami upto 03:33 AM, Dec 20",
+    "paksha": "Krishna Paksha",
+    "maas": "Pausha",
+    "nakshatra": "Purva Phalguni upto 02:06 AM, Dec 20",
+    "sunrise": "07:04 AM",
+    "sunset": "05:28 PM",
+    "moonrise": "11:45 PM",
+    "moonset": "11:22 AM",
+    "brahmaMuhurta": "05:15 AM to 06:10 AM",
+    "abhijitMuhurta": "11:55 AM to 12:37 PM",
+    "festivals": [
+      "Bhanu Saptami"
+    ]
+  },
+  "20/12/2027": {
+    "tithi": "Ashtami upto 01:52 AM, Dec 21",
+    "paksha": "Krishna Paksha",
+    "maas": "Pausha",
+    "nakshatra": "Uttara Phalguni upto 01:04 AM, Dec 21",
+    "sunrise": "07:05 AM",
+    "sunset": "05:29 PM",
+    "moonrise": "12:47 AM, Dec 21",
+    "moonset": "11:56 AM",
+    "brahmaMuhurta": "05:16 AM to 06:10 AM",
+    "abhijitMuhurta": "11:56 AM to 12:37 PM",
+    "festivals": [
+      "Kalashtami",
+      "Masik Krishna Janmashtami"
+    ]
+  },
+  "21/12/2027": {
+    "tithi": "Navami upto 12:34 AM, Dec 22",
+    "paksha": "Krishna Paksha",
+    "maas": "Pausha",
+    "nakshatra": "Hasta upto 12:25 AM, Dec 22",
+    "sunrise": "07:05 AM",
+    "sunset": "05:29 PM",
+    "moonrise": "01:48 AM, Dec 22",
+    "moonset": "12:30 PM",
+    "brahmaMuhurta": "05:16 AM to 06:11 AM",
+    "abhijitMuhurta": "11:56 AM to 12:38 PM",
+    "festivals": []
+  },
+  "22/12/2027": {
+    "tithi": "Dashami upto 11:40 PM",
+    "paksha": "Krishna Paksha",
+    "maas": "Pausha",
+    "nakshatra": "Chitra upto 12:09 AM, Dec 23",
+    "sunrise": "07:06 AM",
+    "sunset": "05:30 PM",
+    "moonrise": "02:50 AM, Dec 23",
+    "moonset": "01:05 PM",
+    "brahmaMuhurta": "05:17 AM to 06:11 AM",
+    "abhijitMuhurta": "None",
+    "festivals": [
+      "Shortest Day of Year"
+    ]
+  },
+  "23/12/2027": {
+    "tithi": "Ekadashi upto 11:11 PM",
+    "paksha": "Krishna Paksha",
+    "maas": "Pausha",
+    "nakshatra": "Swati upto 12:17 AM, Dec 24",
+    "sunrise": "07:06 AM",
+    "sunset": "05:30 PM",
+    "moonrise": "03:51 AM, Dec 24",
+    "moonset": "01:43 PM",
+    "brahmaMuhurta": "05:17 AM to 06:12 AM",
+    "abhijitMuhurta": "11:57 AM to 12:39 PM",
+    "festivals": [
+      "Saphala Ekadashi"
+    ]
+  },
+  "24/12/2027": {
+    "tithi": "Dwadashi upto 11:08 PM",
+    "paksha": "Krishna Paksha",
+    "maas": "Pausha",
+    "nakshatra": "Vishakha upto 12:50 AM, Dec 25",
+    "sunrise": "07:07 AM",
+    "sunset": "05:31 PM",
+    "moonrise": "04:52 AM, Dec 25",
+    "moonset": "02:25 PM",
+    "brahmaMuhurta": "05:18 AM to 06:12 AM",
+    "abhijitMuhurta": "11:58 AM to 12:39 PM",
+    "festivals": [
+      "Saphala Ekadashi Parana",
+      "Krishna Matsya Dwadashi"
+    ]
+  },
+  "25/12/2027": {
+    "tithi": "Trayodashi upto 11:31 PM",
+    "paksha": "Krishna Paksha",
+    "maas": "Pausha",
+    "nakshatra": "Anuradha upto 01:49 AM, Dec 26",
+    "sunrise": "07:07 AM",
+    "sunset": "05:31 PM",
+    "moonrise": "05:51 AM, Dec 26",
+    "moonset": "03:12 PM",
+    "brahmaMuhurta": "05:18 AM to 06:13 AM",
+    "abhijitMuhurta": "11:58 AM to 12:40 PM",
+    "festivals": [
+      "Shani Trayodashi",
+      "Shani Pradosh Vrat",
+      "Masik Shivaratri"
+    ]
+  },
+  "26/12/2027": {
+    "tithi": "Chaturdashi upto 12:22 AM, Dec 27",
+    "paksha": "Krishna Paksha",
+    "maas": "Pausha",
+    "nakshatra": "Jyeshtha upto 03:14 AM, Dec 27",
+    "sunrise": "07:08 AM",
+    "sunset": "05:32 PM",
+    "moonrise": "06:46 AM, Dec 27",
+    "moonset": "04:03 PM",
+    "brahmaMuhurta": "05:19 AM to 06:13 AM",
+    "abhijitMuhurta": "11:59 AM to 12:40 PM",
+    "festivals": []
+  },
+  "27/12/2027": {
+    "tithi": "Amavasya upto 01:41 AM, Dec 28",
+    "paksha": "Krishna Paksha",
+    "maas": "Pausha",
+    "nakshatra": "Mula upto 05:06 AM, Dec 28",
+    "sunrise": "07:08 AM",
+    "sunset": "05:32 PM",
+    "moonrise": "No Moonrise",
+    "moonset": "04:58 PM",
+    "brahmaMuhurta": "05:19 AM to 06:14 AM",
+    "abhijitMuhurta": "11:59 AM to 12:41 PM",
+    "festivals": [
+      "Somavati Amavasya",
+      "Hanuman Jayanti *Tamil",
+      "Mandala Pooja",
+      "Darsha Amavasya",
+      "Anvadhan",
+      "Pausha Amavasya"
+    ]
+  },
+  "28/12/2027": {
+    "tithi": "Pratipada upto 03:28 AM, Dec 29",
+    "paksha": "Shukla Paksha",
+    "maas": "Pausha",
+    "nakshatra": "Purva Ashadha upto Full Night",
+    "sunrise": "07:08 AM",
+    "sunset": "05:33 PM",
+    "moonrise": "07:35 AM",
+    "moonset": "05:55 PM",
+    "brahmaMuhurta": "05:20 AM to 06:14 AM",
+    "abhijitMuhurta": "12:00 PM to 12:41 PM",
+    "festivals": [
+      "Ishti"
+    ]
+  },
+  "29/12/2027": {
+    "tithi": "Dwitiya upto 05:39 AM, Dec 30",
+    "paksha": "Shukla Paksha",
+    "maas": "Pausha",
+    "nakshatra": "Purva Ashadha upto 07:25 AM",
+    "sunrise": "07:09 AM",
+    "sunset": "05:34 PM",
+    "moonrise": "08:18 AM",
+    "moonset": "06:52 PM",
+    "brahmaMuhurta": "05:20 AM to 06:14 AM",
+    "abhijitMuhurta": "None",
+    "festivals": [
+      "Chandra Darshana"
+    ]
+  },
+  "30/12/2027": {
+    "tithi": "Tritiya upto Full Night",
+    "paksha": "Shukla Paksha",
+    "maas": "Pausha",
+    "nakshatra": "Uttara Ashadha upto 10:06 AM",
+    "sunrise": "07:09 AM",
+    "sunset": "05:34 PM",
+    "moonrise": "08:56 AM",
+    "moonset": "07:47 PM",
+    "brahmaMuhurta": "05:20 AM to 06:15 AM",
+    "abhijitMuhurta": "12:01 PM to 12:42 PM",
+    "festivals": []
+  },
+  "31/12/2027": {
+    "tithi": "Tritiya upto 08:11 AM",
+    "paksha": "Shukla Paksha",
+    "maas": "Pausha",
+    "nakshatra": "Shravana upto 01:06 PM",
+    "sunrise": "07:09 AM",
+    "sunset": "05:35 PM",
+    "moonrise": "09:30 AM",
+    "moonset": "08:41 PM",
+    "brahmaMuhurta": "05:21 AM to 06:15 AM",
+    "abhijitMuhurta": "12:01 PM to 12:43 PM",
+    "festivals": [
+      "Vighneshvara Chaturthi"
+    ]
+  }
+}
