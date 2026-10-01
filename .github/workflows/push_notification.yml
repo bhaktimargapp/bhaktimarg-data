@@ -1,14 +1,16 @@
-name: Broadcast Daily Darshan
+name: Broadcast Daily Darshan (Fallback)
 
 on:
-  push:
-    branches:
-      - main
-    paths:
-      - '**/*.jpg'
-      - '**/*.jpeg'
-      - '**/*.png'
-  workflow_dispatch: # THE FIX: This adds a manual "Run" button to GitHub
+  workflow_dispatch:
+    inputs:
+      title:
+        description: 'Notification Title'
+        required: true
+        default: 'Daily Darshan 🌸'
+      body:
+        description: 'Notification Body'
+        required: true
+        default: 'Today''s divine Darshan is now available. Tap to view.'
 
 jobs:
   send-push:
@@ -28,6 +30,8 @@ jobs:
         run: |
           VERSION_SHA="${{ github.sha }}"
           PROJECT_ID="bhakti-marg-app-fb"
+          TITLE="${{ github.event.inputs.title }}"
+          BODY="${{ github.event.inputs.body }}"
           
           curl -X POST "https://fcm.googleapis.com/v1/projects/$PROJECT_ID/messages:send" \
             -H "Authorization: Bearer ${{ steps.auth.outputs.access_token }}" \
@@ -36,11 +40,12 @@ jobs:
               "message": {
                 "topic": "all_users",
                 "notification": {
-                  "title": "Daily Darshan 🌸",
-                  "body": "Today'\''s divine Darshan is now available. Tap to view."
+                  "title": "'"$TITLE"'",
+                  "body": "'"$BODY"'"
                 },
                 "data": {
-                  "new_darshan_version": "'$VERSION_SHA'"
+                  "new_darshan_version": "'$VERSION_SHA'",
+                  "route": "darshan_full"
                 },
                 "android": {
                   "priority": "HIGH"
