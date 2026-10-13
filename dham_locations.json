@@ -3,8 +3,8 @@
     "id": "yamuna_tat",
     "name": "Yamuna Tat (Keshi Ghat)",
     "category": "Vrindavan, UP",
-    "lat": 27.5886,
-    "lon": 77.7029,
+    "lat": 27.5868,
+    "lon": 77.6982,
     "imageUrl": "https://cdn.jsdelivr.net/gh/bhaktimargapp/bhaktimarg-data@main/images/vrindavan_3.jpg",
     "audios": [
       { "id": "ym_1", "title": "Yamuna Ashtakam", "url": "https://cdn.jsdelivr.net/gh/bhaktimargapp/bhaktimarg-data@main/audio/sound1.mp3" },
@@ -15,8 +15,8 @@
     "id": "gopeshwar_mahadev",
     "name": "Shri Gopeshwar Mahadev",
     "category": "Vrindavan, UP",
-    "lat": 27.5866,
-    "lon": 77.7011,
+    "lat": 27.5850,
+    "lon": 77.7030,
     "imageUrl": "https://cdn.jsdelivr.net/gh/bhaktimargapp/bhaktimarg-data@main/images/gopeshwar.jpg",
     "audios": [
       { "id": "gm_1", "title": "Shiva Tandava Stotram", "url": "https://cdn.jsdelivr.net/gh/bhaktimargapp/bhaktimarg-data@main/audio/sound1.mp3" },
@@ -27,8 +27,8 @@
     "id": "rangnath_mandir",
     "name": "Sri Rangnath Mandir",
     "category": "Vrindavan, UP",
-    "lat": 27.5806,
-    "lon": 77.6928,
+    "lat": 27.5823,
+    "lon": 77.7026,
     "imageUrl": "https://cdn.jsdelivr.net/gh/bhaktimargapp/bhaktimarg-data@main/images/rangjivrindavan.jpg",
     "audios": [
       { "id": "rn_1", "title": "Sri Rangji Stotram", "url": "https://cdn.jsdelivr.net/gh/bhaktimargapp/bhaktimarg-data@main/audio/rangji_stotram.mp3" }
@@ -38,8 +38,8 @@
     "id": "nidhivan",
     "name": "Nidhivan",
     "category": "Vrindavan, UP",
-    "lat": 27.5813,
-    "lon": 77.6966,
+    "lat": 27.5841,
+    "lon": 77.6979,
     "imageUrl": "https://cdn.jsdelivr.net/gh/bhaktimargapp/bhaktimarg-data@main/images/nidhivan.jpg",
     "audios": [
       { "id": "nv_1", "title": "Nidhivan Leela Katha", "url": "https://cdn.jsdelivr.net/gh/bhaktimargapp/bhaktimarg-data@main/audio/nidhivan_katha.mp3" }
@@ -49,8 +49,8 @@
     "id": "govardhan",
     "name": "Govardhan Girraj ji",
     "category": "Govardhan, UP",
-    "lat": 27.4975,
-    "lon": 77.4646,
+    "lat": 27.4952,
+    "lon": 77.46427,
     "imageUrl": "https://cdn.jsdelivr.net/gh/bhaktimargapp/bhaktimarg-data@main/images/govardhan.jpg",
     "audios": [
       { "id": "gv_1", "title": "Govardhan Aarti", "url": "https://cdn.jsdelivr.net/gh/bhaktimargapp/bhaktimarg-data@main/audio/govardhan_aarti.mp3" },
@@ -61,8 +61,8 @@
     "id": "radha_kund",
     "name": "Radha Kund",
     "category": "Govardhan, UP",
-    "lat": 27.5255,
-    "lon": 77.4939,
+    "lat": 27.5252,
+    "lon": 77.4913,
     "imageUrl": "https://cdn.jsdelivr.net/gh/bhaktimargapp/bhaktimarg-data@main/images/radhakund.webp",
     "audios": [
       { "id": "rk_1", "title": "Radha Kripa Kataksha", "url": "https://cdn.jsdelivr.net/gh/bhaktimargapp/bhaktimarg-data@main/audio/radha_kripa_kataksha.mp3" }
@@ -72,8 +72,8 @@
     "id": "janmasthan",
     "name": "Shri Krishna Janmasthan",
     "category": "Mathura, UP",
-    "lat": 27.5051,
-    "lon": 77.6710,
+    "lat": 27.5047,
+    "lon": 77.6696,
     "imageUrl": "https://cdn.jsdelivr.net/gh/bhaktimargapp/bhaktimarg-data@main/images/janambhumi.webp",
     "audios": [
       { "id": "jn_1", "title": "Achyutam Keshavam", "url": "https://cdn.jsdelivr.net/gh/bhaktimargapp/bhaktimarg-data@main/audio/achyutam_keshavam.mp3" }
@@ -83,8 +83,8 @@
     "id": "iskcon_vrindavan",
     "name": "ISKCON Vrindavan",
     "category": "Vrindavan, UP",
-    "lat": 27.5724,
-    "lon": 77.6773,
+    "lat": 27.5722,
+    "lon": 77.6774,
     "imageUrl": "https://cdn.jsdelivr.net/gh/bhaktimargapp/bhaktimarg-data@main/images/iskcon.jpg",
     "audios": [
       { "id": "is_1", "title": "Hare Krishna Maha Mantra", "url": "https://cdn.jsdelivr.net/gh/bhaktimargapp/bhaktimarg-data@main/audio/hare_krishna.mp3" }
@@ -94,8 +94,8 @@
     "id": "banke_bihari",
     "name": "Shri Banke Bihari",
     "category": "Vrindavan, UP",
-    "lat": 27.5818,
-    "lon": 77.6917,
+    "lat": 27.5797,
+    "lon": 77.6905,
     "imageUrl": "https://cdn.jsdelivr.net/gh/bhaktimargapp/bhaktimarg-data@main/images/bankebihari_2.jpg",
     "audios": [
       { "id": "bb_1", "title": "Banke Bihari Teri Aarti", "url": "https://cdn.jsdelivr.net/gh/bhaktimargapp/bhaktimarg-data@main/audio/banke_aarti.mp3" },
@@ -106,8 +106,8 @@
     "id": "radha_raman",
     "name": "Radha Raman Ju",
     "category": "Vrindavan, UP",
-    "lat": 27.5835,
-    "lon": 77.6953,
+    "lat": 27.5852,
+    "lon": 77.6987,
     "imageUrl": "https://cdn.jsdelivr.net/gh/bhaktimargapp/bhaktimarg-data@main/images/radha_raman_1.jpg",
     "audios": [
       { "id": "rr_1", "title": "Radha Raman Kirtan", "url": "https://cdn.jsdelivr.net/gh/bhaktimargapp/bhaktimarg-data@main/audio/radha_raman_kirtan.mp3" }
@@ -117,8 +117,8 @@
     "id": "radha_vallabh",
     "name": "Radha Vallabh Ju",
     "category": "Vrindavan, UP",
-    "lat": 27.5819,
-    "lon": 77.6928,
+    "lat": 27.5809,
+    "lon": 77.6917,
     "imageUrl": "https://cdn.jsdelivr.net/gh/bhaktimargapp/bhaktimarg-data@main/images/radha_vallabh_2.jpeg",
     "audios": [
       { "id": "rv_1", "title": "Radha Vallabh Aarti", "url": "https://cdn.jsdelivr.net/gh/bhaktimargapp/bhaktimarg-data@main/audio/radha_vallabh_aarti.mp3" }
@@ -128,8 +128,8 @@
     "id": "govind_dev",
     "name": "Radha Govind Dev Ji",
     "category": "Jaipur, RJ",
-    "lat": 26.9297,
-    "lon": 75.8251,
+    "lat": 26.9288,
+    "lon": 75.8240,
     "imageUrl": "https://cdn.jsdelivr.net/gh/bhaktimargapp/bhaktimarg-data@main/images/govinddev_1.jpg",
     "audios": [
       { "id": "gd_1", "title": "Govind Dev Ji Aarti", "url": "https://cdn.jsdelivr.net/gh/bhaktimargapp/bhaktimarg-data@main/audio/govind_dev_aarti.mp3" }
@@ -139,8 +139,8 @@
     "id": "gopi_nath",
     "name": "Radha Gopi Nath Ji",
     "category": "Jaipur, RJ",
-    "lat": 26.9288,
-    "lon": 75.8242,
+    "lat": 26.9295,
+    "lon": 75.8141,
     "imageUrl": "https://cdn.jsdelivr.net/gh/bhaktimargapp/bhaktimarg-data@main/images/gopinath_1.jpg",
     "audios": [
       { "id": "gn_1", "title": "Radha Gopi Nath Stuti", "url": "https://cdn.jsdelivr.net/gh/bhaktimargapp/bhaktimarg-data@main/audio/gopinath_stuti.mp3" }
@@ -150,8 +150,8 @@
     "id": "madan_mohan",
     "name": "Madan Mohan Ji",
     "category": "Karauli, RJ",
-    "lat": 26.5002,
-    "lon": 77.0253,
+    "lat": 26.4950,
+    "lon": 77.0292,
     "imageUrl": "https://cdn.jsdelivr.net/gh/bhaktimargapp/bhaktimarg-data@main/images/madanmohan_1.jpg",
     "audios": [
       { "id": "mm_1", "title": "Madan Mohan Bhajan", "url": "https://cdn.jsdelivr.net/gh/bhaktimargapp/bhaktimarg-data@main/audio/madan_mohan_bhajan.mp3" }
@@ -161,8 +161,8 @@
     "id": "barsana",
     "name": "Shri Barsana Dham",
     "category": "Barsana, UP",
-    "lat": 27.6468,
-    "lon": 77.3752,
+    "lat": 27.6500,
+    "lon": 77.3733,
     "imageUrl": "https://cdn.jsdelivr.net/gh/bhaktimargapp/bhaktimarg-data@main/images/barsana_1.jpg",
     "audios": [
       { "id": "br_1", "title": "Barsana Ki Hori & Bhajan", "url": "https://cdn.jsdelivr.net/gh/bhaktimargapp/bhaktimarg-data@main/audio/barsana_bhajan.mp3" }
@@ -172,8 +172,8 @@
     "id": "dwarkadhish",
     "name": "Dwarkadhish",
     "category": "Dwarka, GJ",
-    "lat": 22.2377,
-    "lon": 68.9676,
+    "lat": 22.2376,
+    "lon": 68.9673,
     "imageUrl": "https://cdn.jsdelivr.net/gh/bhaktimargapp/bhaktimarg-data@main/images/dwarkadhish_1.jpg",
     "audios": [
       { "id": "dw_1", "title": "Dwarkadhish Aarti", "url": "https://cdn.jsdelivr.net/gh/bhaktimargapp/bhaktimarg-data@main/audio/dwarkadhish_aarti.mp3" }
@@ -183,8 +183,8 @@
     "id": "shrinath_ji",
     "name": "Shrinath Ji",
     "category": "Nathdwara, RJ",
-    "lat": 24.9286,
-    "lon": 73.8152,
+    "lat": 24.9283,
+    "lon": 73.8159,
     "imageUrl": "https://cdn.jsdelivr.net/gh/bhaktimargapp/bhaktimarg-data@main/images/shrinath_1.jpg",
     "audios": [
       { "id": "sn_1", "title": "Shrinathji Stuti", "url": "https://cdn.jsdelivr.net/gh/bhaktimargapp/bhaktimarg-data@main/audio/shrinathji_stuti.mp3" }
@@ -194,7 +194,7 @@
     "id": "jagannath",
     "name": "Jagannath Puri",
     "category": "Puri, OD",
-    "lat": 19.8049,
+    "lat": 19.8050,
     "lon": 85.8179,
     "imageUrl": "https://cdn.jsdelivr.net/gh/bhaktimargapp/bhaktimarg-data@main/images/jagannath_1.jpg",
     "audios": [
@@ -205,8 +205,8 @@
     "id": "badrinath",
     "name": "Badrinath Dham",
     "category": "Uttarakhand",
-    "lat": 30.7447,
-    "lon": 79.4933,
+    "lat": 30.7448,
+    "lon": 79.4912,
     "imageUrl": "https://cdn.jsdelivr.net/gh/bhaktimargapp/bhaktimarg-data@main/images/badrinath_1.jpg",
     "audios": [
       { "id": "bd_1", "title": "Badrinath Aarti", "url": "https://cdn.jsdelivr.net/gh/bhaktimargapp/bhaktimarg-data@main/audio/badrinath_aarti.mp3" }
@@ -216,7 +216,7 @@
     "id": "balaji",
     "name": "Venkateswara (Balaji)",
     "category": "Tirumala, AP",
-    "lat": 13.6833,
+    "lat": 13.6834,
     "lon": 79.3473,
     "imageUrl": "https://cdn.jsdelivr.net/gh/bhaktimargapp/bhaktimarg-data@main/images/venkateswara_1.webp",
     "audios": [
@@ -227,8 +227,8 @@
     "id": "vitthala",
     "name": "Vitthala",
     "category": "Pandharpur, MH",
-    "lat": 17.6775,
-    "lon": 75.3343,
+    "lat": 17.6776,
+    "lon": 75.3350,
     "imageUrl": "https://cdn.jsdelivr.net/gh/bhaktimargapp/bhaktimarg-data@main/images/vitthala_1.jpg",
     "audios": [
       { "id": "vt_1", "title": "Panduranga Stotram", "url": "https://cdn.jsdelivr.net/gh/bhaktimargapp/bhaktimarg-data@main/audio/panduranga_stotram.mp3" }
@@ -239,7 +239,7 @@
     "name": "Rangnath Swamy",
     "category": "Srirangam, TN",
     "lat": 10.8624,
-    "lon": 78.6871,
+    "lon": 78.6898,
     "imageUrl": "https://cdn.jsdelivr.net/gh/bhaktimargapp/bhaktimarg-data@main/images/rangnath_2.jpg",
     "audios": [
       { "id": "rs_1", "title": "Sri Ranganatha Gadyam", "url": "https://cdn.jsdelivr.net/gh/bhaktimargapp/bhaktimarg-data@main/audio/ranganatha_gadyam.mp3" }
@@ -247,10 +247,10 @@
   },
   {
     "id": "ram_janmabhoomi",
-    "name": "Ram Janmabhoomi",
+    "name": "Shree Ram Janmabhoomi",
     "category": "Ayodhya, UP",
-    "lat": 26.7956,
-    "lon": 82.1943,
+    "lat": 26.7958,
+    "lon": 82.1942,
     "imageUrl": "https://cdn.jsdelivr.net/gh/bhaktimargapp/bhaktimarg-data@main/images/ram_1.webp",
     "audios": [
       { "id": "rm_1", "title": "Shri Ram Stuti", "url": "https://cdn.jsdelivr.net/gh/bhaktimargapp/bhaktimarg-data@main/audio/ram_stuti.mp3" },
