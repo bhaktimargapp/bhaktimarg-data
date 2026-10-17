@@ -28,7 +28,7 @@
     "lat": 27.5823,
     "lon": 77.7026,
     "imageUrl": "https://cdn.jsdelivr.net/gh/bhaktimargapp/bhaktimarg-data@main/images/rangjivrindavan.jpg",
-    "audios": [ null ]
+    "audios": []
   },
   {
     "id": "nidhivan",
@@ -37,7 +37,7 @@
     "lat": 27.5841,
     "lon": 77.6979,
     "imageUrl": "https://cdn.jsdelivr.net/gh/bhaktimargapp/bhaktimarg-data@main/images/nidhivan.jpg",
-    "audios": [ null ]
+    "audios": []
   },
   {
     "id": "govardhan",
@@ -46,7 +46,7 @@
     "lat": 27.4952,
     "lon": 77.46427,
     "imageUrl": "https://cdn.jsdelivr.net/gh/bhaktimargapp/bhaktimarg-data@main/images/govardhan.jpg",
-    "audios": [ null ]
+    "audios": []
   },
   {
     "id": "radha_kund",
@@ -55,7 +55,7 @@
     "lat": 27.5252,
     "lon": 77.4913,
     "imageUrl": "https://cdn.jsdelivr.net/gh/bhaktimargapp/bhaktimarg-data@main/images/radhakund.webp",
-    "audios": [ null ]
+    "audios": []
   },
   {
     "id": "janmasthan",
@@ -64,7 +64,7 @@
     "lat": 27.5047,
     "lon": 77.6696,
     "imageUrl": "https://cdn.jsdelivr.net/gh/bhaktimargapp/bhaktimarg-data@main/images/janambhumi.webp",
-    "audios": [ null ]
+    "audios": []
   },
   {
     "id": "iskcon_vrindavan",
@@ -73,7 +73,7 @@
     "lat": 27.5722,
     "lon": 77.6774,
     "imageUrl": "https://cdn.jsdelivr.net/gh/bhaktimargapp/bhaktimarg-data@main/images/iskcon.jpg",
-    "audios": [ null ]
+    "audios": []
   },
   {
     "id": "banke_bihari",
@@ -82,7 +82,7 @@
     "lat": 27.5797,
     "lon": 77.6905,
     "imageUrl": "https://cdn.jsdelivr.net/gh/bhaktimargapp/bhaktimarg-data@main/images/bankebihari_2.jpg",
-    "audios": [ null ]
+    "audios": []
   },
   {
     "id": "radha_raman",
@@ -91,7 +91,7 @@
     "lat": 27.5852,
     "lon": 77.6987,
     "imageUrl": "https://cdn.jsdelivr.net/gh/bhaktimargapp/bhaktimarg-data@main/images/radha_raman_1.jpg",
-    "audios": [ null ]
+    "audios": []
   },
   {
     "id": "radha_vallabh",
@@ -100,7 +100,7 @@
     "lat": 27.5809,
     "lon": 77.6917,
     "imageUrl": "https://cdn.jsdelivr.net/gh/bhaktimargapp/bhaktimarg-data@main/images/radha_vallabh_2.jpeg",
-    "audios": [ null ]
+    "audios": []
   },
   {
     "id": "govind_dev",
@@ -109,7 +109,7 @@
     "lat": 26.9288,
     "lon": 75.8240,
     "imageUrl": "https://cdn.jsdelivr.net/gh/bhaktimargapp/bhaktimarg-data@main/images/govinddev_1.jpg",
-    "audios": [ null ]
+    "audios": []
   },
   {
     "id": "gopi_nath",
@@ -118,7 +118,7 @@
     "lat": 26.9295,
     "lon": 75.8141,
     "imageUrl": "https://cdn.jsdelivr.net/gh/bhaktimargapp/bhaktimarg-data@main/images/gopinath_1.jpg",
-    "audios": [ null ]
+    "audios": []
   },
   {
     "id": "madan_mohan",
@@ -127,7 +127,7 @@
     "lat": 26.4950,
     "lon": 77.0292,
     "imageUrl": "https://cdn.jsdelivr.net/gh/bhaktimargapp/bhaktimarg-data@main/images/madanmohan_1.jpg",
-    "audios": [ null ]
+    "audios": []
   },
   {
     "id": "barsana",
@@ -136,7 +136,7 @@
     "lat": 27.6500,
     "lon": 77.3733,
     "imageUrl": "https://cdn.jsdelivr.net/gh/bhaktimargapp/bhaktimarg-data@main/images/barsana_1.jpg",
-    "audios": [ null ]
+    "audios": []
   },
   {
     "id": "dwarkadhish",
@@ -145,7 +145,7 @@
     "lat": 22.2376,
     "lon": 68.9673,
     "imageUrl": "https://cdn.jsdelivr.net/gh/bhaktimargapp/bhaktimarg-data@main/images/dwarkadhish_1.jpg",
-    "audios": [ null ]
+    "audios": []
   },
   {
     "id": "shrinath_ji",
@@ -154,7 +154,7 @@
     "lat": 24.9283,
     "lon": 73.8159,
     "imageUrl": "https://cdn.jsdelivr.net/gh/bhaktimargapp/bhaktimarg-data@main/images/shrinath_1.jpg",
-    "audios": [ null ]
+    "audios": []
   },
   {
     "id": "jagannath",
@@ -163,7 +163,7 @@
     "lat": 19.8050,
     "lon": 85.8179,
     "imageUrl": "https://cdn.jsdelivr.net/gh/bhaktimargapp/bhaktimarg-data@main/images/jagannath_1.jpg",
-    "audios": [ null ]
+    "audios": []
   },
   {
     "id": "badrinath",
@@ -172,7 +172,7 @@
     "lat": 30.7448,
     "lon": 79.4912,
     "imageUrl": "https://cdn.jsdelivr.net/gh/bhaktimargapp/bhaktimarg-data@main/images/badrinath_1.jpg",
-    "audios": [ null ]
+    "audios": []
   },
   {
     "id": "balaji",
@@ -181,7 +181,7 @@
     "lat": 13.6834,
     "lon": 79.3473,
     "imageUrl": "https://cdn.jsdelivr.net/gh/bhaktimargapp/bhaktimarg-data@main/images/venkateswara_1.webp",
-    "audios": [ null ]
+    "audios": []
   },
   {
     "id": "vitthala",
@@ -190,7 +190,7 @@
     "lat": 17.6776,
     "lon": 75.3350,
     "imageUrl": "https://cdn.jsdelivr.net/gh/bhaktimargapp/bhaktimarg-data@main/images/vitthala_1.jpg",
-    "audios": [ null ]
+    "audios": []
   },
   {
     "id": "rangnath_swamy",
@@ -199,7 +199,7 @@
     "lat": 10.8624,
     "lon": 78.6898,
     "imageUrl": "https://cdn.jsdelivr.net/gh/bhaktimargapp/bhaktimarg-data@main/images/rangnath_2.jpg",
-    "audios": [ null ]
+    "audios": []
   },
   {
     "id": "ram_janmabhoomi",
@@ -208,6 +208,6 @@
     "lat": 26.7958,
     "lon": 82.1942,
     "imageUrl": "https://cdn.jsdelivr.net/gh/bhaktimargapp/bhaktimarg-data@main/images/ram_1.webp",
-    "audios": [ null ]
+    "audios": []
   }
 ]
