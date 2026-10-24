@@ -78,10 +78,59 @@
     "pdfUrl": "https://vedpuran.net/wp-content/uploads/2021/05/vraja-mandala-parikrama-2ed-hindi.pdf"
   },
   {
+    "id": "shri_hari_bhakti_vilas",
+    "title": "Sri Hari Bhakti Vilās",
+    "author": "Srila Sanatana Goswami",
+    "category": "Vaishnav Granth",
+    "pdfUrl": "https://padmanabhdas.wordpress.com/wp-content/uploads/2014/12/hari-bhakti-vilas-syama-nanda-prabhu.pdf"
+  },
+  {
     "id": "damodar_ashtakam",
     "title": "Damodar Ashtakam",
     "author": "Satyavrata Muni",
     "category": "Stotra",
     "pdfUrl": "https://cdn.fliplink.me/pdfs/252034/6d625861~Damodar%20Ashtakam.pdf"
+  },
+  {
+    "id": "yamuna_ashtakam_1",
+    "title": "Yamuna Ashtakam",
+    "author": "Mahaprabhu Vallabhacharya",
+    "category": "Stotra",
+    "pdfUrl": "https://chitrakutdhamtalgajarda.org/wp-content/uploads/2020/10/Yamunashtakam-Hindi.pdf"
+  },
+  {
+    "id": "yamuna_ashtakam_2",
+    "title": "Yamuna Ashtakam",
+    "author": "Shri Hit Harivansh Mahaprabhu",
+    "category": "Stotra",
+    "pdfUrl": "https://vrindavanrasmahima.com/download/Shri-Yamunashtak.pdf"
+  },
+  {
+    "id": "shiv_tandav",
+    "title": "Shiv Tandav Stotra",
+    "author": "Ravan",
+    "category": "Stotra",
+    "pdfUrl": "https://chitrakutdhamtalgajarda.org/wp-content/uploads/2020/10/Shiv-Tandav-Stotra-Hindi.pdf"
+  },
+  {
+    "id": "madhurashtakam",
+    "title": "Madhurashtakam",
+    "author": "Mahaprabhu Srimad Vallabhacharya",
+    "category": "Stotra",
+    "pdfUrl": "https://chitrakutdhamtalgajarda.org/wp-content/uploads/2020/10/Madhurashtakam-Hindi.pdf"
+  },
+  {
+    "id": "rudrashtak",
+    "title": "Rudrashtak",
+    "author": "Goswami Tulsidas",
+    "category": "Stotra",
+    "pdfUrl": "https://chitrakutdhamtalgajarda.org/wp-content/uploads/2020/10/Rudrashtak-Hindi.pdf"
+  },
+  {
+    "id": "gopi_geet",
+    "title": "Gopi Geet",
+    "author": "Maharishi Vyasadeva",
+    "category": "Geet",
+    "pdfUrl": "https://chitrakutdhamtalgajarda.org/wp-content/uploads/2020/10/Gopi-Geet-Hindi.pdf"
   },
 ]
